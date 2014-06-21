@@ -87,7 +87,7 @@ function frm_usloc_settings(){
     $frm_version = method_exists('FrmAppHelper', 'plugin_version') ? FrmAppHelper::plugin_version() : 0;
     
     // check if Formidable meets minimum requirements
-    if ( version_compare($frm_version, $min_version, '>=') ) {
+    if ( version_compare($frm_version, $min_version, '<') ) {
     ?>
 <div class="with_frm_style" id="frm_usloc_install_message" style="margin:15px 0;line-height:2.5em;"><span class="frm_message" style="padding:7px;"><?php _e('Your version of Formidable does not support this add-on. Please update Formidable.', 'formidable') ?></span></div>
     <?php
