@@ -1,0 +1,3979 @@
+statename,stateabbreviation,country
+Alaska,AK,US
+Alabama,AL,US
+Arkansas,AR,US
+Arizona,AZ,US
+California,CA,US
+Colorado,CO,US
+Connecticut,CT,US
+District of Columbia,DC,US
+Delaware,DE,US
+Florida,FL,US
+Georgia,GA,US
+Hawaii,HI,US
+Iowa,IA,US
+Idaho,ID,US
+Illinois,IL,US
+Indiana,IN,US
+Kansas,KS,US
+Kentucky,KY,US
+Louisiana,LA,US
+Massachusetts,MA,US
+Maryland,MD,US
+Maine,ME,US
+Michigan,MI,US
+Minnesota,MN,US
+Missouri,MO,US
+Mississippi,MS,US
+Montana,MT,US
+North Carolina,NC,US
+North Dakota,ND,US
+Nebraska,NE,US
+New Hampshire,NH,US
+New Jersey,NJ,US
+New Mexico,NM,US
+Nevada,NV,US
+New York,NY,US
+Ohio,OH,US
+Oklahoma,OK,US
+Oregon,OR,US
+Pennsylvania,PA,US
+Rhode Island,RI,US
+South Carolina,SC,US
+South Dakota,SD,US
+Tennessee,TN,US
+Texas,TX,US
+Utah,UT,US
+Virginia,VA,US
+Vermont,VT,US
+Washington,WA,US
+Wisconsin,WI,US
+West Virginia,WV,US
+Wyoming,WY,US
+American Samoa,AS,US
+Virgin Islands of the U.S.,VI,US
+Guam,GU,US
+Northern Mariana Islands,MP,US
+Puerto Rico,PR,US
+U.S. Minor Outlying Islands,UM,US
+Andorra la Vella,AD-ALV,AD
+Canillo,AD-CAN,AD
+Encamp,AD-ENC,AD
+Escaldes-Engordany,AD-ESE,AD
+La Massana,AD-LMA,AD
+Ordino,AD-ORD,AD
+Sant Julia de LOA,AD-SJL,AD
+Ajman,AE-AJ,AE
+Abu Zaby,AE-AZ,AE
+Dubayy,AE-DU,AE
+Al Fujayrah,AE-FU,AE
+R as al Khaymah,AE-RK,AE
+Ash Shariqah,AE-SH,AE
+Umm al Qaywayn,AE-UQ,AE
+Balkh province,AF-BAL,AF
+Bamian province,AF-BAM,AF
+Badghis province,AF-BDG,AF
+Badakhshan province,AF-BDS,AF
+Baghlan province,AF-BGL,AF
+Farah province,AF-FRA,AF
+Faryab province,AF-FYB,AF
+Ghazni province,AF-GHA,AF
+Ghowr province,AF-GHO,AF
+Helmand province,AF-HEL,AF
+Herat province,AF-HER,AF
+Jowzjan province,AF-JOW,AF
+Kabul province,AF-KAB,AF
+Kandahar province,AF-KAN,AF
+Kapisa province,AF-KAP,AF
+Kondoz province,AF-KDZ,AF
+Khost province,AF-KHO,AF
+Konar province,AF-KNR,AF
+Laghman province,AF-LAG,AF
+Lowgar province,AF-LOW,AF
+Nangrahar province,AF-NAN,AF
+Nimruz province,AF-NIM,AF
+Nurestan province,AF-NUR,AF
+Oruzgan province,AF-ORU,AF
+Parwan province,AF-PAR,AF
+Paktia province,AF-PIA,AF
+Paktika province,AF-PKA,AF
+Samangan province,AF-SAM,AF
+Sar-e Pol province,AF-SAR,AF
+Takhar province,AF-TAK,AF
+Wardak province,AF-WAR,AF
+Zabol province,AF-ZAB,AF
+Saint George,AG-ASG,AG
+Saint Philip,AG-ASH,AG
+Saint John,AG-ASJ,AG
+Saint Paul,AG-ASL,AG
+Saint Mary,AG-ASM,AG
+Saint Peter,AG-ASR,AG
+Barbuda,AG-BAR,AG
+Redonda,AG-RED,AG
+Berat,AL-BR,AL
+Bulqize,AL-BU,AL
+Diber,AL-DI,AL
+Delvine,AL-DL,AL
+Durres,AL-DR,AL
+Devoll,AL-DV,AL
+Elbasan,AL-EL,AL
+Kolonje,AL-ER,AL
+Fier,AL-FR,AL
+Gjirokaster,AL-GJ,AL
+Gramsh,AL-GR,AL
+Has,AL-HA,AL
+Kavaje,AL-KA,AL
+Kurbin,AL-KB,AL
+Kucove,AL-KC,AL
+Korce,AL-KO,AL
+Kruje,AL-KR,AL
+Kukes,AL-KU,AL
+Librazhd,AL-LB,AL
+Lezhe,AL-LE,AL
+Lushnje,AL-LU,AL
+Mallakaster,AL-MK,AL
+Malesi e Madhe,AL-MM,AL
+Mirdite,AL-MR,AL
+Mat,AL-MT,AL
+Pogradec,AL-PG,AL
+Peqin,AL-PQ,AL
+Permet,AL-PR,AL
+Puke,AL-PU,AL
+Shkoder,AL-SH,AL
+Skrapar,AL-SK,AL
+Sarande,AL-SR,AL
+Tepelene,AL-TE,AL
+Tropoje,AL-TP,AL
+Tirane,AL-TR,AL
+Vlore,AL-VL,AL
+Aragatsotn,AM-AGT,AM
+Armavir,AM-ARM,AM
+Ararat,AM-ARR,AM
+Geghark unik,AM-GEG,AM
+Kotayk,AM-KOT,AM
+Lorri,AM-LOR,AM
+Shirak,AM-SHI,AM
+Syunik,AM-SYU,AM
+Tavush,AM-TAV,AM
+Vayots Dzor,AM-VAY,AM
+Yerevan,AM-YER,AM
+Bengo,AO-BGO,AO
+Benguela province,AO-BGU,AO
+Bie,AO-BIE,AO
+Cabinda,AO-CAB,AO
+Cuando-Cubango,AO-CCU,AO
+Cunene,AO-CNN,AO
+Cuanza Norte,AO-CNO,AO
+Cuanza Sul,AO-CUS,AO
+Huambo province,AO-HUA,AO
+Huila province,AO-HUI,AO
+Lunda Norte,AO-LNO,AO
+Lunda Sul,AO-LSU,AO
+Luanda,AO-LUA,AO
+Malange,AO-MAL,AO
+Moxico,AO-MOX,AO
+Namibe,AO-NAM,AO
+Uige,AO-UIG,AO
+Zaire,AO-ZAI,AO
+Salta,AR-A,AR
+Buenos Aires Province,AR-B,AR
+Distrito Federal,AR-C,AR
+San Luis,AR-D,AR
+Entre Rios,AR-E,AR
+La Rioja,AR-F,AR
+Santiago del Estero,AR-G,AR
+Chaco,AR-H,AR
+San Juan,AR-J,AR
+Catamarca,AR-K,AR
+La Pampa,AR-L,AR
+Mendoza,AR-M,AR
+Misiones,AR-N,AR
+Formosa,AR-P,AR
+Neuquen,AR-Q,AR
+Rio Negro,AR-R,AR
+Santa Fe,AR-S,AR
+Tucuman,AR-T,AR
+Chubut,AR-U,AR
+Tierra del Fuego,AR-V,AR
+Corrientes,AR-W,AR
+Cordoba,AR-X,AR
+Jujuy,AR-Y,AR
+Santa Cruz,AR-Z,AR
+Eastern,AS-E,AS
+Manu a,AS-M,AS
+Rose Island,AS-R,AS
+Swains Island,AS-S,AS
+Western,AS-W,AS
+Burgenland,AT-BUR,AT
+Karnten,AT-KAR,AT
+Niederosterreich,AT-NOS,AT
+Oberosterreich,AT-OOS,AT
+Salzburg,AT-SAL,AT
+Steiermark,AT-STE,AT
+Tirol,AT-TIR,AT
+Vorarlberg,AT-VOR,AT
+Wien,AT-WIE,AT
+Australian Capital Territory,AU-ACT,AU
+New South Wales,AU-NSW,AU
+Northern Territory,AU-NT,AU
+Queensland,AU-QLD,AU
+South Australia,AU-SA,AU
+Tasmania,AU-TAS,AU
+Victoria,AU-VIC,AU
+Western Australia,AU-WA,AU
+Ali Bayramli,AZ-AB,AZ
+Abseron,AZ-ABS,AZ
+Agstafa,AZ-AGA,AZ
+AgcabAdi,AZ-AGC,AZ
+Agdam,AZ-AGM,AZ
+Agdas,AZ-AGS,AZ
+Agsu,AZ-AGU,AZ
+Astara,AZ-AST,AZ
+Baki,AZ-BA,AZ
+Babak,AZ-BAB,AZ
+Balakan,AZ-BAL,AZ
+Barda,AZ-BAR,AZ
+Beylaqan,AZ-BEY,AZ
+Bilasuvar,AZ-BIL,AZ
+Cabrayil,AZ-CAB,AZ
+Calilabab,AZ-CAL,AZ
+Culfa,AZ-CUL,AZ
+Daskasan,AZ-DAS,AZ
+Davaci,AZ-DAV,AZ
+Fuzuli,AZ-FUZ,AZ
+Ganca,AZ-GA,AZ
+Gadabay,AZ-GAD,AZ
+Goranboy,AZ-GOR,AZ
+Goycay,AZ-GOY,AZ
+Haciqabul,AZ-HAC,AZ
+Imisli,AZ-IMI,AZ
+Ismayilli,AZ-ISM,AZ
+Kalbacar,AZ-KAL,AZ
+Kurdamir,AZ-KUR,AZ
+Lacin,AZ-LAC,AZ
+Lankaran,AZ-LAN,AZ
+Lerik,AZ-LER,AZ
+Masalli,AZ-MAS,AZ
+Mingacevir,AZ-MI,AZ
+Naftalan,AZ-NA,AZ
+Neftcala,AZ-NEF,AZ
+Naxcivan,AZ-NX,AZ
+Oguz,AZ-OGU,AZ
+Ordubad,AZ-ORD,AZ
+Qabala,AZ-QAB,AZ
+Qax,AZ-QAX,AZ
+Qazax,AZ-QAZ,AZ
+Quba,AZ-QBA,AZ
+Qubadli,AZ-QBI,AZ
+Qobustan,AZ-QOB,AZ
+Qusar,AZ-QUS,AZ
+Saki,AZ-SA,AZ
+Sabirabad,AZ-SAB,AZ
+Sadarak,AZ-SAD,AZ
+Sahbuz,AZ-SAH,AZ
+Saki,AZ-SAK,AZ
+Salyan,AZ-SAL,AZ
+Sarur,AZ-SAR,AZ
+Saatli,AZ-SAT,AZ
+Siyazan,AZ-SIY,AZ
+Samkir,AZ-SKR,AZ
+Sumqayit,AZ-SM,AZ
+Samaxi,AZ-SMI,AZ
+Samux,AZ-SMX,AZ
+Susa,AZ-SS,AZ
+Susa,AZ-SUS,AZ
+Tartar,AZ-TAR,AZ
+Tovuz,AZ-TOV,AZ
+Ucar,AZ-UCA,AZ
+Xankandi,AZ-XA,AZ
+Xacmaz,AZ-XAC,AZ
+Xanlar,AZ-XAN,AZ
+Xocali,AZ-XCI,AZ
+Xizi,AZ-XIZ,AZ
+Xocavand,AZ-XVD,AZ
+Yardimli,AZ-YAR,AZ
+Yevlax,AZ-YEV,AZ
+Zangilan,AZ-ZAN,AZ
+Zaqatala,AZ-ZAQ,AZ
+Zardab,AZ-ZAR,AZ
+Brcko district,BA-BRO,BA
+Bosanskopodrinjski Kanton,BA-FBP,BA
+Hercegovacko-neretvanski Kanton,BA-FHN,BA
+Posavski Kanton,BA-FPO,BA
+Kanton Sarajevo,BA-FSA,BA
+Srednjebosanski Kanton,BA-FSB,BA
+Tuzlanski Kanton,BA-FTU,BA
+Unsko-Sanski Kanton,BA-FUS,BA
+Zapadnobosanska,BA-FZA,BA
+Zenicko-Dobojski Kanton,BA-FZE,BA
+Zapadnohercegovacka Zupanija,BA-FZH,BA
+Bijeljina,BA-SBI,BA
+Banja Luka,BA-SBL,BA
+Doboj,BA-SDO,BA
+Foca,BA-SFO,BA
+Sarajevo-Romanija or Sokolac,BA-SSR,BA
+Trebinje,BA-STR,BA
+Vlasenica,BA-SVL,BA
+Saint Andrew,BB-AND,BB
+Christ Church,BB-CC,BB
+Saint George,BB-GEO,BB
+Saint James,BB-JAM,BB
+Saint John,BB-JOH,BB
+Saint Joseph,BB-JOS,BB
+Saint Lucy,BB-LUC,BB
+Saint Michael,BB-MIC,BB
+Saint Peter,BB-PET,BB
+Saint Philip,BB-PHI,BB
+Saint Thomas,BB-THO,BB
+Barisal,BD-BAR,BD
+Chittagong,BD-CHI,BD
+Dhaka,BD-DHA,BD
+Khulna,BD-KHU,BD
+Rajshahi,BD-RAJ,BD
+Sylhet,BD-SYL,BD
+Antwerpen,BE-VAN,BE
+Vlaams Brabant,BE-VBR,BE
+Limburg,BE-VLI,BE
+Oost-Vlaanderen,BE-VOV,BE
+West-Vlaanderen,BE-VWV,BE
+Brabant Wallon,BE-WBR,BE
+Hainaut,BE-WHT,BE
+Liege,BE-WLG,BE
+Luxembourg,BE-WLX,BE
+Namur,BE-WNA,BE
+Bale,BF-BAL,BF
+Bam,BF-BAM,BF
+Banwa,BF-BAN,BF
+Bazega,BF-BAZ,BF
+Boulgou,BF-BLG,BF
+Boulkiemde,BF-BOK,BF
+Bougouriba,BF-BOR,BF
+Comoe,BF-COM,BF
+Ganzourgou,BF-GAN,BF
+Gnagna,BF-GNA,BF
+Gourma,BF-GOU,BF
+Houet,BF-HOU,BF
+Ioba,BF-IOA,BF
+Kadiogo,BF-KAD,BF
+Kenedougou,BF-KEN,BF
+Komondjari,BF-KOD,BF
+Koulpelogo,BF-KOL,BF
+Kompienga,BF-KOP,BF
+Kossi,BF-KOS,BF
+Kouritenga,BF-KOT,BF
+Kourweogo,BF-KOW,BF
+Leraba,BF-LER,BF
+Loroum,BF-LOR,BF
+Mouhoun,BF-MOU,BF
+Nahouri,BF-NAH,BF
+Namentenga,BF-NAM,BF
+Nayala,BF-NAY,BF
+Noumbiel,BF-NOU,BF
+Oubritenga,BF-OUB,BF
+Oudalan,BF-OUD,BF
+Passore,BF-PAS,BF
+Poni,BF-PON,BF
+Sanguie,BF-SAG,BF
+Sanmatenga,BF-SAM,BF
+Seno,BF-SEN,BF
+Sissili,BF-SIS,BF
+Soum,BF-SOM,BF
+Sourou,BF-SOR,BF
+Tapoa,BF-TAP,BF
+Tuy,BF-TUY,BF
+Yagha,BF-YAG,BF
+Yatenga,BF-YAT,BF
+Ziro,BF-ZIR,BF
+Zondoma,BF-ZOD,BF
+Zoundweogo,BF-ZOW,BF
+Blagoevgrad,BG-01,BG
+Burgas,BG-02,BG
+Varna,BG-03,BG
+Veliko Turnovo,BG-04,BG
+Vidin,BG-05,BG
+Vratsa,BG-06,BG
+Gabrovo,BG-07,BG
+Dobrich,BG-08,BG
+Kurdzhali,BG-09,BG
+Kyustendil,BG-10,BG
+Lovech,BG-11,BG
+Montana,BG-12,BG
+Pazardzhik,BG-13,BG
+Pernik,BG-14,BG
+Pleven,BG-15,BG
+Plovdiv,BG-16,BG
+Razgrad,BG-17,BG
+Ruse,BG-18,BG
+Silistra,BG-19,BG
+Sliven,BG-20,BG
+Smolyan,BG-21,BG
+Sofia Region,BG-22,BG
+Sofia,BG-23,BG
+Stara Zagora,BG-24,BG
+Turgovishte,BG-25,BG
+Khaskovo,BG-26,BG
+Shumen,BG-27,BG
+Yambol,BG-28,BG
+Capital,BH-CAP,BH
+Central,BH-CEN,BH
+Muharraq,BH-MUH,BH
+Northern,BH-NOR,BH
+Southern,BH-SOU,BH
+Bubanza,BI-BB,BI
+Bujumbura,BI-BJ,BI
+Bururi,BI-BR,BI
+Cankuzo,BI-CA,BI
+Cibitoke,BI-CI,BI
+Gitega,BI-GI,BI
+Kirundo,BI-KI,BI
+Karuzi,BI-KR,BI
+Kayanza,BI-KY,BI
+Makamba,BI-MA,BI
+Muramvya,BI-MU,BI
+Mwaro,BI-MW,BI
+Muyinga,BI-MY,BI
+Ngozi,BI-NG,BI
+Rutana,BI-RT,BI
+Ruyigi,BI-RY,BI
+Atakora,BJ-AK,BJ
+Alibori,BJ-AL,BJ
+Atlantique,BJ-AQ,BJ
+Borgou,BJ-BO,BJ
+Collines,BJ-CO,BJ
+Donga,BJ-DO,BJ
+Kouffo,BJ-KO,BJ
+Littoral,BJ-LI,BJ
+Mono,BJ-MO,BJ
+Oueme,BJ-OU,BJ
+Plateau,BJ-PL,BJ
+Zou,BJ-ZO,BJ
+Devonshire,BM-DS,BM
+Saint George City,BM-GC,BM
+Hamilton,BM-HA,BM
+Hamilton City,BM-HC,BM
+Pembroke,BM-PB,BM
+Paget,BM-PG,BM
+Sandys,BM-SA,BM
+Saint Georges,BM-SG,BM
+Southampton,BM-SH,BM
+Smiths,BM-SM,BM
+Warwick,BM-WA,BM
+Belait,BN-BEL,BN
+Brunei and Muara,BN-BRM,BN
+Temburong,BN-TEM,BN
+Tutong,BN-TUT,BN
+Departmento Beni,BO-BEN,BO
+Departmento Chuquisaca,BO-CHU,BO
+Departmento Cochabamba,BO-COC,BO
+Departmento La Paz,BO-LPZ,BO
+Departmento Oruro,BO-ORU,BO
+Departmento Pando,BO-PAN,BO
+Departmento Potosi,BO-POT,BO
+Departmento Santa Cruz,BO-SCZ,BO
+Departmento Tarija,BO-TAR,BO
+Acre,BR-AC,BR
+Alagoas,BR-AL,BR
+Amazonas,BR-AM,BR
+Amapa,BR-AP,BR
+Bahia,BR-BA,BR
+Ceara,BR-CE,BR
+Distrito Federal,BR-DF,BR
+Espirito Santo,BR-ES,BR
+Goias,BR-GO,BR
+Maranhao,BR-MA,BR
+Minas Gerais,BR-MG,BR
+Mato Grosso do Sul,BR-MS,BR
+Mato Grosso,BR-MT,BR
+Para,BR-PA,BR
+Paraiba,BR-PB,BR
+Pernambuco,BR-PE,BR
+Piaui,BR-PI,BR
+Parana,BR-PR,BR
+Rio de Janeiro,BR-RJ,BR
+Rio Grande do Norte,BR-RN,BR
+Rondonia,BR-RO,BR
+Roraima,BR-RR,BR
+Rio Grande do Sul,BR-RS,BR
+Santa Catarina,BR-SC,BR
+Sergipe,BR-SE,BR
+Sao Paulo,BR-SP,BR
+Tocantins,BR-TO,BR
+Acklins,BS-ACK,BS
+Berry Islands,BS-BER,BS
+Bimini,BS-BIM,BS
+Black Point,BS-BLK,BS
+Central Abaco,BS-CAB,BS
+Central Andros,BS-CAN,BS
+Cat Island,BS-CAT,BS
+Central Eleuthera,BS-CEL,BS
+Crooked Island,BS-CRO,BS
+East Grand Bahama,BS-EGB,BS
+Exuma,BS-EXU,BS
+City of Freeport,BS-FRE,BS
+Grand Cay,BS-GRD,BS
+Harbour Island,BS-HAR,BS
+Hope Town,BS-HOP,BS
+Inagua,BS-INA,BS
+Long Island,BS-LNG,BS
+Mangrove Cay,BS-MAN,BS
+Mayaguana,BS-MAY,BS
+Moores Island,BS-MOO,BS
+North Abaco,BS-NAB,BS
+North Andros,BS-NAN,BS
+North Eleuthera,BS-NEL,BS
+Ragged Island,BS-RAG,BS
+Rum Cay,BS-RUM,BS
+South Abaco,BS-SAB,BS
+San Salvador,BS-SAL,BS
+South Andros,BS-SAN,BS
+South Eleuthera,BS-SEL,BS
+Spanish Wells,BS-SWE,BS
+West Grand Bahama,BS-WGB,BS
+Bumthang,BT-BUM,BT
+Chukha,BT-CHU,BT
+Dagana,BT-DAG,BT
+Gasa,BT-GAS,BT
+Haa,BT-HAA,BT
+Lhuntse,BT-LHU,BT
+Mongar,BT-MON,BT
+Paro,BT-PAR,BT
+Pemagatshel,BT-PEM,BT
+Punakha,BT-PUN,BT
+Sarpang,BT-SAR,BT
+Samtse,BT-SAT,BT
+Samdrup Jongkhar,BT-SJO,BT
+Thimphu,BT-THI,BT
+Trashigang,BT-TRG,BT
+Trongsa,BT-TRO,BT
+Trashiyangste,BT-TRY,BT
+Tsirang,BT-TSI,BT
+Wangdue Phodrang,BT-WPH,BT
+Zhemgang,BT-ZHE,BT
+Central,BW-CE,BW
+Ghanzi,BW-GH,BW
+Kgalagadi,BW-KD,BW
+Kgatleng,BW-KT,BW
+Kweneng,BW-KW,BW
+North East,BW-NE,BW
+Ngamiland,BW-NG,BW
+North West,BW-NW,BW
+South East,BW-SE,BW
+Southern,BW-SO,BW
+Brest voblast,BY-BR,BY
+Homyel voblast,BY-HO,BY
+Hrodna voblast,BY-HR,BY
+Mahilyow voblast,BY-MA,BY
+Minsk voblast,BY-MI,BY
+Vitsebsk voblast,BY-VI,BY
+Belize District,BZ-BZ,BZ
+Corozal District,BZ-CR,BZ
+Cayo District,BZ-CY,BZ
+Orange Walk District,BZ-OW,BZ
+Stann Creek District,BZ-SC,BZ
+Toledo District,BZ-TO,BZ
+Alberta,AB,CA
+British Columbia,BC,CA
+Manitoba,MB,CA
+New Brunswick,NB,CA
+Newfoundland and Labrador,NL,CA
+Nova Scotia,NS,CA
+Northwest Territories,NT,CA
+Nunavut,NU,CA
+Ontario,ON,CA
+Prince Edward Island,PE,CA
+Quebec,QC,CA
+Saskatchewan,SK,CA
+Yukon Territory,YT,CA
+Direction Island,CC-D,CC
+Home Island,CC-H,CC
+Horsburgh Island,CC-O,CC
+South Island,CC-S,CC
+West Island,CC-W,CC
+Bas-Congo,CD-BC,CD
+Bandundu,CD-BN,CD
+Equateur,CD-EQ,CD
+Katanga,CD-KA,CD
+Kasai-Oriental,CD-KE,CD
+Kinshasa,CD-KN,CD
+Kasai-Occidental,CD-KW,CD
+Maniema,CD-MA,CD
+Nord-Kivu,CD-NK,CD
+Orientale,CD-OR,CD
+Sud-Kivu,CD-SK,CD
+Bangui,CF-BAN,CF
+Bamingui-Bangoran,CF-BBA,CF
+Basse-Kotto,CF-BKO,CF
+Haute-Kotto,CF-HKO,CF
+Haut-Mbomou,CF-HMB,CF
+Kemo,CF-KEM,CF
+Lobaye,CF-LOB,CF
+Mbomou,CF-MBO,CF
+Mambere-KadeOC,CF-MKD,CF
+Nana-Grebizi,CF-NGR,CF
+Nana-Mambere,CF-NMM,CF
+Ombella-MPoko,CF-OMP,CF
+Ouham-Pende,CF-OPE,CF
+Ouham,CF-OUH,CF
+Ouaka,CF-OUK,CF
+Sangha-Mbaere,CF-SMB,CF
+Vakaga,CF-VAK,CF
+Bouenza,CG-BO,CG
+Brazzaville,CG-BR,CG
+Cuvette-Ouest,CG-CO,CG
+Cuvette,CG-CU,CG
+Kouilou,CG-KO,CG
+Lekoumou,CG-LE,CG
+Likouala,CG-LI,CG
+Niari,CG-NI,CG
+Plateaux,CG-PL,CG
+Pool,CG-PO,CG
+Sangha,CG-SA,CG
+Aargau,CH-AG,CH
+Appenzell Innerhoden,CH-AI,CH
+Appenzell Ausserrhoden,CH-AR,CH
+Bern,CH-BE,CH
+Basel-Landschaft,CH-BL,CH
+Basel-Stadt,CH-BS,CH
+Fribourg,CH-FR,CH
+Geneva,CH-GE,CH
+Glarus,CH-GL,CH
+Graubunden,CH-GR,CH
+Jura,CH-JU,CH
+Lucerne,CH-LU,CH
+NeuchO?l S,CH-NE,CH
+Nidwalden,CH-NW,CH
+Obwalden,CH-OW,CH
+St. Gallen,CH-SG,CH
+Schaffhausen,CH-SH,CH
+Solothurn,CH-SO,CH
+Schwyz,CH-SZ,CH
+Thurgau,CH-TG,CH
+Ticino,CH-TI,CH
+Uri,CH-UR,CH
+Vaud,CH-VD,CH
+Valais,CH-VS,CH
+Zug,CH-ZG,CH
+Zurich,CH-ZH,CH
+Abengourou,CI-ABE,CI
+Abidjan,CI-ABI,CI
+Aboisso,CI-ABO,CI
+Adiake,CI-ADI,CI
+Adzope,CI-ADZ,CI
+Agboville,CI-AGB,CI
+Agnibilekrou,CI-AGN,CI
+Alepe,CI-ALE,CI
+Bangolo,CI-BAN,CI
+Bondoukou,CI-BDK,CI
+Boundiali,CI-BDL,CI
+Beoumi,CI-BEO,CI
+Bouafle,CI-BFL,CI
+Bongouanou,CI-BGN,CI
+Biankouma,CI-BIA,CI
+Bouake,CI-BKE,CI
+Bouna,CI-BNA,CI
+Bocanda,CI-BOC,CI
+Daloa,CI-DAL,CI
+Danane,CI-DAN,CI
+Daoukro,CI-DAO,CI
+Dabou,CI-DBU,CI
+Dimbokro,CI-DIM,CI
+Divo,CI-DIV,CI
+Dabakala,CI-DKL,CI
+Duekoue,CI-DUE,CI
+Ferkessedougou,CI-FER,CI
+Gagnoa,CI-GAG,CI
+Grand-Bassam,CI-GBA,CI
+Grand-Lahou,CI-GLA,CI
+Guiglo,CI-GUI,CI
+Issia,CI-ISS,CI
+Jacqueville,CI-JAC,CI
+Katiola,CI-KAT,CI
+Korhogo,CI-KOR,CI
+Lakota,CI-LAK,CI
+Man,CI-MAN,CI
+Mbahiakro,CI-MBA,CI
+Mankono,CI-MKN,CI
+Odienne,CI-ODI,CI
+Oume,CI-OUM,CI
+Sakassou,CI-SAK,CI
+Sassandra,CI-SAS,CI
+Seguela,CI-SEG,CI
+Sinfra,CI-SIN,CI
+Soubre,CI-SOU,CI
+San-Pedro,CI-SPE,CI
+Tabou,CI-TAB,CI
+Tanda,CI-TAN,CI
+Touba,CI-TBA,CI
+Tiassale,CI-TIA,CI
+Tiebissou,CI-TIE,CI
+Tingrela,CI-TIN,CI
+Toulepleu,CI-TLP,CI
+Toumodi,CI-TMD,CI
+Vavoua,CI-VAV,CI
+Yamoussoukro,CI-YAM,CI
+Zuenoula,CI-ZUE,CI
+Aitutaki,CK-AI,CK
+Atiu,CK-AT,CK
+Manuae,CK-MA,CK
+Mangaia,CK-MG,CK
+Manihiki,CK-MK,CK
+Mitiaro,CK-MT,CK
+Mauke,CK-MU,CK
+Nassau Island,CK-NI,CK
+Palmerston,CK-PA,CK
+Penrhyn,CK-PE,CK
+Pukapuka,CK-PU,CK
+Rakahanga,CK-RK,CK
+Rarotonga,CK-RR,CK
+Surwarrow,CK-SU,CK
+Takutea,CK-TA,CK
+Aisen del General Carlos Ibanez del Campo (XI),CL-AI,CL
+Antofagasta (II),CL-AN,CL
+Araucania (IX),CL-AR,CL
+Atacama (III),CL-AT,CL
+Bio-Bio (VIII),CL-BI,CL
+Coquimbo (IV),CL-CO,CL
+Libertador General Bernardo OHiggins (VI),CL-LI,CL
+Los Lagos (X),CL-LL,CL
+Magallanes (XII),CL-MA,CL
+Maule (VII),CL-ML,CL
+Region Metropolitana (RM),CL-RM,CL
+Tarapaca (I),CL-TA,CL
+Valparaiso (V),CL-VS,CL
+Adamawa Province (Adamaoua),CM-ADA,CM
+Centre Province,CM-CEN,CM
+East Province (Est),CM-EST,CM
+Extreme North Province (ExtrO?-Nord) C,CM-EXN,CM
+Littoral Province,CM-LIT,CM
+North Province (Nord),CM-NOR,CM
+Northwest Province (Nord-Ouest),CM-NOT,CM
+West Province (Ouest),CM-OUE,CM
+Southwest Province (Sud-Ouest).,CM-SOU,CM
+South Province (Sud),CM-SUD,CM
+Beijing,CN-11,CN
+Tianjin,CN-12,CN
+Hebei,CN-13,CN
+Shanxi,CN-14,CN
+Nei Mongol,CN-15,CN
+Liaoning,CN-21,CN
+Jilin,CN-22,CN
+Heilongjiang,CN-23,CN
+Shanghai,CN-31,CN
+Jiangsu,CN-32,CN
+Zhejiang,CN-33,CN
+Anhui,CN-34,CN
+Fujian,CN-35,CN
+Jiangxi,CN-36,CN
+Shandong,CN-37,CN
+Henan,CN-41,CN
+Hubei,CN-42,CN
+Hunan,CN-43,CN
+Guangdong,CN-44,CN
+Guangxi,CN-45,CN
+Hainan,CN-46,CN
+Sichuan,CN-51,CN
+Guizhou,CN-52,CN
+Yunnan,CN-53,CN
+Xizang ZO?O? (Tibet) CH,CN-54,CN
+Shaanxi,CN-61,CN
+Gansu,CN-62,CN
+Qinghai,CN-63,CN
+Ningxia,CN-64,CN
+Xinjiang,CN-65,CN
+Taiwan,CN-71,CN
+Xianggang,CN-91,CN
+Aomen,CN-92,CN
+ChongqO? C,CN-97,CN
+Gaoxiong,CN-98,CN
+Taibei,CN-99,CN
+Amazonas,CO-AMZ,CO
+Antioquia,CO-ANT,CO
+Arauca,CO-ARA,CO
+Atlantico,CO-ATL,CO
+Bogota D.C.,CO-BDC,CO
+Bolivar,CO-BOL,CO
+Boyaca,CO-BOY,CO
+Caldas,CO-CAL,CO
+Cundinamarca,CO-CAM,CO
+Caqueta,CO-CAQ,CO
+Casanare,CO-CAS,CO
+Cauca,CO-CAU,CO
+Cesar,CO-CES,CO
+Choco,CO-CHO,CO
+Cordoba,CO-COR,CO
+Guajira,CO-GJR,CO
+Guainia,CO-GNA,CO
+Guaviare,CO-GVR,CO
+Huila,CO-HUI,CO
+Magdalena,CO-MAG,CO
+Meta,CO-MET,CO
+Narino,CO-NAR,CO
+Norte de Santander,CO-NDS,CO
+Putumayo,CO-PUT,CO
+Quindio,CO-QUI,CO
+Risaralda,CO-RIS,CO
+Santander,CO-SAN,CO
+San Andres y Providencia,CO-SAP,CO
+Sucre,CO-SUC,CO
+Tolima,CO-TOL,CO
+Vaupes,CO-VAU,CO
+Valle del Cauca,CO-VDC,CO
+Vichada,CO-VIC,CO
+Alajuela,CR-AL,CR
+Cartago,CR-CA,CR
+Guanacaste,CR-GU,CR
+Heredia,CR-HE,CR
+Limon,CR-LI,CR
+Puntarenas,CR-PU,CR
+San Jose,CR-SJ,CR
+Kosovo,CS-KOS,CS
+Montenegro,CS-MON,CS
+Serbia,CS-SER,CS
+Vojvodina,CS-VOJ,CS
+Camaguey,CU-CAM,CU
+Ciego de Avila,CU-CAV,CU
+Cienfuegos,CU-CFU,CU
+Ciudad de La Habana,CU-CLH,CU
+Granma,CU-GRA,CU
+Guantanamo,CU-GUA,CU
+Holguin,CU-HOL,CU
+Isla de la Juventud,CU-IJU,CU
+La Habana,CU-LHA,CU
+Las Tunas,CU-LTU,CU
+Matanzas,CU-MAT,CU
+Pinar del Rio,CU-PRI,CU
+Santiago de Cuba,CU-SCU,CU
+Sancti Spiritus,CU-SSP,CU
+Villa Clara,CU-VCL,CU
+Brava,CV-BR,CV
+Boa Vista,CV-BV,CV
+Santa Catarina,CV-CA,CV
+Santa Cruz,CV-CR,CV
+Calheta de Sao Miguel,CV-CS,CV
+Maio,CV-MA,CV
+Mosteiros,CV-MO,CV
+Paul,CV-PA,CV
+Porto Novo,CV-PN,CV
+Praia,CV-PR,CV
+Ribeira Grande,CV-RG,CV
+Sao Domingos,CV-SD,CV
+Sao Filipe,CV-SF,CV
+Sal,CV-SL,CV
+Sao Nicolau,CV-SN,CV
+Sao Vicente,CV-SV,CV
+Tarrafal,CV-TA,CV
+Larnaca,CY-A,CY
+Famagusta,CY-F,CY
+Limassol,CY-I,CY
+Kyrenia,CY-K,CY
+Nicosia,CY-N,CY
+Paphos,CY-P,CY
+South Bohemian Region (Jihocesky kraj),CZ-JC,CZ
+South Moravian Region (Jihomoravsky kraj),CZ-JM,CZ
+Carlsbad Region (Karlovarsky kraj),CZ-KA,CZ
+Hradec Kralove Region (Kralovehradecky kraj),CZ-KR,CZ
+Liberec Region (Liberecky kraj),CZ-LI,CZ
+Moravian-Silesian Region (Moravskoslezsky kraj),CZ-MO,CZ
+Olomouc Region (Olomoucky kraj),CZ-OL,CZ
+Pardubice Region (Pardubicky kraj),CZ-PA,CZ
+Plzen( Region Plzensky kraj),CZ-PL,CZ
+Prague - the Capital (Praha - hlavni mesto),CZ-PR,CZ
+Central Bohemian Region (Stredocesky kraj),CZ-ST,CZ
+Usti nad Labem Region (Ustecky kraj),CZ-US,CZ
+Vysoc(ina Region (kraj Vysoc(ina),CZ-VY,CZ
+Zlin Region (Zlinsky kraj),CZ-ZL,CZ
+Berlin,DE-BE,DE
+Brandenburg,DE-BR,DE
+Baden-Wurttemberg,DE-BW,DE
+Bayern,DE-BY,DE
+Bremen,DE-HB,DE
+Hessen,DE-HE,DE
+Hamburg,DE-HH,DE
+Mecklenburg-Vorpommern,DE-MV,DE
+Niedersachsen,DE-NI,DE
+Nordrhein-Westfalen,DE-NW,DE
+Rheinland-Pfalz,DE-RP,DE
+Schleswig-Holstein,DE-SH,DE
+Saarland,DE-SL,DE
+Sachsen,DE-SN,DE
+Sachsen-Anhalt,DE-ST,DE
+Thuringen,DE-TH,DE
+Djibouti,DJ-J,DJ
+Dikhil,DJ-K,DJ
+Obock,DJ-O,DJ
+Ali Sabih,DJ-S,DJ
+Tadjoura,DJ-T,DJ
+Arhus,DK-AR,DK
+Bornholm,DK-BH,DK
+Copenhagen (municipality),DK-CC,DK
+Copenhagen,DK-CO,DK
+Frederiksberg (municipality),DK-FC,DK
+Faroe Islands,DK-FO,DK
+Frederiksborg,DK-FR,DK
+Funen,DK-FU,DK
+Greenland,DK-GL,DK
+North Jutland,DK-NJ,DK
+Ribe,DK-RB,DK
+Ringkjobing,DK-RK,DK
+Roskilde,DK-RO,DK
+South Jutland,DK-SJ,DK
+Storstrom,DK-ST,DK
+Viborg,DK-VB,DK
+Vejle,DK-VK,DK
+West Zealand,DK-WZ,DK
+Saint Andrew Parish,DM-AND,DM
+Saint David Parish,DM-DAV,DM
+Saint George Parish,DM-GEO,DM
+Saint John Parish,DM-JOH,DM
+Saint Joseph Parish,DM-JOS,DM
+Saint Luke Parish,DM-LUK,DM
+Saint Mark Parish,DM-MAR,DM
+Saint Patrick Parish,DM-PAT,DM
+Saint Paul Parish,DM-PAU,DM
+Saint Peter Parish,DM-PET,DM
+La Altagracia,DO-AL,DO
+Azua,DO-AZ,DO
+Baoruco,DO-BC,DO
+Barahona,DO-BH,DO
+Dajabon,DO-DJ,DO
+Distrito Nacional,DO-DN,DO
+Duarte,DO-DU,DO
+Elias Pina,DO-EL,DO
+Espaillat,DO-ET,DO
+Hato Mayor,DO-HM,DO
+Independencia,DO-IN,DO
+San Jose de Ocoa,DO-JO,DO
+Monte Cristi,DO-MC,DO
+Monsenor Nouel,DO-MN,DO
+Monte Plata,DO-MP,DO
+Maria Trinidad Sanchez,DO-MT,DO
+Pedernales,DO-PD,DO
+San Pedro de Macoris,DO-PM,DO
+Puerto Plata,DO-PP,DO
+Peravia (Bani),DO-PR,DO
+La Romana,DO-RO,DO
+Santiago,DO-SA,DO
+San Cristobal,DO-SC,DO
+Santo Domingo,DO-SD,DO
+Sanchez Ramirez,DO-SH,DO
+San Juan,DO-SJ,DO
+Salcedo,DO-SL,DO
+Samana,DO-SM,DO
+Santiago Rodriguez,DO-ST,DO
+El Seybo,DO-SY,DO
+Valverde,DO-VA,DO
+La Vega,DO-VE,DO
+Ain Defla,DZ-ADE,DZ
+Adrar,DZ-ADR,DZ
+Alger,DZ-ALG,DZ
+Annaba,DZ-ANN,DZ
+Ain Temouchent,DZ-ATE,DZ
+Batna,DZ-BAT,DZ
+Bordj Bou Arreridj,DZ-BBA,DZ
+Bechar,DZ-BEC,DZ
+Bejaia,DZ-BEJ,DZ
+Biskra,DZ-BIS,DZ
+Blida,DZ-BLI,DZ
+Boumerdes,DZ-BMD,DZ
+Bouira,DZ-BOA,DZ
+Chlef,DZ-CHL,DZ
+Constantine,DZ-CON,DZ
+Djelfa,DZ-DJE,DZ
+El Bayadh,DZ-EBA,DZ
+El Oued,DZ-EOU,DZ
+El Tarf,DZ-ETA,DZ
+Ghardaia,DZ-GHA,DZ
+Guelma,DZ-GUE,DZ
+Illizi,DZ-ILL,DZ
+Jijel,DZ-JIJ,DZ
+Khenchela,DZ-KHE,DZ
+Laghouat,DZ-LAG,DZ
+Medea,DZ-MED,DZ
+Mila,DZ-MIL,DZ
+Mostaganem,DZ-MOS,DZ
+MSila,DZ-MSI,DZ
+Muaskar,DZ-MUA,DZ
+Naama,DZ-NAA,DZ
+Oum el-Bouaghi,DZ-OEB,DZ
+Oran,DZ-ORA,DZ
+Ouargla,DZ-OUA,DZ
+Relizane,DZ-REL,DZ
+Souk Ahras,DZ-SAH,DZ
+Saida,DZ-SAI,DZ
+Sidi Bel Abbes,DZ-SBA,DZ
+Setif,DZ-SET,DZ
+Skikda,DZ-SKI,DZ
+Tamanghasset,DZ-TAM,DZ
+Tebessa,DZ-TEB,DZ
+Tiaret,DZ-TIA,DZ
+Tindouf,DZ-TIN,DZ
+Tipaza,DZ-TIP,DZ
+Tissemsilt,DZ-TIS,DZ
+Tlemcen,DZ-TLE,DZ
+Tizi Ouzou,DZ-TOU,DZ
+Azuay,EC-A,EC
+Bolivar,EC-B,EC
+Carchi,EC-C,EC
+Orellana,EC-D,EC
+Esmeraldas,EC-E,EC
+Canar,EC-F,EC
+Guayas,EC-G,EC
+Chimborazo,EC-H,EC
+Imbabura,EC-I,EC
+Loja,EC-L,EC
+Manabi,EC-M,EC
+Napo,EC-N,EC
+El Oro,EC-O,EC
+Pichincha,EC-P,EC
+Los Rios,EC-R,EC
+Morona-Santiago,EC-S,EC
+Tungurahua,EC-T,EC
+Sucumbios,EC-U,EC
+Galapagos,EC-W,EC
+Cotopaxi,EC-X,EC
+Pastaza,EC-Y,EC
+Zamora-Chinchipe,EC-Z,EC
+Harju County,EE-37,EE
+Hiiu County,EE-39,EE
+Ida-Viru County,EE-44,EE
+JOAa County,EE-49,EE
+JArva County,EE-51,EE
+LAAne County,EE-57,EE
+LAAne-Viru County,EE-59,EE
+POA County,EE-65,EE
+PArnu County,EE-67,EE
+Rapla County,EE-70,EE
+Saare County,EE-74,EE
+Tartu County,EE-78,EE
+Valga County,EE-82,EE
+Viljandi County,EE-84,EE
+VOACounty,EE-86,EE
+Aswan,EG-ASW,EG
+Asyut,EG-ASY,EG
+Al Bahr al Ahmar,EG-BAM,EG
+Al Buhayrah,EG-BHY,EG
+Bur Said,EG-BSD,EG
+Bani Suwayf,EG-BSW,EG
+Ad Daqahliyah,EG-DHY,EG
+Dumyat,EG-DMY,EG
+Al Fayyum,EG-FYM,EG
+Al Gharbiyah,EG-GBY,EG
+Al Iskandariyah,EG-IDR,EG
+Al Ismailiyah,EG-IML,EG
+Janub Sina,EG-JNS,EG
+Al Jizah,EG-JZH,EG
+Kafr ash Shaykh,EG-KSH,EG
+Matruh,EG-MAT,EG
+Al Minufiyah,EG-MFY,EG
+Al Minya,EG-MNY,EG
+Al Qahirah,EG-QHR,EG
+Qina,EG-QIN,EG
+Al Qalyubiyah,EG-QLY,EG
+Ash Sharqiyah,EG-SHQ,EG
+Shamal Sina,EG-SHS,EG
+Suhaj,EG-SUH,EG
+As Suways,EG-SWY,EG
+Al Wadi al Jadid,EG-WJD,EG
+Gash-Barka (Barentu),ER-BR,ER
+Southern (Debub),ER-DE,ER
+Southern Red Sea (Debub-Keih-Bahri),ER-DK,ER
+Anseba (Keren),ER-KE,ER
+Central (Maekel),ER-MA,ER
+Northern Red Sea (Semien-Keih-Bahri),ER-SK,ER
+Albacete,ES-AB,ES
+Alicante,ES-AC,ES
+Alava,ES-AL,ES
+Almeria,ES-AM,ES
+Asturias,ES-AS,ES
+Avila,ES-AV,ES
+Barcelona,ES-BA,ES
+Badajoz,ES-BJ,ES
+Burgos,ES-BU,ES
+A Coruna,ES-CA,ES
+Caceres,ES-CC,ES
+Cordoba,ES-CD,ES
+Castellon,ES-CL,ES
+Ciudad Real,ES-CR,ES
+Cantabria,ES-CT,ES
+Cuenca,ES-CU,ES
+Cadiz,ES-CZ,ES
+Granada,ES-GD,ES
+Girona,ES-GI,ES
+Guadalajara,ES-GJ,ES
+Guipuzcoa,ES-GP,ES
+Huelva,ES-HL,ES
+Huesca,ES-HS,ES
+Illes Balears,ES-IB,ES
+Jaen,ES-JN,ES
+Leon,ES-LE,ES
+Lugo,ES-LG,ES
+Lleida,ES-LL,ES
+Madrid,ES-MD,ES
+Malaga,ES-ML,ES
+Murcia,ES-MU,ES
+Navarra,ES-NV,ES
+Ourense,ES-OU,ES
+Palencia,ES-PL,ES
+Las Palmas,ES-PM,ES
+Pontevedra,ES-PO,ES
+La Rioja,ES-RJ,ES
+Santa Cruz de Tererife,ES-SC,ES
+Segovia,ES-SG,ES
+Salamanca,ES-SL,ES
+Soria,ES-SO,ES
+Sevilla,ES-SV,ES
+Tarragona,ES-TA,ES
+Teruel,ES-TE,ES
+Toledo,ES-TO,ES
+Valencia,ES-VC,ES
+Valladolid,ES-VD,ES
+Vizcaya,ES-VZ,ES
+Zamora,ES-ZM,ES
+Zaragoza,ES-ZR,ES
+Addis Ababa,ET-AA,ET
+Afar,ET-AF,ET
+Amhara,ET-AH,ET
+Benishangul-Gumaz,ET-BG,ET
+Dire Dawa,ET-DD,ET
+Gambela,ET-GB,ET
+Hariai,ET-HR,ET
+Oromia,ET-OR,ET
+Somali,ET-SM,ET
+Southern Nations - Nationalities and Peoples Region,ET-SN,ET
+Tigray,ET-TG,ET
+Ahvenanmaan laani,FI-AH,FI
+Etela-Suomen laani,FI-ES,FI
+Ita-Suomen laani,FI-IS,FI
+Lapin laani,FI-LL,FI
+Lansi-Suomen laani,FI-LS,FI
+Oulun laani,FI-OU,FI
+Central Division,FJ-C,FJ
+Eastern Division,FJ-E,FJ
+Northern Division,FJ-N,FJ
+Rotuma,FJ-R,FJ
+Western Division,FJ-W,FJ
+Chuuk,FM-C,FM
+Kosrae,FM-K,FM
+Pohnpei,FM-P,FM
+Yap,FM-Y,FM
+Bas-Rhin - Alsace,FR-A67,FR
+Haut-Rhin - Alsace,FR-A68,FR
+Dordogne - Aquitaine,FR-B24,FR
+Gironde - Aquitaine,FR-B33,FR
+Landes - Aquitaine,FR-B40,FR
+Lot-et-Garonne - Aquitaine,FR-B47,FR
+Pyrenees-Atlantiques - Aquitaine,FR-B64,FR
+Deux-Sevres - Aquitaine,FR-B79,FR
+Allier - Auvergne,FR-C03,FR
+Cantal - Auvergne,FR-C15,FR
+Haute-Loire - Auvergne,FR-C43,FR
+Pu-de-Dme - Auvergne,FR-C63,FR
+Cote-dOr - Bourgogne,FR-D21,FR
+Nievre - Bourgogne,FR-D58,FR
+Saone-et-Loire - Bourgogne,FR-D71,FR
+Yonne - Bourgogne,FR-D89,FR
+Cotes-dArmor - Bretagne,FR-E22,FR
+Finistere - Bretagne,FR-E29,FR
+Ille-et-Vilaine - Bretagne,FR-E35,FR
+Morbihan - Bretagne,FR-E56,FR
+Cher - Centre,FR-F18,FR
+Eure-et-Loir - Centre,FR-F28,FR
+Indre - Centre,FR-F36,FR
+Indre-et-Loire - Centre,FR-F37,FR
+Loir-et-Cher - Centre,FR-F41,FR
+Loiret - Centre,FR-F45,FR
+Ardennes - Champagne-Ardenne,FR-G08,FR
+Aube - Champagne-Ardenne,FR-G10,FR
+Marne - Champagne-Ardenne,FR-G51,FR
+Haute-Marne - Champagne-Ardenne,FR-G52,FR
+Corse-du-Sud - Corse,FR-H2A,FR
+Haute-Corse - Corse,FR-H2B,FR
+Doubs - Franche-Comte,FR-I25,FR
+Jura - Franche-Comte,FR-I39,FR
+Haute-Saone - Franche-Comte,FR-I70,FR
+Haute-Saone - Territoire de Belfort,FR-I90,FR
+Paris - Ile-de-France,FR-J75,FR
+Seine-et-Marne - Ile-de-France,FR-J77,FR
+Yvelines - Ile-de-France,FR-J78,FR
+Essonne - Ile-de-France,FR-J91,FR
+Hauts-de-Seine - Ile-de-France,FR-J92,FR
+Seine-Saint-Denis - Ile-de-France,FR-J93,FR
+Val-de-Marne - Ile-de-France,FR-J94,FR
+Val-dOise - Ile-de-France,FR-J95,FR
+Alpes-de-Haute-Provence,FR-U04,FR
+Hautes-Alpes,FR-U05,FR
+Alpes-Maritimes,FR-U06,FR
+Bouches-du-Rhne,FR-U13,FR
+Var,FR-U83,FR
+Vaucluse,FR-U84,FR
+Estuaire,GA-ES,GA
+Haut-Ogooue,GA-HO,GA
+Moyen-Ogooue,GA-MO,GA
+Ngounie,GA-NG,GA
+Nyanga,GA-NY,GA
+Ogooue-Ivindo,GA-OI,GA
+Ogooue-Lolo,GA-OL,GA
+Ogooue-Maritime,GA-OM,GA
+Woleu-Ntem,GA-WN,GA
+Aberdeenshire,GB-ABD,GB
+Aberdeen,GB-ABE,GB
+Argyll and Bute,GB-AGB,GB
+Isle of Anglesey,GB-AGY,GB
+Angus,GB-ANS,GB
+Antrim,GB-ANT,GB
+Ards,GB-ARD,GB
+Armagh,GB-ARM,GB
+Bath and North East Somerset,GB-BAS,GB
+Blackburn with Darwen,GB-BBD,GB
+Bedfordshire,GB-BDF,GB
+Barking and Dagenham,GB-BDG,GB
+Brent,GB-BEN,GB
+Bexley,GB-BEX,GB
+Belfast,GB-BFS,GB
+Bridgend,GB-BGE,GB
+Blaenau Gwent,GB-BGW,GB
+Birmingham,GB-BIR,GB
+Buckinghamshire,GB-BKM,GB
+Ballymena,GB-BLA,GB
+Ballymoney,GB-BLY,GB
+Bournemouth,GB-BMH,GB
+Banbridge,GB-BNB,GB
+Barnet,GB-BNE,GB
+Brighton and Hove,GB-BNH,GB
+Barnsley,GB-BNS,GB
+Bolton,GB-BOL,GB
+Blackpool,GB-BPL,GB
+Bracknell Forest,GB-BRC,GB
+Bradford,GB-BRD,GB
+Bromley,GB-BRY,GB
+Bristol City of,GB-BST,GB
+Bury,GB-BUR,GB
+Cambridgeshire,GB-CAM,GB
+Caerphilly,GB-CAY,GB
+Ceredigion,GB-CGN,GB
+Craigavon,GB-CGV,GB
+Cheshire,GB-CHS,GB
+Carrickfergus,GB-CKF,GB
+Cookstown,GB-CKT,GB
+Calderdale,GB-CLD,GB
+Clackmannanshire,GB-CLK,GB
+Coleraine,GB-CLR,GB
+Cumbria,GB-CMA,GB
+Camden,GB-CMD,GB
+Carmarthenshire,GB-CMN,GB
+Cornwall,GB-CON,GB
+Coventry (West Midlands district),GB-COV,GB
+Cardiff,GB-CRF,GB
+Croydon,GB-CRY,GB
+Castlereagh,GB-CSR,GB
+Conwy,GB-CWY,GB
+Darlington,GB-DAL,GB
+Derbyshire,GB-DBY,GB
+Denbighshire,GB-DEN,GB
+Derby,GB-DER,GB
+Devon,GB-DEV,GB
+Dungannon and South Tyrone,GB-DGN,GB
+Dumfries and Galloway,GB-DGY,GB
+Doncaster,GB-DNC,GB
+Dundee,GB-DND,GB
+Dorset,GB-DOR,GB
+Down,GB-DOW,GB
+Derry,GB-DRY,GB
+Dudley (West Midlands district),GB-DUD,GB
+Durham,GB-DUR,GB
+Ealing,GB-EAL,GB
+East Ayrshire,GB-EAY,GB
+Edinburgh,GB-EDH,GB
+East Dunbartonshire,GB-EDU,GB
+East Lothian,GB-ELN,GB
+Eilean Siar,GB-ELS,GB
+Enfield,GB-ENF,GB
+East Renfrewshire,GB-ERW,GB
+East Riding of Yorkshire,GB-ERY,GB
+Essex,GB-ESS,GB
+East Sussex,GB-ESX,GB
+Falkirk,GB-FAL,GB
+Fermanagh,GB-FER,GB
+Fife,GB-FIF,GB
+Flintshire,GB-FLN,GB
+Gateshead (Tyne & Wear district),GB-GAT,GB
+Glasgow,GB-GLG,GB
+Gloucestershire,GB-GLS,GB
+Greenwich,GB-GRE,GB
+Guernsey,GB-GSY,GB
+Gwynedd,GB-GWN,GB
+Halton,GB-HAL,GB
+Hampshire,GB-HAM,GB
+Havering,GB-HAV,GB
+Hackney,GB-HCK,GB
+Herefordshire County of,GB-HEF,GB
+Hillingdon,GB-HIL,GB
+Highland,GB-HLD,GB
+Hammersmith and Fulham,GB-HMF,GB
+Hounslow,GB-HNS,GB
+Hartlepool,GB-HPL,GB
+Hertfordshire,GB-HRT,GB
+Harrow,GB-HRW,GB
+Haringey,GB-HRY,GB
+Isles of Scilly,GB-IOS,GB
+Isle of Wight,GB-IOW,GB
+Islington,GB-ISL,GB
+Inverclyde,GB-IVC,GB
+Jersey,GB-JSY,GB
+Kensington and Chelsea,GB-KEC,GB
+Kent,GB-KEN,GB
+Kingston upon Hull City of,GB-KHL,GB
+Kirklees,GB-KIR,GB
+Kingston upon Thames,GB-KTT,GB
+Knowsley,GB-KWL,GB
+Lancashire,GB-LAN,GB
+Lambeth,GB-LBH,GB
+Leicester,GB-LCE,GB
+Leeds,GB-LDS,GB
+Leicestershire,GB-LEC,GB
+Lewisham,GB-LEW,GB
+Lincolnshire,GB-LIN,GB
+Liverpool,GB-LIV,GB
+Limavady,GB-LMV,GB
+London City of,GB-LND,GB
+Larne,GB-LRN,GB
+Lisburn,GB-LSB,GB
+Luton,GB-LUT,GB
+Manchester,GB-MAN,GB
+Middlesbrough,GB-MDB,GB
+Medway,GB-MDW,GB
+Magherafelt,GB-MFT,GB
+Milton Keynes,GB-MIK,GB
+Midlothian,GB-MLN,GB
+Monmouthshire,GB-MON,GB
+Merton,GB-MRT,GB
+Moray,GB-MRY,GB
+Merthyr Tydfil,GB-MTY,GB
+Moyle,GB-MYL,GB
+North Ayrshire,GB-NAY,GB
+Northumberland,GB-NBL,GB
+North Down,GB-NDN,GB
+North East Lincolnshire,GB-NEL,GB
+Newcastle upon Tyne,GB-NET,GB
+Norfolk,GB-NFK,GB
+Nottingham,GB-NGM,GB
+North Lanarkshire,GB-NLK,GB
+North Lincolnshire,GB-NLN,GB
+North Somerset,GB-NSM,GB
+Newtownabbey,GB-NTA,GB
+Northamptonshire,GB-NTH,GB
+Neath Port Talbot,GB-NTL,GB
+Nottinghamshire,GB-NTT,GB
+North Tyneside,GB-NTY,GB
+Newham,GB-NWM,GB
+Newport,GB-NWP,GB
+North Yorkshire,GB-NYK,GB
+Newry and Mourne,GB-NYM,GB
+Oldham,GB-OLD,GB
+Omagh,GB-OMH,GB
+Orkney Islands,GB-ORK,GB
+Oxfordshire,GB-OXF,GB
+Pembrokeshire,GB-PEM,GB
+Perth and Kinross,GB-PKN,GB
+Plymouth,GB-PLY,GB
+Poole,GB-POL,GB
+Portsmouth,GB-POR,GB
+Powys,GB-POW,GB
+Peterborough,GB-PTE,GB
+Redcar and Cleveland,GB-RCC,GB
+Rochdale,GB-RCH,GB
+Rhondda Cynon Taf,GB-RCT,GB
+Redbridge,GB-RDB,GB
+Reading,GB-RDG,GB
+Renfrewshire,GB-RFW,GB
+Richmond upon Thames,GB-RIC,GB
+Rotherham,GB-ROT,GB
+Rutland,GB-RUT,GB
+Sandwell,GB-SAW,GB
+South Ayrshire,GB-SAY,GB
+Scottish Borders The,GB-SCB,GB
+Suffolk,GB-SFK,GB
+Sefton,GB-SFT,GB
+South Gloucestershire,GB-SGC,GB
+Sheffield,GB-SHF,GB
+St Helens,GB-SHN,GB
+Shropshire,GB-SHR,GB
+Stockport,GB-SKP,GB
+Salford,GB-SLF,GB
+Slough,GB-SLG,GB
+South Lanarkshire,GB-SLK,GB
+Sunderland,GB-SND,GB
+Solihull,GB-SOL,GB
+Somerset,GB-SOM,GB
+Southend-on-Sea,GB-SOS,GB
+Surrey,GB-SRY,GB
+Strabane,GB-STB,GB
+Stoke-on-Trent,GB-STE,GB
+Stirling,GB-STG,GB
+Southampton,GB-STH,GB
+Sutton,GB-STN,GB
+Staffordshire,GB-STS,GB
+Stockton-on-Tees,GB-STT,GB
+South Tyneside,GB-STY,GB
+Swansea,GB-SWA,GB
+Swindon,GB-SWD,GB
+Southwark,GB-SWK,GB
+Tameside,GB-TAM,GB
+Telford and Wrekin,GB-TFW,GB
+Thurrock,GB-THR,GB
+Torbay,GB-TOB,GB
+Torfaen,GB-TOF,GB
+Trafford,GB-TRF,GB
+Tower Hamlets,GB-TWH,GB
+Vale of Glamorgan,GB-VGL,GB
+Warwickshire,GB-WAR,GB
+West Berkshire,GB-WBK,GB
+West Dunbartonshire,GB-WDU,GB
+Waltham Forest,GB-WFT,GB
+Wigan,GB-WGN,GB
+Wiltshire,GB-WIL,GB
+Wakefield,GB-WKF,GB
+Walsall,GB-WLL,GB
+West Lothian,GB-WLN,GB
+Wolverhampton,GB-WLV,GB
+Wandsworth,GB-WND,GB
+Windsor and Maidenhead,GB-WNM,GB
+Wokingham,GB-WOK,GB
+Worcestershire,GB-WOR,GB
+Wirral,GB-WRL,GB
+Warrington,GB-WRT,GB
+Wrexham,GB-WRX,GB
+Westminster,GB-WSM,GB
+West Sussex,GB-WSX,GB
+York,GB-YOR,GB
+Shetland Islands,GB-ZET,GB
+Saint Andrew,GD-A,GD
+Carriacou,GD-C,GD
+Saint David,GD-D,GD
+Saint George,GD-G,GD
+Saint John,GD-J,GD
+Saint Mark,GD-M,GD
+Saint Patrick,GD-P,GD
+Petit Martinique,GD-Q,GD
+Abkhazia,GE-AB,GE
+Ajaria,GE-AJ,GE
+Guria,GE-GU,GE
+Imereti,GE-IM,GE
+Kakheti,GE-KA,GE
+Kvemo Kartli,GE-KK,GE
+Mtskheta-Mtianeti,GE-MM,GE
+Racha Lechkhumi and Kvemo Svaneti,GE-RL,GE
+Samtskhe-Javakheti,GE-SJ,GE
+Shida Kartli,GE-SK,GE
+Samegrelo-Zemo Svaneti,GE-SZ,GE
+Tbilisi,GE-TB,GE
+Ashanti Region,GH-AS,GH
+Brong-Ahafo Region,GH-BA,GH
+Central Region,GH-CE,GH
+Eastern Region,GH-EA,GH
+Greater Accra Region,GH-GA,GH
+Northern Region,GH-NO,GH
+Upper East Region,GH-UE,GH
+Upper West Region,GH-UW,GH
+Volta Region,GH-VO,GH
+Western Region,GH-WE,GH
+Avannaa,GL-A,GL
+Kitaa,GL-K,GL
+Tunu,GL-T,GL
+Banjul,GM-BJ,GM
+Brikama,GM-BR,GM
+Basse,GM-BS,GM
+Central River,GM-CR,GM
+Janjangbure,GM-JA,GM
+Kanifeng,GM-KA,GM
+Kerewan,GM-KE,GM
+Kuntaur,GM-KU,GM
+Lower River,GM-LR,GM
+Mansakonko,GM-MA,GM
+North Bank,GM-NB,GM
+Upper River,GM-UR,GM
+Western,GM-WE,GM
+Boffa,GN-BFA,GN
+Boke,GN-BOK,GN
+Beyla,GN-BYL,GN
+Conakry,GN-CNK,GN
+Coyah,GN-COY,GN
+Dabola,GN-DBL,GN
+Dubreka,GN-DBR,GN
+Dinguiraye,GN-DGR,GN
+Dalaba,GN-DLB,GN
+Forecariah,GN-FRC,GN
+Fria,GN-FRI,GN
+Faranah,GN-FRN,GN
+Gaoual,GN-GAO,GN
+Gueckedou,GN-GCD,GN
+Koubia,GN-KBA,GN
+Koundara,GN-KDA,GN
+Kindia,GN-KND,GN
+Kankan,GN-KNK,GN
+Kouroussa,GN-KRA,GN
+Kerouane,GN-KRN,GN
+Kissidougou,GN-KSD,GN
+Labe,GN-LAB,GN
+Lelouma,GN-LLM,GN
+Lola,GN-LOL,GN
+Mali,GN-MAL,GN
+Mamou,GN-MAM,GN
+Mandiana,GN-MAN,GN
+Macenta,GN-MCT,GN
+Nzerekore,GN-NZR,GN
+Pita,GN-PIT,GN
+Siguiri,GN-SIG,GN
+Telimele,GN-TLM,GN
+Tougue,GN-TOG,GN
+Yomou,GN-YOM,GN
+Provincia Annobon,GQ-AN,GQ
+Provincia Bioko Norte,GQ-BN,GQ
+Provincia Bioko Sur,GQ-BS,GQ
+Provincia Centro Sur,GQ-CS,GQ
+Provincia Kie-Ntem,GQ-KN,GQ
+Provincia Litoral,GQ-LI,GQ
+Provincia Wele-Nzas,GQ-WN,GQ
+Attica,GR-AT,GR
+Central Macedonia,GR-CM,GR
+Central Greece,GR-CN,GR
+Crete,GR-CR,GR
+East Macedonia and Thrace,GR-EM,GR
+Epirus,GR-EP,GR
+Ionian Islands,GR-II,GR
+North Aegean,GR-NA,GR
+Peloponnesos,GR-PP,GR
+South Aegean,GR-SA,GR
+Thessaly,GR-TH,GR
+West Greece,GR-WG,GR
+West Macedonia,GR-WM,GR
+Alta Verapaz,GT-AV,GT
+Baja Verapaz,GT-BV,GT
+Chimaltenango,GT-CM,GT
+Chiquimula,GT-CQ,GT
+Escuintla,GT-ES,GT
+Guatemala,GT-GU,GT
+Huehuetenango,GT-HU,GT
+Izabal,GT-IZ,GT
+Jalapa,GT-JA,GT
+Jutiapa,GT-JU,GT
+El Peten,GT-PE,GT
+El Progreso,GT-PR,GT
+El Quiche,GT-QC,GT
+Quetzaltenango,GT-QZ,GT
+Retalhuleu,GT-RE,GT
+San Marcos,GT-SM,GT
+Solola,GT-SO,GT
+Santa Rosa,GT-SR,GT
+Sacatepequez,GT-ST,GT
+Suchitepequez,GT-SU,GT
+Totonicapan,GT-TO,GT
+Zacapa,GT-ZA,GT
+Biombo Region,GW-BB,GW
+Bafata Region,GW-BF,GW
+Bolama Region,GW-BL,GW
+Bissau Region,GW-BS,GW
+Cacheu Region,GW-CA,GW
+Gabu Region,GW-GA,GW
+Oio Region,GW-OI,GW
+Quinara Region,GW-QU,GW
+Tombali Region,GW-TO,GW
+Barima-Waini,GY-BW,GY
+Cuyuni-Mazaruni,GY-CM,GY
+Demerara-Mahaica,GY-DM,GY
+East Berbice-Corentyne,GY-EC,GY
+Essequibo Islands-West Demerara,GY-EW,GY
+Mahaica-Berbice,GY-MB,GY
+Potaro-Siparuni,GY-PI,GY
+Pomeroon-Supenaam,GY-PM,GY
+Upper Demerara-Berbice,GY-UD,GY
+Upper Takutu-Upper Essequibo,GY-UT,GY
+Central and Western Hong Kong Island,HK-HCW,HK
+Eastern Hong Kong Island,HK-HEA,HK
+Southern Hong Kong Island,HK-HSO,HK
+Wan Chai Hong Kong Island,HK-HWC,HK
+Kowloon City Kowloon,HK-KKC,HK
+Kwun Tong Kowloon,HK-KKT,HK
+Sham Shui Po Kowloon,HK-KSS,HK
+Wong Tai Sin Kowloon,HK-KWT,HK
+Yau Tsim Mong Kowloon,HK-KYT,HK
+Islands New Territories,HK-NIS,HK
+Kwai Tsing New Territories,HK-NKT,HK
+North New Territories,HK-NNO,HK
+Sai Kung New Territories,HK-NSK,HK
+Sha Tin New Territories,HK-NST,HK
+Tuen Mun New Territories,HK-NTM,HK
+Tai Po New Territories,HK-NTP,HK
+Tsuen Wan New Territories,HK-NTW,HK
+Yuen Long New Territories,HK-NYL,HK
+Flat Island,HM-F,HM
+Heard Island,HM-H,HM
+McDonald Island,HM-M,HM
+Shag Island,HM-S,HM
+Atlantida,HN-AT,HN
+Choluteca,HN-CH,HN
+Colon,HN-CL,HN
+Comayagua,HN-CM,HN
+Copan,HN-CP,HN
+Cortes,HN-CR,HN
+Francisco Morazan,HN-FM,HN
+Gracias a Dios,HN-GD,HN
+Islas de la Bahia (Bay Islands),HN-IB,HN
+Intibuca,HN-IN,HN
+Lempira,HN-LE,HN
+Ocotepeque,HN-OC,HN
+Olancho,HN-OL,HN
+El Paraiso,HN-PA,HN
+La Paz,HN-PZ,HN
+Santa Barbara,HN-SB,HN
+Valle,HN-VA,HN
+Yoro,HN-YO,HN
+Zagreb county,HR-01,HR
+Krapina-Zagorje county,HR-02,HR
+Sisak-Moslavina county,HR-03,HR
+Karlovac county,HR-04,HR
+Varazdin county,HR-05,HR
+Koprivnica-Krizevci county,HR-06,HR
+Bjelovar-Bilogora county,HR-07,HR
+Primorje-Gorski Kotar county,HR-08,HR
+Lika-Senj county,HR-09,HR
+Virovitica-Podravina county,HR-10,HR
+Pozega-Slavonia county,HR-11,HR
+Brod-Posavina county,HR-12,HR
+Zadar county,HR-13,HR
+Osijek-Baranja county,HR-14,HR
+Sibenik-Knin county,HR-15,HR
+Vukovar-Srijem county,HR-16,HR
+Split-Dalmatia county,HR-17,HR
+Istria county,HR-18,HR
+Dubrovnik-Neretva county,HR-19,HR
+Medjimurje county,HR-20,HR
+Zagreb (city),HR-21,HR
+Artibonite,HT-AR,HT
+Centre,HT-CE,HT
+GrandAnse,HT-GA,HT
+Nord,HT-ND,HT
+Nord-Est,HT-NE,HT
+Nord-Ouest,HT-NO,HT
+Ouest,HT-OU,HT
+Sud,HT-SD,HT
+Sud-Est,HT-SE,HT
+Borsod-Abauj-Zemplen,HU-BA,HU
+Bekescsaba,HU-BC,HU
+Bacs-Kiskun,HU-BK,HU
+Baranya,HU-BR,HU
+Bekes,HU-BS,HU
+Budapest,HU-BU,HU
+Csongrad,HU-CG,HU
+Debrecen,HU-DB,HU
+Dunaujvaros,HU-DJ,HU
+Eger,HU-EG,HU
+Fejer,HU-FJ,HU
+Gyor-Moson-Sopron,HU-GM,HU
+Gyor,HU-GY,HU
+Hajdu-Bihar,HU-HB,HU
+Hodmezovasarhely,HU-HM,HU
+Heves,HU-HV,HU
+Jasz-Nagykun-Szolnok,HU-JN,HU
+Kecskemet,HU-KC,HU
+Komarom-Esztergom,HU-KE,HU
+Kaposvar,HU-KP,HU
+Miskolc,HU-MK,HU
+Nograd,HU-NG,HU
+Nagykanizsa,HU-NK,HU
+Nyiregyhaza,HU-NY,HU
+Pecs,HU-PC,HU
+Pest,HU-PE,HU
+Szombathely,HU-SB,HU
+Szeged,HU-SG,HU
+Szekesfehervar,HU-SK,HU
+Szolnok,HU-SL,HU
+Somogy,HU-SM,HU
+Sopron,HU-SO,HU
+Szabolcs-Szatmar-Bereg,HU-SS,HU
+Tatabanya,HU-TB,HU
+Tolna,HU-TO,HU
+Vas,HU-VA,HU
+Veszprem,HU-VZ,HU
+Zala,HU-ZA,HU
+Zalaegerszeg,HU-ZG,HU
+Aceh,ID-AC,ID
+Bali,ID-BA,ID
+Bangka-Belitung,ID-BB,ID
+Bengkulu,ID-BE,ID
+Banten,ID-BT,ID
+Gorontalo,ID-GO,ID
+Papua,ID-IJ,ID
+Jambi,ID-JA,ID
+Jawa Timur,ID-JI,ID
+Jakarta Raya,ID-JK,ID
+Jawa Barat,ID-JR,ID
+Jawa Tengah,ID-JT,ID
+Kalimantan Barat,ID-KB,ID
+Kalimantan Timur,ID-KI,ID
+Kalimantan Selatan,ID-KS,ID
+Kalimantan Tengah,ID-KT,ID
+Lampung,ID-LA,ID
+Maluku,ID-MA,ID
+Maluku Utara,ID-MU,ID
+Nusa Tenggara Barat,ID-NB,ID
+Nusa Tenggara Timur,ID-NT,ID
+Riau,ID-RI,ID
+Sumatera Barat,ID-SB,ID
+Sulawesi Tenggara,ID-SG,ID
+Sumatera Selatan,ID-SL,ID
+Sulawesi Selatan,ID-SN,ID
+Sulawesi Tengah,ID-ST,ID
+Sumatera Utara,ID-SU,ID
+Sulawesi Utara,ID-SW,ID
+Yogyakarta,ID-YO,ID
+Cork,IE-CK,IE
+Clare,IE-CL,IE
+Cavan,IE-CV,IE
+Carlow,IE-CW,IE
+Dublin,IE-DB,IE
+Donegal,IE-DG,IE
+Galway,IE-GW,IE
+Kildare,IE-KD,IE
+Kilkenny,IE-KK,IE
+Kerry,IE-KR,IE
+Laois,IE-LA,IE
+Longford,IE-LF,IE
+Limerick,IE-LM,IE
+Leitrim,IE-LR,IE
+Louth,IE-LT,IE
+Monaghan,IE-MG,IE
+Meath,IE-MT,IE
+Mayo,IE-MY,IE
+Offaly,IE-OF,IE
+Roscommon,IE-RC,IE
+Sligo,IE-SL,IE
+Tipperary,IE-TP,IE
+Waterford,IE-WF,IE
+Wicklow,IE-WK,IE
+Westmeath,IE-WM,IE
+Wexford,IE-WX,IE
+Central,IL-C,IL
+Haifa,IL-H,IL
+Jerusalem,IL-J,IL
+Northern,IL-N,IL
+Southern,IL-S,IL
+Tel Aviv,IL-T,IL
+Andaman and Nicobar Islands,IN-AN,IN
+Andhra Pradesh,IN-AP,IN
+Arunachal Pradesh,IN-AR,IN
+Assam,IN-AS,IN
+Bihar,IN-BR,IN
+Chandigarh,IN-CH,IN
+Chhattisgarh,IN-CT,IN
+Daman and Diu,IN-DD,IN
+Delhi,IN-DL,IN
+Dadra and Nagar Haveli,IN-DN,IN
+Goa,IN-GA,IN
+Gujarat,IN-GJ,IN
+Himachal Pradesh,IN-HP,IN
+Haryana,IN-HR,IN
+Jharkhand,IN-JH,IN
+Jammu and Kashmir,IN-JK,IN
+Karnataka,IN-KA,IN
+Kerala,IN-KL,IN
+Lakshadweep,IN-LD,IN
+Meghalaya,IN-ML,IN
+Maharashtra,IN-MM,IN
+Manipur,IN-MN,IN
+Madhya Pradesh,IN-MP,IN
+Mizoram,IN-MZ,IN
+Nagaland,IN-NL,IN
+Orissa,IN-OR,IN
+Punjab,IN-PB,IN
+Pondicherry,IN-PY,IN
+Rajasthan,IN-RJ,IN
+Sikkim,IN-SK,IN
+Tamil Nadu,IN-TN,IN
+Tripura,IN-TR,IN
+Uttaranchal,IN-UL,IN
+Uttar Pradesh,IN-UP,IN
+West Bengal,IN-WB,IN
+Diego Garcia,IO-DG,IO
+Danger Island,IO-DI,IO
+Eagle Islands,IO-EA,IO
+Egmont Islands,IO-EG,IO
+Nelsons Island,IO-NI,IO
+Peros Banhos,IO-PB,IO
+Salomon Islands,IO-SI,IO
+Three Brothers,IO-TB,IO
+Al Anbar,IQ-AB,IQ
+Arbil,IQ-AL,IQ
+Al Basrah,IQ-BA,IQ
+Babil,IQ-BB,IQ
+Baghdad,IQ-BD,IQ
+Dahuk,IQ-DH,IQ
+Dhi Qar,IQ-DQ,IQ
+Diyala,IQ-DY,IQ
+Al Karbala,IQ-KB,IQ
+Al Muthanna,IQ-MU,IQ
+Maysan,IQ-MY,IQ
+An Najaf,IQ-NJ,IQ
+Ninawa,IQ-NN,IQ
+Al Qadisyah,IQ-QA,IQ
+Salah ad Din,IQ-SD,IQ
+As Sulaymaniyah,IQ-SL,IQ
+At Tamim,IQ-TM,IQ
+Wasit,IQ-WS,IQ
+Ardabil,IR-ARD,IR
+Bushehr,IR-BSH,IR
+Chahar Mahaal and Bakhtiari,IR-CMB,IR
+East Azarbaijan,IR-EAZ,IR
+Esfahan,IR-EFH,IR
+Fars,IR-FAR,IR
+Gilan,IR-GIL,IR
+Golestan,IR-GLS,IR
+Hamadan,IR-HMD,IR
+Hormozgan,IR-HRM,IR
+Ilam,IR-ILM,IR
+Kohkiluyeh and Buyer Ahmad,IR-KBA,IR
+Kerman,IR-KRB,IR
+Kurdistan,IR-KRD,IR
+Kermanshah,IR-KRM,IR
+Khuzestan,IR-KZT,IR
+Lorestan,IR-LRS,IR
+Markazi,IR-MKZ,IR
+Mazandaran,IR-MZD,IR
+North Khorasan,IR-NKH,IR
+Qazvin,IR-QAZ,IR
+Qom,IR-QOM,IR
+Razavi Khorasan,IR-RKH,IR
+Sistan and Baluchistan,IR-SBL,IR
+South Khorasan,IR-SKH,IR
+Semnan,IR-SMN,IR
+Tehran,IR-TEH,IR
+West Azarbaijan,IR-WEZ,IR
+Yazd,IR-YZD,IR
+Zanjan,IR-ZAN,IR
+Austurland,IS-AL,IS
+Hofuoborgarsvaeoi,IS-HF,IS
+Norourland eystra,IS-NE,IS
+Norourland vestra,IS-NV,IS
+Suourland,IS-SL,IS
+Suournes,IS-SN,IS
+Vestfiroir,IS-VF,IS
+Vesturland,IS-VL,IS
+Agrigento,IT-AG,IT
+Alessandria,IT-AL,IT
+Ancona,IT-AN,IT
+Aosta,IT-AO,IT
+Ascoli Piceno,IT-AP,IT
+LAquila,IT-AQ,IT
+Arezzo,IT-AR,IT
+Asti,IT-AT,IT
+Avellino,IT-AV,IT
+Bari,IT-BA,IT
+Bergamo,IT-BG,IT
+Biella,IT-BI,IT
+Belluno,IT-BL,IT
+Benevento,IT-BN,IT
+Bologna,IT-BO,IT
+Brindisi,IT-BR,IT
+Brescia,IT-BS,IT
+Bolzano,IT-BZ,IT
+Cagliari,IT-CA,IT
+Campobasso,IT-CB,IT
+Caserta,IT-CE,IT
+Chieti,IT-CH,IT
+Caltanissetta,IT-CL,IT
+Cuneo,IT-CN,IT
+Como,IT-CO,IT
+Cremona,IT-CR,IT
+Cosenza,IT-CS,IT
+Catania,IT-CT,IT
+Catanzaro,IT-CZ,IT
+Enna,IT-EN,IT
+Ferrara,IT-FE,IT
+Foggia,IT-FG,IT
+Firenze,IT-FI,IT
+ForlO?esena,IT-FO,IT
+Frosinone,IT-FR,IT
+Genova,IT-GE,IT
+Gorizia,IT-GO,IT
+Grosseto,IT-GR,IT
+Imperia,IT-IM,IT
+Isernia,IT-IS,IT
+Crotone,IT-KR,IT
+Lecco,IT-LC,IT
+Lecce,IT-LE,IT
+Livorno,IT-LI,IT
+Lodi,IT-LO,IT
+Latina,IT-LT,IT
+Lucca,IT-LU,IT
+Macerata,IT-MC,IT
+Messina,IT-ME,IT
+Milano,IT-MI,IT
+Mantova,IT-MN,IT
+Modena,IT-MO,IT
+Massa-Carrara,IT-MS,IT
+Matera,IT-MT,IT
+Naploli,IT-NA,IT
+Novara,IT-NO,IT
+Nuoro,IT-NU,IT
+Oristano,IT-OR,IT
+Palermo,IT-PA,IT
+Piacenza,IT-PC,IT
+Padova,IT-PD,IT
+Pescara,IT-PE,IT
+Perugia,IT-PG,IT
+Pisa,IT-PI,IT
+Pordenone,IT-PN,IT
+Prato,IT-PO,IT
+Parma,IT-PR,IT
+Pesaro e Urbino,IT-PS,IT
+Pistoia,IT-PT,IT
+Pavia,IT-PV,IT
+Potenza,IT-PZ,IT
+Ravenna,IT-RA,IT
+Reggio Calabria,IT-RC,IT
+Reggio Emilia,IT-RE,IT
+Ragusa,IT-RG,IT
+Rieti,IT-RI,IT
+Roma,IT-RM,IT
+Rimini,IT-RN,IT
+Rovigo,IT-RO,IT
+Salerno,IT-SA,IT
+Siena,IT-SI,IT
+Sondrio,IT-SO,IT
+La Spezia,IT-SP,IT
+Siracusa,IT-SR,IT
+Sassari,IT-SS,IT
+Savona,IT-SV,IT
+Taranto,IT-TA,IT
+Teramo,IT-TE,IT
+Trento,IT-TN,IT
+Torino,IT-TO,IT
+Trapani,IT-TP,IT
+Terni,IT-TR,IT
+Trieste,IT-TS,IT
+Treviso,IT-TV,IT
+Udine,IT-UD,IT
+Varese,IT-VA,IT
+Verbano-Cusio-Ossola,IT-VB,IT
+Vercelli,IT-VC,IT
+Venezia,IT-VE,IT
+Vicenza,IT-VI,IT
+Verona,IT-VR,IT
+Viterbo,IT-VT,IT
+Vibo Valentia,IT-VV,IT
+Saint Andrew Parish,JM-AND,JM
+Saint Ann Parish,JM-ANN,JM
+Saint Catherine Parish,JM-CAT,JM
+Clarendon Parish,JM-CLA,JM
+Saint Elizabeth Parish,JM-ELI,JM
+Hanover Parish,JM-HAN,JM
+Saint James Parish,JM-JAM,JM
+Kingston Parish,JM-KIN,JM
+Manchester Parish,JM-MAN,JM
+Saint Mary Parish,JM-MAR,JM
+Portland Parish,JM-POR,JM
+Saint Thomas Parish,JM-THO,JM
+Trelawny Parish,JM-TRL,JM
+Westmoreland Parish,JM-WML,JM
+Ajlun,JO-AJ,JO
+Amman,JO-AM,JO
+Al Aqabah,JO-AQ,JO
+Al Balqa,JO-BA,JO
+Irbid,JO-IR,JO
+Jarash,JO-JA,JO
+Al Karak,JO-KA,JO
+Madaba,JO-MD,JO
+Al Mafraq,JO-MF,JO
+Maan,JO-MN,JO
+At Tafilah,JO-TA,JO
+Az Zarqa,JO-ZA,JO
+Hokkaido,JP-01,JP
+Aomori,JP-02,JP
+Iwate,JP-03,JP
+Miyagi,JP-04,JP
+Akita,JP-05,JP
+Yamagata,JP-06,JP
+Hukusima (Fukushima),JP-07,JP
+Ibaraki,JP-08,JP
+Totigi (Tochigi),JP-09,JP
+Gunma,JP-10,JP
+Saitama,JP-11,JP
+Tiba (Chiba),JP-12,JP
+Tokyo,JP-13,JP
+Kanagawa,JP-14,JP
+Niigata,JP-15,JP
+Toyama,JP-16,JP
+Isikawa (Ishikawa),JP-17,JP
+Hukui (Fukui),JP-18,JP
+Yamanasi (Yamanashi),JP-19,JP
+Nagano,JP-20,JP
+Gihu (Gifu),JP-21,JP
+Sizuoka (Shizuoka),JP-22,JP
+Aiti (Aichi),JP-23,JP
+Mie,JP-24,JP
+Siga (Shiga),JP-25,JP
+Kyoto,JP-26,JP
+Osaka,JP-27,JP
+Hyogo,JP-28,JP
+Nara,JP-29,JP
+Wakayama,JP-30,JP
+Tottori,JP-31,JP
+Simane (Shimane),JP-32,JP
+Okayama,JP-33,JP
+Hirosima (Hiroshima),JP-34,JP
+Yamaguti (Yamaguchi),JP-35,JP
+Tokusima (Tokushima),JP-36,JP
+Kagawa,JP-37,JP
+Ehime,JP-38,JP
+Koti (Kochi),JP-39,JP
+Hukuoka (Fukuoka),JP-40,JP
+Saga,JP-41,JP
+Nagasaki,JP-42,JP
+Kumamoto,JP-43,JP
+Oita,JP-44,JP
+Miyazaki,JP-45,JP
+Kagosima (Kagoshima),JP-46,JP
+Okinawa,JP-47,JP
+Central,KE-CE,KE
+Coast,KE-CO,KE
+Eastern,KE-EA,KE
+Nairobi Area,KE-NA,KE
+North Eastern,KE-NE,KE
+Nyanza,KE-NY,KE
+Rift Valley,KE-RV,KE
+Western,KE-WE,KE
+Batken,KG-B,KG
+Chu,KG-C,KG
+Bishkek,KG-GB,KG
+Jalal-Abad,KG-J,KG
+Naryn,KG-N,KG
+Osh,KG-O,KG
+Talas,KG-T,KG
+Ysyk-Kol,KG-Y,KG
+Battambang,KH-BA,KH
+Banteay Meanchey,KH-BM,KH
+Keb,KH-KB,KH
+Kaoh Kong,KH-KK,KH
+Kandal,KH-KL,KH
+Kampong Cham,KH-KM,KH
+Kampong Chhnang,KH-KN,KH
+Kampong Som,KH-KO,KH
+Kampot,KH-KP,KH
+Kratie,KH-KR,KH
+Kampong Thom,KH-KT,KH
+Kampong Speu,KH-KU,KH
+Mondul Kiri,KH-MK,KH
+Oddar Meancheay,KH-OM,KH
+Pailin,KH-PA,KH
+Prey Veng,KH-PG,KH
+Phnom Penh,KH-PP,KH
+Preah Vihear,KH-PR,KH
+Preah Seihanu (Kompong Som or Sihanoukville),KH-PS,KH
+Pursat,KH-PU,KH
+Ratanak Kiri,KH-RK,KH
+Siemreap,KH-SI,KH
+Svay Rieng,KH-SR,KH
+Stung Treng,KH-ST,KH
+Takeo,KH-TK,KH
+Abaiang,KI-AG,KI
+Aranuka,KI-AK,KI
+Abemama,KI-AM,KI
+Arorae,KI-AO,KI
+Banaba,KI-BA,KI
+Beru,KI-BE,KI
+Kanton,KI-KA,KI
+Kiritimati,KI-KR,KI
+Kuria,KI-KU,KI
+Marakei,KI-ME,KI
+Maiana,KI-MI,KI
+Makin,KI-MN,KI
+Nikunau,KI-NI,KI
+Nonouti,KI-NO,KI
+Onotoa,KI-ON,KI
+Teraina,KI-TE,KI
+Tamana,KI-TM,KI
+Tabuaeran,KI-TR,KI
+Tabiteuea,KI-TT,KI
+Tarawa,KI-TW,KI
+Butaritari,KI-bT,KI
+Anjouan,KM-A,KM
+Grande Comore,KM-G,KM
+Moheli,KM-M,KM
+Saint Paul Capesterre,KN-CAP,KN
+Christ Church Nichola Town,KN-CCN,KN
+Saint Paul Charlestown,KN-CHA,KN
+Saint Anne Sandy Point,KN-SAS,KN
+Saint George Basseterre,KN-SGB,KN
+Saint George Gingerland,KN-SGG,KN
+Saint John Capesterre,KN-SJC,KN
+Saint John Figtree,KN-SJF,KN
+Saint James Windward,KN-SJW,KN
+Saint Mary Cayon,KN-SMC,KN
+Saint Peter Basseterre,KN-SPB,KN
+Saint Thomas Lowland,KN-STL,KN
+Saint Thomas Middle Island,KN-STM,KN
+Trinity Palmetto Point,KN-TPP,KN
+Chagang-do,KP-CHA,KP
+Hamgyong-bukto,KP-HAB,KP
+Hamgyong-namdo,KP-HAN,KP
+Hwanghae-bukto,KP-HWB,KP
+Hwanghae-namdo,KP-HWN,KP
+Kangwon-do,KP-KAN,KP
+Rason Directly Governed City,KP-NAJ,KP
+Pyongan-bukto,KP-PYB,KP
+Pyongan-namdo,KP-PYN,KP
+Pyongyang Special City,KP-PYO,KP
+Ryanggang-do (Yanggang-do),KP-YAN,KP
+Seoul Special City,KR-11,KR
+Busan Metropolitan City,KR-26,KR
+Daegu Metropolitan City,KR-27,KR
+Incheon Metropolitan City,KR-28,KR
+Gwangju Metropolitan City,KR-29,KR
+Daejeon Metropolitan City,KR-30,KR
+Ulsan Metropolitan City,KR-31,KR
+Gyeonggi-do,KR-41,KR
+Gangwon-do,KR-42,KR
+Chungcheongbuk-do,KR-43,KR
+Chungcheongnam-do,KR-44,KR
+Jeollabuk-do,KR-45,KR
+Jeollanam-do,KR-46,KR
+Gyeongsangbuk-do,KR-47,KR
+Gyeongsangnam-do,KR-48,KR
+Jeju-do,KR-49,KR
+Al Ahmadi,KW-D,KW
+Al Farwaniyah,KW-F,KW
+Hawalli,KW-H,KW
+Al Jahra,KW-J,KW
+Al Asimah,KW-S,KW
+Creek,KY-CR,KY
+Eastern,KY-EA,KY
+Midland,KY-ML,KY
+Stake Bay,KY-SK,KY
+Spot Bay,KY-SP,KY
+South Town,KY-ST,KY
+West End,KY-WD,KY
+Western,KY-WN,KY
+Aqmola,KZ-AKM,KZ
+Aqtobe,KZ-AKT,KZ
+Almaty,KZ-ALA,KZ
+Almaty,KZ-ALM,KZ
+Astana,KZ-AST,KZ
+Atyrau,KZ-ATY,KZ
+Qaraghandy,KZ-KAR,KZ
+Qustanay,KZ-KUS,KZ
+Qyzylorda,KZ-KZY,KZ
+Mangghystau,KZ-MAN,KZ
+Paylodar,KZ-PAV,KZ
+Soltustik Qazaqstan,KZ-SEV,KZ
+Shyghys Qazaqstan,KZ-VOS,KZ
+Ongtustik Qazaqstan,KZ-YUZ,KZ
+Baty Qazaqstan,KZ-ZAP,KZ
+Zhambyl,KZ-ZHA,KZ
+Attapu,LA-AT,LA
+Bokeo,LA-BK,LA
+Bolikhamxai,LA-BL,LA
+Champasak,LA-CH,LA
+Houaphan,LA-HO,LA
+Khammouan,LA-KH,LA
+Louang Namtha,LA-LM,LA
+Louangphabang,LA-LP,LA
+Oudomxai,LA-OU,LA
+Phongsali,LA-PH,LA
+Salavan,LA-SL,LA
+Savannakhet,LA-SV,LA
+Vientiane,LA-VI,LA
+Vientiane,LA-VT,LA
+Xaignabouli,LA-XA,LA
+Xekong,LA-XE,LA
+Xiangkhoang,LA-XI,LA
+Xaisomboun,LA-XN,LA
+Anse-la-Raye,LC-AR,LC
+Castries,LC-CA,LC
+Choiseul,LC-CH,LC
+Dauphin,LC-DA,LC
+Dennery,LC-DE,LC
+Gros-Islet,LC-GI,LC
+Laborie,LC-LA,LC
+Micoud,LC-MI,LC
+Praslin,LC-PR,LC
+Soufriere,LC-SO,LC
+Vieux-Fort,LC-VF,LC
+Schaan,LI-A,LI
+Balzers,LI-B,LI
+Eschen,LI-E,LI
+Gamprin,LI-G,LI
+Mauren,LI-M,LI
+Triesen,LI-N,LI
+Planken,LI-P,LI
+Ruggell,LI-R,LI
+Triesenberg,LI-T,LI
+Vaduz,LI-V,LI
+Schellenberg,Li-L,LI
+Central,LK-CE,LK
+Eastern,LK-EA,LK
+North Central,LK-NC,LK
+Northern,LK-NO,LK
+North Western,LK-NW,LK
+Sabaragamuwa,LK-SA,LK
+Southern,LK-SO,LK
+Uva,LK-UV,LK
+Western,LK-WE,LK
+Bong,LR-BG,LR
+Bomi,LR-BI,LR
+Grand Cape Mount,LR-CM,LR
+Grand Bassa,LR-GB,LR
+Grand Gedeh,LR-GG,LR
+Grand Kru,LR-GK,LR
+Lofa,LR-LO,LR
+Margibi,LR-MG,LR
+Maryland,LR-ML,LR
+Montserrado,LR-MS,LR
+Nimba,LR-NB,LR
+River Cess,LR-RC,LR
+Sinoe,LR-SN,LR
+Butha-Buthe,LS-BB,LS
+Berea,LS-BE,LS
+Leribe,LS-LE,LS
+Mafeteng,LS-MF,LS
+Mohales Hoek,LS-MH,LS
+Mokhotlong,LS-MK,LS
+Maseru,LS-MS,LS
+Qachas Nek,LS-QN,LS
+Quthing,LS-QT,LS
+Thaba-Tseka,LS-TT,LS
+Alytus,LT-AL,LT
+Kaunas,LT-KA,LT
+Klaipeda,LT-KL,LT
+Marijampole,LT-MA,LT
+Panevezys,LT-PA,LT
+Siauliai,LT-SI,LT
+Taurage,LT-TA,LT
+Telsiai,LT-TE,LT
+Utena,LT-UT,LT
+Vilnius,LT-VI,LT
+Clervaux,LU-DC,LU
+Diekirch,LU-DD,LU
+Redange,LU-DR,LU
+Vianden,LU-DV,LU
+Wiltz,LU-DW,LU
+Echternach,LU-GE,LU
+Grevenmacher,LU-GG,LU
+Remich,LU-GR,LU
+Capellen,LU-LC,LU
+Esch-sur-Alzette,LU-LE,LU
+Luxembourg,LU-LL,LU
+Mersch,LU-LM,LU
+Aizkraukles Rajons,LV-AIZ,LV
+Aluksnes Rajons,LV-ALU,LV
+Balvu Rajons,LV-BAL,LV
+Bauskas Rajons,LV-BAU,LV
+Cesu Rajons,LV-CES,LV
+Daugavpils Rajons,LV-DGR,LV
+Daugavpils,LV-DGV,LV
+Dobeles Rajons,LV-DOB,LV
+Gulbenes Rajons,LV-GUL,LV
+Jekabpils Rajons,LV-JEK,LV
+Jelgavas Rajons,LV-JGR,LV
+Jelgava,LV-JGV,LV
+Jurmala,LV-JUR,LV
+Kraslavas Rajons,LV-KRA,LV
+Kuldigas Rajons,LV-KUL,LV
+Limbazu Rajons,LV-LIM,LV
+Liepaja,LV-LPK,LV
+Liepajas Rajons,LV-LPR,LV
+Ludzas Rajons,LV-LUD,LV
+Madonas Rajons,LV-MAD,LV
+Ogres Rajons,LV-OGR,LV
+Preilu Rajons,LV-PRE,LV
+Riga,LV-RGA,LV
+Rigas Rajons,LV-RGR,LV
+Rezekne,LV-RZK,LV
+Rezeknes Rajons,LV-RZR,LV
+Saldus Rajons,LV-SAL,LV
+Talsu Rajons,LV-TAL,LV
+Tukuma Rajons,LV-TUK,LV
+Valkas Rajons,LV-VLK,LV
+Valmieras Rajons,LV-VLM,LV
+Ventspils,LV-VSL,LV
+Ventspils Rajons,LV-VSR,LV
+Ajdabiya,LY-AJ,LY
+Ash Shati,LY-AS,LY
+Awbari,LY-AW,LY
+Al Aziziyah,LY-AZ,LY
+Banghazi,LY-BA,LY
+Darnah,LY-DA,LY
+Al Fatih,LY-FA,LY
+Ghadamis,LY-GD,LY
+Gharyan,LY-GY,LY
+Al Jabal al Akhdar,LY-JA,LY
+Al Jufrah,LY-JU,LY
+Al Khums,LY-KH,LY
+Al Kufrah,LY-KU,LY
+Misratah,LY-MI,LY
+Murzuq,LY-MZ,LY
+An Nuqat al Khams,LY-NK,LY
+Sabha,LY-SB,LY
+Surt,LY-SU,LY
+Sawfajjin,LY-SW,LY
+Tarhunah,LY-TH,LY
+Tarabulus (Tripoli),LY-TL,LY
+Tubruq,LY-TU,LY
+Yafran,LY-YA,LY
+Az Zawiyah,LY-ZA,LY
+Zlitan,LY-ZL,LY
+Ad Dakhla,MA-ADK,MA
+Agadir,MA-AGD,MA
+Azilal,MA-AZI,MA
+Boujdour,MA-BJD,MA
+Boulemane,MA-BLM,MA
+Beni Mellal,MA-BME,MA
+Ben Slimane,MA-BSL,MA
+Casablanca,MA-CBL,MA
+Chaouen,MA-CHA,MA
+El Jadida,MA-EJA,MA
+El Kelaa des Sraghna,MA-EKS,MA
+Er Rachidia,MA-ERA,MA
+Es Smara,MA-ESM,MA
+Essaouira,MA-ESS,MA
+Fes,MA-FES,MA
+Figuig,MA-FIG,MA
+Guelmim,MA-GLM,MA
+Al Hoceima,MA-HOC,MA
+Ifrane,MA-IFR,MA
+Kenitra,MA-KEN,MA
+Khemisset,MA-KHM,MA
+Khenifra,MA-KHN,MA
+Khouribga,MA-KHO,MA
+Larache,MA-LAR,MA
+Laayoune,MA-LYN,MA
+Meknes,MA-MKN,MA
+Marrakech,MA-MRK,MA
+Nador,MA-NAD,MA
+Ouarzazate,MA-ORZ,MA
+Oujda,MA-OUJ,MA
+Rabat-Sale,MA-RSA,MA
+Safi,MA-SAF,MA
+Settat,MA-SET,MA
+Sidi Kacem,MA-SKA,MA
+Tan-Tan,MA-TAN,MA
+Taounate,MA-TAO,MA
+Tata,MA-TAT,MA
+Taza,MA-TAZ,MA
+Tetouan,MA-TET,MA
+Tangier,MA-TGR,MA
+Tiznit,MA-TIZ,MA
+Taroudannt,MA-TRD,MA
+Fontvieille,MC-FV,MC
+La Condamine,MC-LC,MC
+Monte-Carlo,MC-MC,MC
+Monaco-Ville,MC-MV,MC
+Balti,MD-BA,MD
+Cahul,MD-CA,MD
+Chisinau,MD-CU,MD
+Edinet,MD-ED,MD
+Gagauzia,MD-GA,MD
+Lapusna,MD-LA,MD
+Orhei,MD-OR,MD
+StO?a Nistrului,MD-SN,MD
+Soroca,MD-SO,MD
+Tighina,MD-TI,MD
+Ungheni,MD-UN,MD
+Antananarivo province,MG-AN,MG
+Antsiranana province,MG-AS,MG
+Fianarantsoa province,MG-FN,MG
+Mahajanga province,MG-MJ,MG
+Toliara province,MG-TL,MG
+Toamasina province,MG-TM,MG
+Ailinginae,MH-ALG,MH
+Ailuk,MH-ALK,MH
+Ailinglaplap,MH-ALL,MH
+Arno,MH-ARN,MH
+Aur,MH-AUR,MH
+Bokak,MH-BKK,MH
+Bikini,MH-BKN,MH
+Bikar,MH-BKR,MH
+Ebon,MH-EBN,MH
+Erikub,MH-EKB,MH
+Enewetak,MH-ENT,MH
+Jabat,MH-JBT,MH
+Jemo,MH-JEM,MH
+Jaluit,MH-JLT,MH
+Kili,MH-KIL,MH
+Kwajalein,MH-KWJ,MH
+Lae,MH-LAE,MH
+Lib,MH-LIB,MH
+Likiep,MH-LKP,MH
+Mili,MH-MIL,MH
+Majuro,MH-MJR,MH
+Mejit,MH-MJT,MH
+Maloelap,MH-MLP,MH
+Namu,MH-NAM,MH
+Namorik,MH-NMK,MH
+Rongrik,MH-RGK,MH
+Rongelap,MH-RGL,MH
+Toke,MH-TOK,MH
+Ujae,MH-UJA,MH
+Ujelang,MH-UJL,MH
+Utirik,MH-UTK,MH
+Wotho,MH-WTH,MH
+Wotje,MH-WTJ,MH
+Bamako Capital District,ML-CD,ML
+Gao,ML-GA,ML
+Kidal,ML-KD,ML
+Koulikoro,ML-KL,ML
+Kayes,ML-KY,ML
+Mopti,ML-MP,ML
+Segou,ML-SG,ML
+Sikasso,ML-SK,ML
+Tombouctou,ML-TB,ML
+Ayeyarwady,MM-AY,MM
+Bago,MM-BG,MM
+Chin State,MM-CH,MM
+Kachin State,MM-KC,MM
+Kayah State,MM-KH,MM
+Kayin State,MM-KN,MM
+Mandalay,MM-MD,MM
+Magway,MM-MG,MM
+Mon State,MM-MN,MM
+Rakhine State,MM-RK,MM
+Sagaing,MM-SG,MM
+Shan State,MM-SH,MM
+Tanintharyi,MM-TN,MM
+Yangon,MM-YG,MM
+Orhon,MN-035,MN
+Darhan uul,MN-037,MN
+Hentiy,MN-039,MN
+Hovsgol,MN-041,MN
+Hovd,MN-043,MN
+Uvs,MN-046,MN
+Tov,MN-047,MN
+Selenge,MN-049,MN
+Suhbaatar,MN-051,MN
+Omnogovi,MN-053,MN
+Ovorhangay,MN-055,MN
+Dzavhan,MN-057,MN
+DundgovL,MN-059,MN
+Dornod,MN-061,MN
+Dornogov,MN-063,MN
+Govi-Sumber,MN-064,MN
+Govi-Altay,MN-065,MN
+Bulgan,MN-067,MN
+Bayanhongor,MN-069,MN
+Bayan-Olgiy,MN-071,MN
+Arhangay,MN-073,MN
+Ulanbaatar,MN-1,MN
+St. Anthony Parish,MO-ANT,MO
+Cathedral Parish,MO-CAT,MO
+St. Lawrence Parish,MO-LAW,MO
+St. Lazarus Parish,MO-LAZ,MO
+Our Lady Fatima Parish,MO-OLF,MO
+Northern Islands,MP-N,MP
+Rota,MP-R,MP
+Saipan,MP-S,MP
+Tinian,MP-T,MP
+Adrar,MR-AD,MR
+Assaba,MR-AS,MR
+Brakna,MR-BR,MR
+Dakhlet Nouadhibou,MR-DN,MR
+Guidimaka,MR-GM,MR
+Gorgol,MR-GO,MR
+Hodh Ech Chargui,MR-HC,MR
+Hodh El Gharbi,MR-HG,MR
+Inchiri,MR-IN,MR
+Nouakchott,MR-NO,MR
+Tagant,MR-TA,MR
+Trarza,MR-TR,MR
+Tiris Zemmour,MR-TZ,MR
+Saint Anthony,MS-A,MS
+Saint Georges,MS-G,MS
+Saint Peter,MS-P,MS
+Attard,MT-ATT,MT
+Balzan,MT-BAL,MT
+Birgu,MT-BGU,MT
+Birkirkara,MT-BKK,MT
+Bormla,MT-BOR,MT
+Birzebbuga,MT-BRZ,MT
+Dingli,MT-DIN,MT
+Fgura,MT-FGU,MT
+Floriana,MT-FLO,MT
+Fontana,MT-FNT,MT
+Gudja,MT-GDJ,MT
+Ghajnsielem,MT-GHJ,MT
+Gharb,MT-GHR,MT
+Ghasri,MT-GHS,MT
+Gargur,MT-GRG,MT
+Gaxaq,MT-GXQ,MT
+Gzira,MT-GZR,MT
+Hamrun,MT-HMR,MT
+Iklin,MT-IKL,MT
+Isla,MT-ISL,MT
+Kalkara,MT-KLK,MT
+Kercem,MT-KRC,MT
+Kirkop,MT-KRK,MT
+Lija,MT-LIJ,MT
+Luqa,MT-LUQ,MT
+Mdina,MT-MDN,MT
+Melliea,MT-MEL,MT
+Mgarr,MT-MGR,MT
+Marsaskala,MT-MKL,MT
+Mqabba,MT-MQA,MT
+Marsa,MT-MRS,MT
+Msida,MT-MSI,MT
+Mosta,MT-MST,MT
+Mtarfa,MT-MTF,MT
+Munxar,MT-MUN,MT
+Marsaxlokk,MT-MXL,MT
+Nadur,MT-NAD,MT
+Naxxar,MT-NAX,MT
+Paola,MT-PAO,MT
+Pembroke,MT-PEM,MT
+Pieta,MT-PIE,MT
+Qala,MT-QAL,MT
+Qormi,MT-QOR,MT
+Qrendi,MT-QRE,MT
+Rabat,MT-RAB,MT
+Safi,MT-SAF,MT
+San Giljan,MT-SGI,MT
+San Gwann,MT-SGW,MT
+Siggiewi,MT-SIG,MT
+San Lawrenz,MT-SLA,MT
+Sliema,MT-SLM,MT
+Santa Lucija,MT-SLU,MT
+Sannat,MT-SNT,MT
+San Pawl il-Bahar,MT-SPB,MT
+Santa Venera,MT-SVE,MT
+Swieqi,MT-SWQ,MT
+Tarxien,MT-TRX,MT
+Ta Xbiex,MT-TXB,MT
+Victoria,MT-VIC,MT
+Valletta,MT-VLT,MT
+Xewkija,MT-XEW,MT
+Xgajra,MT-XGJ,MT
+Xagra,MT-ZAG,MT
+Zebbug,MT-ZBG,MT
+Zabbar,MT-ZBR,MT
+Zebbug,MT-ZEB,MT
+Zejtun,MT-ZJT,MT
+Zurrieq,MT-ZRQ,MT
+Agalega Islands,MU-AG,MU
+Black River,MU-BL,MU
+Beau Bassin-Rose Hill,MU-BR,MU
+Cargados Carajos Shoals (Saint Brandon Islands),MU-CC,MU
+Curepipe,MU-CU,MU
+Flacq,MU-FL,MU
+Grand Port,MU-GP,MU
+Moka,MU-MO,MU
+Pamplemousses,MU-PA,MU
+Port Louis,MU-PL,MU
+Port Louis,MU-PU,MU
+Plaines Wilhems,MU-PW,MU
+Quatre Bornes,MU-QB,MU
+Rodrigues,MU-RO,MU
+Riviere du Rempart,MU-RR,MU
+Savanne,MU-SA,MU
+Vacoas-Phoenix,MU-VP,MU
+Ari Atoll Dheknu,MV-AAD,MV
+Ari Atoll Uthuru,MV-AAU,MV
+Addu,MV-ADD,MV
+Faadhippolhu,MV-FAA,MV
+Felidhe Atoll,MV-FEA,MV
+Fua Mulaku,MV-FMU,MV
+Huvadhu Atoll Dhekunu,MV-HAD,MV
+Huvadhu Atoll Uthuru,MV-HAU,MV
+Hadhdhunmathi,MV-HDH,MV
+Kolhumadulu,MV-KLH,MV
+Male Atoll,MV-MAA,MV
+Maalhosmadulu Dhekunu,MV-MAD,MV
+Maalhosmadulu Uthuru,MV-MAU,MV
+Miladhunmadulu Dhekunu,MV-MLD,MV
+Miladhunmadulu Uthuru,MV-MLU,MV
+Mulaku Atoll,MV-MUA,MV
+Nilandhe Atoll Dhekunu,MV-NAD,MV
+Nilandhe Atoll Uthuru,MV-NAU,MV
+Thiladhunmathi Dhekunu,MV-THD,MV
+Thiladhunmathi Uthuru,MV-THU,MV
+Balaka,MW-BLK,MW
+Blantyre,MW-BLT,MW
+Chikwawa,MW-CKW,MW
+Chiradzulu,MW-CRD,MW
+Chitipa,MW-CTP,MW
+Dedza,MW-DDZ,MW
+Dowa,MW-DWA,MW
+Karonga,MW-KRG,MW
+Kasungu,MW-KSG,MW
+Likoma,MW-LKM,MW
+Lilongwe,MW-LLG,MW
+Machinga,MW-MCG,MW
+Mchinji,MW-MCH,MW
+Mangochi,MW-MGC,MW
+Mulanje,MW-MLJ,MW
+Mwanza,MW-MWZ,MW
+Mzimba,MW-MZM,MW
+Nkhata Bay,MW-NKB,MW
+Nkhotakota,MW-NKH,MW
+Nsanje,MW-NSJ,MW
+Ntchisi,MW-NTI,MW
+Ntcheu,MW-NTU,MW
+Phalombe,MW-PHL,MW
+Rumphi,MW-RMP,MW
+Salima,MW-SLM,MW
+Thyolo,MW-THY,MW
+Zomba,MW-ZBA,MW
+Aguascalientes,MX-AGU,MX
+Baja California,MX-BCN,MX
+Baja California Sur,MX-BCS,MX
+Campeche,MX-CAM,MX
+Chihuahua,MX-CHH,MX
+Chiapas,MX-CHP,MX
+Coahuila,MX-COA,MX
+Colima,MX-COL,MX
+Distrito Federal,MX-DIF,MX
+Durango,MX-DUR,MX
+Guerrero,MX-GRO,MX
+Guanajuato,MX-GUA,MX
+Hidalgo,MX-HID,MX
+Jalisco,MX-JAL,MX
+Mexico,MX-MEX,MX
+Michoacan,MX-MIC,MX
+Morelos,MX-MOR,MX
+Nayarit,MX-NAY,MX
+Nuevo Leon,MX-NLE,MX
+Oaxaca,MX-OAX,MX
+Puebla,MX-PUE,MX
+Queretaro,MX-QUE,MX
+Quintana Roo,MX-ROO,MX
+Sinaloa,MX-SIN,MX
+San Luis Potosi,MX-SLP,MX
+Sonora,MX-SON,MX
+Tabasco,MX-TAB,MX
+Tamaulipas,MX-TAM,MX
+Tlaxcala,MX-TLA,MX
+Veracruz,MX-VER,MX
+Yucatan,MX-YUC,MX
+Zacatecas,MX-ZAC,MX
+Johor,MY-JH,MY
+Kedah,MY-KD,MY
+Kuala Lumpur,MY-KL,MY
+Kelantan,MY-KN,MY
+Labuan,MY-LB,MY
+Malacca,MY-ML,MY
+Negeri Sembilan,MY-NS,MY
+Penang,MY-PG,MY
+Pahang,MY-PH,MY
+Perak,MY-PK,MY
+Perlis,MY-PS,MY
+Sabah,MY-SB,MY
+Selangor,MY-SL,MY
+Sarawak,MY-SR,MY
+Terengganu,MY-TR,MY
+Wilayah Persekutuan,MY-WP,MY
+Cabo Delgado,MZ-CD,MZ
+Gaza,MZ-GZ,MZ
+Inhambane,MZ-IN,MZ
+Maputo (city),MZ-MC,MZ
+Manica,MZ-MN,MZ
+Maputo,MZ-MP,MZ
+Nampula,MZ-NA,MZ
+Niassa,MZ-NI,MZ
+Sofala,MZ-SO,MZ
+Tete,MZ-TE,MZ
+Zambezia,MZ-ZA,MZ
+Caprivi,NA-CA,NA
+Erongo,NA-ER,NA
+Hardap,NA-HA,NA
+Khomas,NA-KH,NA
+Karas,NA-KR,NA
+Kunene,NA-KU,NA
+Kavango,NA-KV,NA
+Otjozondjupa,NA-OJ,NA
+Omaheke,NA-OK,NA
+Oshana,NA-ON,NA
+Oshikoto,NA-OO,NA
+Omusati,NA-OT,NA
+Ohangwena,NA-OW,NA
+Iles Loyaute,NC-L,NC
+Nord,NC-N,NC
+Sud,NC-S,NC
+Abia,NG-AB,NG
+Adamawa,NG-AD,NG
+Agadez,NG-AG,NG
+Akwa Ibom,NG-AK,NG
+Anambra,NG-AN,NG
+Bauchi,NG-BC,NG
+Benue,NG-BN,NG
+Borno,NG-BO,NG
+Bayelsa,NG-BY,NG
+Cross River,NG-CR,NG
+Federal Capital Territory,NG-CT,NG
+Delta,NG-DE,NG
+Diffa,NG-DF,NG
+Dosso,NG-DS,NG
+Ebonyi,NG-EB,NG
+Edo,NG-ED,NG
+Ekiti,NG-EK,NG
+Enugu,NG-EN,NG
+Gombe,NG-GO,NG
+Imo,NG-IM,NG
+Jigawa,NG-JI,NG
+Kaduna,NG-KD,NG
+Kebbi,NG-KE,NG
+Kano,NG-KN,NG
+Kogi,NG-KO,NG
+Katsina,NG-KT,NG
+Kwara,NG-KW,NG
+Lagos,NG-LA,NG
+Maradi,NG-MA,NG
+Nassarawa,NG-NA,NG
+Niger,NG-NI,NG
+Niamey,NG-NM,NG
+Ogun,NG-OG,NG
+Ondo,NG-ONG,NG
+Osun,NG-OS,NG
+Oyo,NG-OY,NG
+Plateau,NG-PL,NG
+Rivers,NG-RI,NG
+Sokoto,NG-SO,NG
+Taraba,NG-TA,NG
+Tahoua,NG-TH,NG
+Tillaberi,NG-TL,NG
+Yobe,NG-YO,NG
+Zamfara,NG-ZA,NG
+Zinder,NG-ZD,NG
+Region Autonoma del Atlantico Norte,NI-AN,NI
+Region Autonoma del Atlantico Sur,NI-AS,NI
+Boaco,NI-BO,NI
+Carazo,NI-CA,NI
+Chinandega,NI-CD,NI
+Chontales,NI-CT,NI
+Esteli,NI-ES,NI
+Granada,NI-GR,NI
+Jinotega,NI-JI,NI
+Leon,NI-LE,NI
+Madriz,NI-MD,NI
+Managua,NI-MN,NI
+Masaya,NI-MS,NI
+Matagalpa,NI-MT,NI
+Nueva Segovia,NI-NS,NI
+Rivas,NI-RV,NI
+Rio San Juan,NI-SJ,NI
+Drenthe,NL-DR,NL
+Flevoland,NL-FL,NL
+Friesland,NL-FR,NL
+Gelderland,NL-GE,NL
+Groningen,NL-GR,NL
+Limburg,NL-LI,NL
+Noord Brabant,NL-NB,NL
+Noord Holland,NL-NH,NL
+Overijssel,NL-OV,NL
+Utrecht,NL-UT,NL
+Zeeland,NL-ZE,NL
+Zuid Holland,NL-ZH,NL
+Aust-Agder,NO-AA,NO
+Akershus,NO-AK,NO
+Buskerud,NO-BU,NO
+Finnmark,NO-FM,NO
+Hordaland,NO-HL,NO
+Hedmark,NO-HM,NO
+More og Romdal,NO-MR,NO
+Nordland,NO-NL,NO
+Nord-Trondelag,NO-NT,NO
+Ostfold,NO-OF,NO
+Oslo,NO-OL,NO
+Oppland,NO-OP,NO
+Rogaland,NO-RL,NO
+Sogn og Fjordane,NO-SJ,NO
+Sor-Trondelag,NO-ST,NO
+Telemark,NO-TM,NO
+Troms,NO-TR,NO
+Vest-Agder,NO-VA,NO
+Vestfold,NO-VF,NO
+Bagmati,NP-BA,NP
+Bheri,NP-BH,NP
+Dhawalagiri,NP-DH,NP
+Gandaki,NP-GA,NP
+Janakpur,NP-JA,NP
+Karnali,NP-KA,NP
+Kosi,NP-KO,NP
+Lumbini,NP-LU,NP
+Mahakali,NP-MA,NP
+Mechi,NP-ME,NP
+Narayani,NP-NA,NP
+Rapti,NP-RA,NP
+Sagarmatha,NP-SA,NP
+Seti,NP-SE,NP
+Anabar,NR-AA,NR
+Anibare,NR-AI,NR
+Aiwo,NR-AO,NR
+Anetan,NR-AT,NR
+Baiti,NR-BA,NR
+Boe,NR-BO,NR
+Buada,NR-BU,NR
+Denigomodu,NR-DE,NR
+Ewa,NR-EW,NR
+Ijuw,NR-IJ,NR
+Meneng,NR-ME,NR
+Nibok,NR-NI,NR
+Uaboe,NR-UA,NR
+Yaren,NR-YA,NR
+Auckland,NZ-AUK,NZ
+Bay of Plenty,NZ-BOP,NZ
+Canterbury,NZ-CAN,NZ
+Gisborne,NZ-GIS,NZ
+Hawkes Bay,NZ-HKB,NZ
+Marlborough,NZ-MBH,NZ
+Manawatu-Wanganui,NZ-MWT,NZ
+Nelson,NZ-NSN,NZ
+Northland,NZ-NTL,NZ
+Otago,NZ-OTA,NZ
+Southland,NZ-STL,NZ
+Tasman,NZ-TAS,NZ
+Taranaki,NZ-TKI,NZ
+Wellington,NZ-WGN,NZ
+Waikato,NZ-WKO,NZ
+West Coast,NZ-WTC,NZ
+Al Batinah,OM-BA,OM
+Ad Dakhiliyah,OM-DA,OM
+Masqat,OM-MA,OM
+Musandam,OM-MU,OM
+Ash Sharqiyah,OM-SH,OM
+Al Wusta,OM-WU,OM
+Az Zahirah,OM-ZA,OM
+Zufar,OM-ZU,OM
+Bocas del Toro,PA-BT,PA
+Cocle,PA-CC,PA
+Chiriqui,PA-CH,PA
+Colon,PA-CL,PA
+Darien,PA-DA,PA
+Herrera,PA-HE,PA
+Los Santos,PA-LS,PA
+Panama,PA-PA,PA
+San Blas,PA-SB,PA
+Veraguas,PA-VG,PA
+Amazonas,PE-AM,PE
+Ancash,PE-AN,PE
+Apurimac,PE-AP,PE
+Arequipa,PE-AR,PE
+Ayacucho,PE-AY,PE
+Cajamarca,PE-CJ,PE
+Callao,PE-CL,PE
+Cusco,PE-CU,PE
+Huanuco,PE-HO,PE
+Huancavelica,PE-HV,PE
+Ica,PE-IC,PE
+Junin,PE-JU,PE
+La Libertad,PE-LD,PE
+Lima,PE-LI,PE
+Loreto,PE-LO,PE
+Lambayeque,PE-LY,PE
+Madre de Dios,PE-MD,PE
+Moquegua,PE-MO,PE
+Pasco,PE-PA,PE
+Piura,PE-PI,PE
+Puno,PE-PU,PE
+San Martin,PE-SM,PE
+Tacna,PE-TA,PE
+Tumbes,PE-TU,PE
+Ucayali,PE-UC,PE
+Archipel des Tubuai,PF-I,PF
+Archipel des Marquises,PF-M,PF
+Iles Sous-le-Vent,PF-S,PF
+Archipel des Tuamotu,PF-T,PF
+Iles du Vent,PF-V,PF
+Bougainville,PG-BV,PG
+Central,PG-CE,PG
+Chimbu,PG-CH,PG
+East New Britain,PG-EB,PG
+Eastern Highlands,PG-EH,PG
+Enga,PG-EN,PG
+East Sepik,PG-ES,PG
+Gulf,PG-GU,PG
+Milne Bay,PG-MB,PG
+Madang,PG-MD,PG
+Manus,PG-MN,PG
+Morobe,PG-MR,PG
+National Capital,PG-NC,PG
+New Ireland,PG-NI,PG
+Northern,PG-NO,PG
+Sandaun,PG-SA,PG
+Southern Highlands,PG-SH,PG
+West New Britain,PG-WB,PG
+Western,PG-WE,PG
+Western Highlands,PG-WH,PG
+Abra,PH-ABR,PH
+Aklan,PH-AKL,PH
+Albay,PH-ALB,PH
+Agusan del Norte,PH-ANO,PH
+Antique,PH-ANT,PH
+Apayao,PH-APY,PH
+Agusan del Sur,PH-ASU,PH
+Aurora,PH-AUR,PH
+Basilan,PH-BAS,PH
+Benguet,PH-BEN,PH
+Biliran,PH-BLR,PH
+Bohol,PH-BOL,PH
+Bataan,PH-BTA,PH
+Batanes,PH-BTE,PH
+Batangas,PH-BTG,PH
+Bukidnon,PH-BUK,PH
+Bulacan,PH-BUL,PH
+Cagayan,PH-CAG,PH
+Camiguin,PH-CAM,PH
+Capiz,PH-CAP,PH
+Catanduanes,PH-CAT,PH
+Cavite,PH-CAV,PH
+Cebu,PH-CEB,PH
+Compostela,PH-CMP,PH
+Camarines Norte,PH-CNO,PH
+Camarines Sur,PH-CSU,PH
+Davao del Norte,PH-DNO,PH
+Davao Oriental,PH-DOR,PH
+Davao del Sur,PH-DSU,PH
+Eastern Samar,PH-ESA,PH
+Guimaras,PH-GUI,PH
+Ifugao,PH-IFU,PH
+Iloilo,PH-ILO,PH
+Ilocos Norte,PH-INO,PH
+Isabela,PH-ISA,PH
+Ilocos Sur,PH-ISU,PH
+Kalinga,PH-KAL,PH
+Laguna,PH-LAG,PH
+Leyte,PH-LEY,PH
+Lanao del Norte,PH-LNO,PH
+Lanao del Sur,PH-LSU,PH
+Maguindanao,PH-MAG,PH
+Mindoro Occidental,PH-MIC,PH
+Mindoro Oriental,PH-MIR,PH
+Mountain Province,PH-MOP,PH
+Misamis Oriental,PH-MOR,PH
+Marinduque,PH-MRN,PH
+Masbate,PH-MSB,PH
+Misamis Occidental,PH-MSC,PH
+North Cotabato,PH-NCT,PH
+Nueva Ecija,PH-NEC,PH
+Negros Occidental,PH-NOC,PH
+Negros Oriental,PH-NOR,PH
+Northern Samar,PH-NSM,PH
+Nueva Vizcaya,PH-NVZ,PH
+Palawan,PH-PLW,PH
+Pampanga,PH-PMP,PH
+Pangasinan,PH-PNG,PH
+Quirino,PH-QRN,PH
+Quezon,PH-QZN,PH
+Rizal,PH-RIZ,PH
+Romblon,PH-ROM,PH
+South Cotabato,PH-SCO,PH
+Sultan Kudarat,PH-SKU,PH
+Southern Leyte,PH-SLE,PH
+Sulu,PH-SLU,PH
+Samar,PH-SMR,PH
+Surigao del Norte,PH-SNO,PH
+Siquijor,PH-SQJ,PH
+Sarangani,PH-SRG,PH
+Sorsogon,PH-SRS,PH
+Surigao del Sur,PH-SSU,PH
+Tarlac,PH-TAR,PH
+Tawi-Tawi,PH-TAW,PH
+La Union,PH-UNI,PH
+Zambales,PH-ZBL,PH
+Zamboanga del Norte,PH-ZNO,PH
+Zamboanga Sibugay,PH-ZSI,PH
+Zamboanga del Sur,PH-ZSU,PH
+Balochistan,PK-B,PK
+Islamabad Capital Territory,PK-I,PK
+North-West Frontier Province,PK-N,PK
+Punjab,PK-P,PK
+Sindh,PK-S,PK
+Federally Administered Tribal Areas,PK-T,PK
+Dolnoslaskie,PL-DO,PL
+Kujawsko-Pomorskie,PL-KP,PL
+Lubelskie,PL-LL,PL
+Lodzkie,PL-LO,PL
+Lubuskie,PL-LU,PL
+Malopolskie,PL-ML,PL
+Mazowieckie,PL-MZ,PL
+Opolskie,PL-OP,PL
+Podlaskie,PL-PL,PL
+Pomorskie,PL-PM,PL
+Podkarpackie,PL-PP,PL
+Slaskie,PL-SL,PL
+Swietokrzyskie,PL-SW,PL
+Warminsko-Mazurskie,PL-WM,PL
+Wielkopolskie,PL-WP,PL
+Zachodniopomorskie,PL-ZA,PL
+Miquelon,PM-M,PM
+Saint Pierre,PM-P,PM
+Acores (Azores),PT-AR,PT
+Aveiro,PT-AV,PT
+Braga,PT-BA,PT
+Beja,PT-BJ,PT
+Braganca,PT-BN,PT
+Castelo Branco,PT-CB,PT
+Coimbra,PT-CO,PT
+Evora,PT-EV,PT
+Faro,PT-FA,PT
+Guarda,PT-GU,PT
+Leiria,PT-LE,PT
+Lisboa,PT-LI,PT
+Madeira,PT-MA,PT
+Portalegre,PT-PG,PT
+Porto,PT-PO,PT
+Santarem,PT-SA,PT
+Setubal,PT-SE,PT
+Viana do Castelo,PT-VC,PT
+Vila Real,PT-VR,PT
+Viseu,PT-VS,PT
+Aimeliik,PW-AM,PW
+Angaur,PW-AN,PW
+Airai,PW-AR,PW
+Hatohobei,PW-HA,PW
+Kayangel,PW-KA,PW
+Koror,PW-KO,PW
+Melekeok,PW-ME,PW
+Ngaraard,PW-NA,PW
+Ngchesar,PW-NC,PW
+Ngardmau,PW-ND,PW
+Ngarchelong,PW-NG,PW
+Ngeremlengui,PW-NR,PW
+Ngatpang,PW-NT,PW
+Ngiwal,PW-NW,PW
+Peleliu,PW-PE,PW
+Sonsorol,PW-SO,PW
+Alto Paraguay,PY-AG,PY
+Amambay,PY-AM,PY
+Alto Parana,PY-AN,PY
+Asuncion,PY-AS,PY
+Boqueron,PY-BO,PY
+Concepcion,PY-CC,PY
+Cordillera,PY-CD,PY
+Central,PY-CE,PY
+Caaguazu,PY-CG,PY
+Canindeyu,PY-CN,PY
+Caazapa,PY-CZ,PY
+Guaira,PY-GU,PY
+Itapua,PY-IT,PY
+Misiones,PY-MI,PY
+Neembucu,PY-NE,PY
+Paraguari,PY-PA,PY
+Presidente Hayes,PY-PH,PY
+San Pedro,PY-SP,PY
+Ad Dawhah,QA-DW,QA
+Al Ghuwayriyah,QA-GW,QA
+Jarayan al Batinah,QA-JB,QA
+Al Jumayliyah,QA-JM,QA
+Al Khawr,QA-KR,QA
+Madinat ash Shamal,QA-MS,QA
+Ar Rayyan,QA-RN,QA
+Umm Said,QA-UD,QA
+Umm Salal,QA-UL,QA
+Al Wakrah,QA-WK,QA
+Arad,RO-AD,RO
+Arges,RO-AG,RO
+Alba,RO-AL,RO
+Bacau,RO-BA,RO
+Bucuresti,RO-BC,RO
+Bihor,RO-BH,RO
+Braila,RO-BL,RO
+Bistrita-Nasaud,RO-BN,RO
+Botosani,RO-BO,RO
+Brasov,RO-BS,RO
+Buzau,RO-BZ,RO
+Cluj,RO-CJ,RO
+Calarasi,RO-CR,RO
+Caras-Severin,RO-CS,RO
+Constanta,RO-CT,RO
+Covasna,RO-CV,RO
+Dimbovita,RO-DI,RO
+Dolj,RO-DO,RO
+Giurgiu,RO-GG,RO
+Gorj,RO-GJ,RO
+Galati,RO-GL,RO
+Harghita,RO-HA,RO
+Hunedoara,RO-HU,RO
+Ilfov,RO-IF,RO
+Ialomita,RO-IM,RO
+Iasi,RO-IS,RO
+Maramures,RO-MA,RO
+Mehedinti,RO-ME,RO
+Mures,RO-MU,RO
+Neamt,RO-NE,RO
+Olt,RO-OL,RO
+Prahova,RO-PR,RO
+Timis,RO-SI,RO
+Salaj,RO-SJ,RO
+Satu Mare,RO-SM,RO
+Sibiu,RO-SO,RO
+Suceava,RO-SU,RO
+Teleorman,RO-TE,RO
+Tulcea,RO-TU,RO
+Vaslui,RO-VA,RO
+Vilcea,RO-VI,RO
+Vrancea,RO-VR,RO
+Adygeya,RU-AD,RU
+Aga Buryatia,RU-AGB,RU
+Altai Republic,RU-AL,RU
+Altai Krai,RU-ALT,RU
+Amur,RU-AMU,RU
+Arkhangelsk,RU-ARK,RU
+Astrakhan,RU-AST,RU
+Bashkortostan,RU-BA,RU
+Belgorod,RU-BEL,RU
+Bryansk,RU-BRY,RU
+Buryatia,RU-BU,RU
+Chechnya,RU-CE,RU
+Chelyabinsk,RU-CHE,RU
+Chita,RU-CHI,RU
+Chukotka,RU-CHU,RU
+Chuvashia,RU-CU,RU
+Dagestan,RU-DA,RU
+Evenkia,RU-EVE,RU
+Ingushetia,RU-IN,RU
+Irkutsk,RU-IRK,RU
+Ivanovo,RU-IVA,RU
+Kamchatka,RU-KAM,RU
+Kabardino-Balkaria,RU-KB,RU
+Karachay-Cherkessia,RU-KC,RU
+Krasnodar,RU-KDA,RU
+Kemerovo,RU-KEM,RU
+Kaliningrad,RU-KGD,RU
+Kurgan,RU-KGN,RU
+Khabarovsk,RU-KHA,RU
+Khantia-Mansia,RU-KHM,RU
+Kirov,RU-KIR,RU
+Khakassia,RU-KK,RU
+Kalmykia,RU-KL,RU
+Kaluga,RU-KLU,RU
+Komi,RU-KO,RU
+Permyakia,RU-KOP,RU
+Koryakia,RU-KOR,RU
+Kostroma,RU-KOS,RU
+Karelia,RU-KR,RU
+Kursk,RU-KRS,RU
+Krasnoyarsk,RU-KYA,RU
+Leningrad,RU-LEN,RU
+Lipetsk,RU-LIP,RU
+Magadan,RU-MAG,RU
+Mari El,RU-ME,RU
+Mordovia,RU-MO,RU
+Moscow (Province),RU-MOS,RU
+Moscow (City),RU-MOW,RU
+Murmansk,RU-MUR,RU
+Nenetsia,RU-NEN,RU
+Novgorod,RU-NGR,RU
+Nizhny Novgorod,RU-NIZ,RU
+Novosibirsk,RU-NVS,RU
+Omsk,RU-OMS,RU
+Orenburg,RU-ORE,RU
+Oryol,RU-ORL,RU
+Perm,RU-PER,RU
+Penza,RU-PNZ,RU
+Primorsky,RU-PRI,RU
+Pskov,RU-PSK,RU
+Rostov,RU-ROS,RU
+Ryazan,RU-RYA,RU
+Sakha,RU-SA,RU
+Sakhalin,RU-SAK,RU
+Samara,RU-SAM,RU
+Saratov,RU-SAR,RU
+North Ossetia,RU-SE,RU
+Smolensk,RU-SMO,RU
+St. Petersburg,RU-SPE,RU
+Stavropol,RU-STA,RU
+Sverdlovsk,RU-SVE,RU
+Tatarstan,RU-TA,RU
+Tambov,RU-TAM,RU
+Taymyria,RU-TAY,RU
+Tomsk,RU-TOM,RU
+Tula,RU-TUL,RU
+Tver,RU-TVE,RU
+Tuva,RU-TY,RU
+Tyumen,RU-TYU,RU
+Udmurtia,RU-UD,RU
+Ulynovsk,RU-ULY,RU
+Ust-Orda Buryatia,RU-UOB,RU
+Volgograd,RU-VGG,RU
+Vladimir,RU-VLA,RU
+Vologda,RU-VLG,RU
+Voronezh,RU-VOR,RU
+Yamalia,RU-YAN,RU
+Yaroslavl,RU-YAR,RU
+Jewish Oblast,RU-YEV,RU
+Butare,RW-BU,RW
+Byumba,RW-BY,RW
+Cyangugu,RW-CY,RW
+Gikongoro,RW-GK,RW
+Gisenyi,RW-GS,RW
+Gitarama,RW-GT,RW
+Kibungo,RW-KG,RW
+Kigali Rurale,RW-KR,RW
+Kigali-ville,RW-KV,RW
+Kibuye,RW-KY,RW
+Ruhengeri,RW-RU,RW
+Umutara,RW-UM,RW
+Ash Sharqiyah (Eastern Province),SA-AQ,SA
+Asir,SA-AS,SA
+Al Bahah,SA-BH,SA
+Hail,SA-HL,SA
+Al Hudud ash Shamaliyah,SA-HS,SA
+Al Jawf,SA-JF,SA
+Jizan,SA-JZ,SA
+Al Madinah,SA-MD,SA
+Makkah,SA-ML,SA
+Najran,SA-NR,SA
+Al Qasim,SA-QS,SA
+Ar Riyad,SA-RD,SA
+Tabuk,SA-TB,SA
+Central,SB-CE,SB
+Choiseul,SB-CH,SB
+Guadalcanal,SB-GC,SB
+Honiara,SB-HO,SB
+Isabel,SB-IS,SB
+Makira,SB-MK,SB
+Malaita,SB-ML,SB
+Rennell and Bellona,SB-RB,SB
+Temotu,SB-TM,SB
+Western,SB-WE,SB
+Anse Boileau,SC-AB,SC
+Anse Etoile,SC-AE,SC
+Anse Louis,SC-AL,SC
+Anse aux Pins,SC-AP,SC
+Anse Royale,SC-AR,SC
+Bel Air,SC-BA,SC
+Baie Lazare,SC-BL,SC
+Bel Ombre,SC-BO,SC
+Baie Sainte Anne,SC-BS,SC
+Beau Vallon,SC-BV,SC
+Cascade,SC-CA,SC
+La Digue,SC-DG,SC
+Glacis,SC-GL,SC
+Grand Anse (on Mahe),SC-GM,SC
+Grand Anse (on Praslin),SC-GP,SC
+Mont Buxton,SC-MB,SC
+Mont Fleuri,SC-MF,SC
+Port Glaud,SC-PG,SC
+Plaisance,SC-PL,SC
+Pointe La Rue,SC-PR,SC
+La Riviere Anglaise,SC-RA,SC
+Saint Louis,SC-SL,SC
+Takamaka,SC-TA,SC
+An Nil al Abyad,SD-ANB,SD
+Aali an Nil,SD-ANL,SD
+An Nil al Azraq,SD-ANZ,SD
+Ash Shamaliyah,SD-ASH,SD
+Al Bahr al Ahmar,SD-BAM,SD
+Bahr al Jabal,SD-BJA,SD
+Al Buhayrat,SD-BRT,SD
+Gharb Bahr al Ghazal,SD-GBG,SD
+Gharb Darfur,SD-GDA,SD
+Gharb al Istiwaiyah,SD-GIS,SD
+Gharb Kurdufan,SD-GKU,SD
+Janub Darfur,SD-JDA,SD
+Janub Kurdufan,SD-JKU,SD
+Junqali,SD-JQL,SD
+Al Jazirah,SD-JZR,SD
+Al Khartum,SD-KRT,SD
+Kassala,SD-KSL,SD
+Nahr an Nil,SD-NNL,SD
+Al Qadarif,SD-QDR,SD
+Shamal Bahr al Ghazal,SD-SBG,SD
+Shamal Darfur,SD-SDA,SD
+Sharq al Istiwaiyah,SD-SIS,SD
+Shamal Kurdufan,SD-SKU,SD
+Sinnar,SD-SNR,SD
+Al Wahdah,SD-WDH,SD
+Warab,SD-WRB,SD
+Ascension,SH-A,SH
+Saint Helena,SH-S,SH
+Tristan da Cunha,SH-T,SH
+Banskobystricky,SK-BA,SK
+Bratislavsky,SK-BR,SK
+Kosicky,SK-KO,SK
+Nitriansky,SK-NI,SK
+Presovsky,SK-PR,SK
+Trenciansky,SK-TC,SK
+Trnavsky,SK-TV,SK
+Zilinsky,SK-ZI,SK
+Eastern,SL-E,SL
+Northern,SL-N,SL
+Southern,SL-S,SL
+Western,SL-W,SL
+Acquaviva,SM-AC,SM
+Borgo Maggiore,SM-BM,SM
+Chiesanuova,SM-CH,SM
+Domagnano,SM-DO,SM
+Faetano,SM-FA,SM
+Fiorentino,SM-FI,SM
+Montegiardino,SM-MO,SM
+Serravalle,SM-SE,SM
+Citta di San Marino,SM-SM,SM
+Dakar,SN-DA,SN
+Diourbel,SN-DI,SN
+Fatick,SN-FA,SN
+Kaolack,SN-KA,SN
+Kolda,SN-KO,SN
+Louga,SN-LO,SN
+Matam,SN-MA,SN
+Saint-Louis,SN-SL,SN
+Tambacounda,SN-TA,SN
+Thies,SN-TH,SN
+Ziguinchor,SN-ZI,SN
+Awdal,SO-AW,SO
+Bakool,SO-BK,SO
+Banaadir,SO-BN,SO
+Bari,SO-BR,SO
+Bay,SO-BY,SO
+Galguduud,SO-GA,SO
+Gedo,SO-GE,SO
+Hiiraan,SO-HI,SO
+Jubbada Dhexe,SO-JD,SO
+Jubbada Hoose,SO-JH,SO
+Mudug,SO-MU,SO
+Nugaal,SO-NU,SO
+Sanaag,SO-SA,SO
+Shabeellaha Dhexe,SO-SD,SO
+Shabeellaha Hoose,SO-SH,SO
+Sool,SO-SL,SO
+Togdheer,SO-TO,SO
+Woqooyi Galbeed,SO-WG,SO
+Brokopondo,SR-BR,SR
+Commewijne,SR-CM,SR
+Coronie,SR-CR,SR
+Marowijne,SR-MA,SR
+Nickerie,SR-NI,SR
+Para,SR-PA,SR
+Paramaribo,SR-PM,SR
+Saramacca,SR-SA,SR
+Sipaliwini,SR-SI,SR
+Wanica,SR-WA,SR
+Principe,ST-P,ST
+Sao Tome,ST-S,ST
+Ahuachapan,SV-AH,SV
+Cabanas,SV-CA,SV
+Chalatenango,SV-CH,SV
+Cuscatlan,SV-CU,SV
+La Libertad,SV-LB,SV
+Morazan,SV-MO,SV
+La Paz,SV-PZ,SV
+Santa Ana,SV-SA,SV
+San Miguel,SV-SM,SV
+Sonsonate,SV-SO,SV
+San Salvador,SV-SS,SV
+San Vicente,SV-SV,SV
+La Union,SV-UN,SV
+Usulutan,SV-US,SV
+Blekinge,SW-BL,SW
+Dalama,SW-DA,SW
+Gavleborg,SW-GA,SW
+Gotland,SW-GO,SW
+Halland,SW-HA,SW
+Jamtland,SW-JA,SW
+Jonkping,SW-JO,SW
+Kalmar,SW-KA,SW
+Kronoberg,SW-KR,SW
+Norrbotten,SW-NO,SW
+Ostergotland,SW-OG,SW
+Orebro,SW-OR,SW
+Skane,SW-SK,SW
+Sodermanland,SW-SO,SW
+Stockholm,SW-ST,SW
+Uppdala,SW-UP,SW
+Vasterbotten,SW-VB,SW
+Vastra Gotaland,SW-VG,SW
+Varmland,SW-VL,SW
+Vastmanland,SW-VM,SW
+Vasternorrland,SW-VN,SW
+Dara,SY-DA,SY
+Dimashq,SY-DI,SY
+Dayr az Zawr,SY-DZ,SY
+Al Hasakah,SY-HA,SY
+Hims,SY-HI,SY
+Halab,SY-HL,SY
+Hamah,SY-HM,SY
+Idlib,SY-ID,SY
+Al Ladhiqiyah,SY-LA,SY
+Al Qunaytirah,SY-QU,SY
+Rif Dimashq,SY-RD,SY
+Ar Raqqah,SY-RQ,SY
+As Suwayda,SY-SU,SY
+Tartus,SY-TA,SY
+Hhohho,SZ-H,SZ
+Lubombo,SZ-L,SZ
+Manzini,SZ-M,SZ
+Shishelweni,SZ-S,SZ
+Ambergris Cays,TC-AC,TC
+Dellis Cay,TC-DC,TC
+East Caicos,TC-EC,TC
+French Cay,TC-FC,TC
+Grand Turk,TC-GT,TC
+Little Water Cay,TC-LW,TC
+Middle Caicos,TC-MC,TC
+North Caicos,TC-NC,TC
+Pine Cay,TC-PN,TC
+Providenciales,TC-PR,TC
+Parrot Cay,TC-RC,TC
+South Caicos,TC-SC,TC
+Salt Cay,TC-SL,TC
+West Caicos,TC-WC,TC
+Batha,TD-BA,TD
+Borkou-Ennedi-Tibesti,TD-BE,TD
+Biltine,TD-BI,TD
+Chari-Baguirmi,TD-CB,TD
+Guera,TD-GU,TD
+Kanem,TD-KA,TD
+Lac,TD-LA,TD
+Logone Occidental,TD-LC,TD
+Logone Oriental,TD-LR,TD
+Moyen-Chari,TD-MC,TD
+Mayo-Kebbi,TD-MK,TD
+Ouaddai,TD-OU,TD
+Salamat,TD-SA,TD
+Tandjile,TD-TA,TD
+Ile Amsterdam,TF-A,TF
+Iles Crozet,TF-C,TF
+Adelie Land,TF-D,TF
+Iles Kerguelen,TF-K,TF
+Ile Saint-Paul,TF-P,TF
+Centrale,TG-C,TG
+Kara,TG-K,TG
+Maritime,TG-M,TG
+Plateaux,TG-P,TG
+Savanes,TG-S,TG
+Bangkok,TH-10,TH
+Samut Prakan,TH-11,TH
+Nonthaburi,TH-12,TH
+Pathum Thani,TH-13,TH
+Phra Nakhon Si Ayutthaya,TH-14,TH
+Ang Thong,TH-15,TH
+Lop Buri,TH-16,TH
+Sing Buri,TH-17,TH
+Chai Nat,TH-18,TH
+Saraburi,TH-19,TH
+Chon Buri,TH-20,TH
+Rayong,TH-21,TH
+Chanthaburi,TH-22,TH
+Trat,TH-23,TH
+Chachoengsao,TH-24,TH
+Prachin Buri,TH-25,TH
+Nakhon Nayok,TH-26,TH
+Sa Kaeo,TH-27,TH
+Nakhon Ratchasima,TH-30,TH
+Buri Ram,TH-31,TH
+Surin,TH-32,TH
+Si Sa Ket,TH-33,TH
+Ubon Ratchathani,TH-34,TH
+Yasothon,TH-35,TH
+Chaiyaphum,TH-36,TH
+Amnat Charoen,TH-37,TH
+Nong Bua Lam Phu,TH-39,TH
+Khon Kaen,TH-40,TH
+Udon Thani,TH-41,TH
+Loei,TH-42,TH
+Nong Khai,TH-43,TH
+Maha Sarakham,TH-44,TH
+Roi Et,TH-45,TH
+Kalasin,TH-46,TH
+Sakon Nakhon,TH-47,TH
+Nakhon Phanom,TH-48,TH
+Mukdahan,TH-49,TH
+Chiang Mai,TH-50,TH
+Lamphun,TH-51,TH
+Lampang,TH-52,TH
+Uttaradit,TH-53,TH
+Phrae,TH-54,TH
+Nan,TH-55,TH
+Phayao,TH-56,TH
+Chiang Rai,TH-57,TH
+Mae Hong Son,TH-58,TH
+Nakhon Sawan,TH-60,TH
+Uthai Thani,TH-61,TH
+Kamphaeng Phet,TH-62,TH
+Tak,TH-63,TH
+Sukhothai,TH-64,TH
+Phitsanulok,TH-65,TH
+Phichit,TH-66,TH
+Ratchaburi,TH-70,TH
+Kanchanaburi,TH-71,TH
+Suphanburi,TH-72,TH
+Nakhon Pathom,TH-73,TH
+Samut Sakhon,TH-74,TH
+Samut Songkhram,TH-75,TH
+Phetchabun,TH-76,TH
+Prachuap Khiri Khan,TH-77,TH
+Phetchaburi,TH-78,TH
+Nakhon Si Thammarat,TH-80,TH
+Krabi,TH-81,TH
+Phang Nga,TH-82,TH
+Phuket,TH-83,TH
+Surat Thani,TH-84,TH
+Ranong,TH-85,TH
+Chumpon,TH-86,TH
+Songkhla,TH-90,TH
+Satun,TH-91,TH
+Trang,TH-92,TH
+Phattalung,TH-93,TH
+Pattani,TH-94,TH
+Yala,TH-95,TH
+Narathiwat,TH-96,TH
+Pattaya,TH-S,TH
+Gorno-Badakhstan,TJ-GB,TJ
+Khatlon,TJ-KT,TJ
+Sughd,TJ-SU,TJ
+Atafu,TK-A,TK
+Fakaofo,TK-F,TK
+Nukunonu,TK-N,TK
+Aileu,TL-AL,TL
+Ainaro,TL-AN,TL
+Baucau,TL-BA,TL
+Bobonaro,TL-BO,TL
+Cova Lima,TL-CO,TL
+Dili,TL-DI,TL
+Ermera,TL-ER,TL
+Lautem,TL-LA,TL
+Liquica,TL-LI,TL
+Manufahi,TL-MF,TL
+Manatuto,TL-MT,TL
+Oecussi,TL-OE,TL
+Viqueque,TL-VI,TL
+Ahal Welayaty,TM-A,TM
+Balkan Welayaty,TM-B,TM
+Dashhowuz Welayaty,TM-D,TM
+Lebap Welayaty,TM-L,TM
+Mary Welayaty,TM-M,TM
+Ariana,TN-AR,TN
+Ben Arous,TN-BA,TN
+Bizerte,TN-BI,TN
+Beja,TN-BJ,TN
+Gabes,TN-GB,TN
+Gafsa,TN-GF,TN
+Jendouba,TN-JE,TN
+Kebili,TN-KB,TN
+Kef,TN-KF,TN
+Kairouan,TN-KR,TN
+Kasserine,TN-KS,TN
+Medenine,TN-ME,TN
+Mahdia,TN-MH,TN
+Manouba,TN-MN,TN
+Monastir,TN-MO,TN
+Nabeul,TN-NA,TN
+Sidi,TN-SD,TN
+Sfax,TN-SF,TN
+Siliana,TN-SL,TN
+Sousse,TN-SO,TN
+Tataouine,TN-TA,TN
+Tozeur,TN-TO,TN
+Tunis,TN-TU,TN
+Zaghouan,TN-ZA,TN
+Haapai,TO-H,TO
+Tongatapu,TO-T,TO
+Vavau,TO-V,TO
+Adana,TR-ADA,TR
+Adiyaman,TR-ADI,TR
+Afyonkarahisar,TR-AFY,TR
+Agri,TR-AGR,TR
+Aksaray,TR-AKS,TR
+Amasya,TR-AMA,TR
+Ankara,TR-ANK,TR
+Antalya,TR-ANT,TR
+Ardahan,TR-ARD,TR
+Artvin,TR-ART,TR
+Aydin,TR-AYI,TR
+Balikesir,TR-BAL,TR
+Bartin,TR-BAR,TR
+Batman,TR-BAT,TR
+Bayburt,TR-BAY,TR
+Bilecik,TR-BIL,TR
+Bingol,TR-BIN,TR
+Bitlis,TR-BIT,TR
+Bolu,TR-BOL,TR
+Burdur,TR-BRD,TR
+Bursa,TR-BRS,TR
+Canakkale,TR-CKL,TR
+Cankiri,TR-CKR,TR
+Corum,TR-COR,TR
+Denizli,TR-DEN,TR
+Diyarbakir,TR-DIY,TR
+Duzce,TR-DUZ,TR
+Edirne,TR-EDI,TR
+Elazig,TR-ELA,TR
+Eskisehir,TR-ESK,TR
+Erzincan,TR-EZC,TR
+Erzurum,TR-EZR,TR
+Gaziantep,TR-GAZ,TR
+Giresun,TR-GIR,TR
+Gumushane,TR-GMS,TR
+Hakkari,TR-HKR,TR
+Hatay,TR-HTY,TR
+Igdir,TR-IGD,TR
+Isparta,TR-ISP,TR
+Istanbul,TR-IST,TR
+Izmir,TR-IZM,TR
+Kahramanmaras,TR-KAH,TR
+Kastamonu,TR-KAS,TR
+Kayseri,TR-KAY,TR
+Kirklareli,TR-KLR,TR
+Kilis,TR-KLS,TR
+Kocaeli,TR-KOC,TR
+Konya,TR-KON,TR
+Karabuk,TR-KRB,TR
+Kirsehir,TR-KRH,TR
+Kirikkale,TR-KRK,TR
+Karaman,TR-KRM,TR
+Kars,TR-KRS,TR
+Kutahya,TR-KUT,TR
+Malatya,TR-MAL,TR
+Manisa,TR-MAN,TR
+Mardin,TR-MAR,TR
+Mersin,TR-MER,TR
+Mugla,TR-MUG,TR
+Mus,TR-MUS,TR
+Nevsehir,TR-NEV,TR
+Nigde,TR-NIG,TR
+Ordu,TR-ORD,TR
+Osmaniye,TR-OSM,TR
+Rize,TR-RIZ,TR
+Sakarya,TR-SAK,TR
+Samsun,TR-SAM,TR
+Sanliurfa,TR-SAN,TR
+Siirt,TR-SII,TR
+Sinop,TR-SIN,TR
+Sirnak,TR-SIR,TR
+Sivas,TR-SIV,TR
+Tekirdag,TR-TEL,TR
+Tokat,TR-TOK,TR
+Trabzon,TR-TRA,TR
+Tunceli,TR-TUN,TR
+Usak,TR-USK,TR
+Van,TR-VAN,TR
+Yalova,TR-YAL,TR
+Yozgat,TR-YOZ,TR
+Zonguldak,TR-ZON,TR
+Arima,TT-AR,TT
+Chaguanas,TT-CH,TT
+Couva/Tabaquite/Talparo,TT-CT,TT
+Diego Martin,TT-DM,TT
+Mayaro/Rio Claro,TT-MR,TT
+Penal/Debe,TT-PD,TT
+Point Fortin,TT-PF,TT
+Port of Spain,TT-PS,TT
+Princes Town,TT-PT,TT
+San Fernando,TT-SF,TT
+Sangre Grande,TT-SG,TT
+Siparia,TT-SI,TT
+San Juan/Laventille,TT-SL,TT
+Tobago,TT-TO,TT
+Tunapuna/Piarco,TT-TP,TT
+Funafuti,TV-FUN,TV
+Nukufetau,TV-NFT,TV
+Niulakita,TV-NLK,TV
+Nukulaelae,TV-NLL,TV
+Nanumea,TV-NME,TV
+Nanumanga,TV-NMG,TV
+Niutao,TV-NTO,TV
+Nui,TV-NUI,TV
+Vaitupu,TV-VAI,TV
+Chia-i city,TW-CC,TW
+Chang-hua,TW-CH,TW
+Chia-i,TW-CI,TW
+Chi-lung,TW-CL,TW
+Hsin-chu,TW-HC,TW
+Hua-lien,TW-HL,TW
+Hsin-chu,TW-HS,TW
+I-lan,TW-IL,TW
+Kao-hsiung city,TW-KC,TW
+Kao-hsiung county,TW-KH,TW
+Kin-men,TW-KM,TW
+Lien-chiang,TW-LC,TW
+Miao-li,TW-ML,TW
+Nan-tou,TW-NT,TW
+Peng-hu,TW-PH,TW
+Ping-tung,TW-PT,TW
+Tai-nan,TW-TA,TW
+Tai-pei city,TW-TC,TW
+Tai-chung,TW-TG,TW
+Tai-chung,TW-TH,TW
+Tai-nan,TW-TN,TW
+Tai-pei county,TW-TP,TW
+Tai-tung,TW-TT,TW
+Tao-yuan,TW-TY,TW
+Yun-lin,TW-YL,TW
+Arusha,TZ-AR,TZ
+Dodoma,TZ-DO,TZ
+Dar es Salaam,TZ-DS,TZ
+Iringa,TZ-IR,TZ
+Kagera,TZ-KA,TZ
+Kigoma,TZ-KI,TZ
+Kilimanjaro,TZ-KJ,TZ
+Lindi,TZ-LN,TZ
+Mbeya,TZ-MB,TZ
+Morogoro,TZ-MO,TZ
+Mara,TZ-MR,TZ
+Mtwara,TZ-MT,TZ
+Mwanza,TZ-MW,TZ
+Manyara,TZ-MY,TZ
+Pemba North,TZ-PN,TZ
+Pemba South,TZ-PS,TZ
+Pwani,TZ-PW,TZ
+Rukwa,TZ-RK,TZ
+Ruvuma,TZ-RV,TZ
+Shinyanga,TZ-SH,TZ
+Singida,TZ-SI,TZ
+Tabora,TZ-TB,TZ
+Tanga,TZ-TN,TZ
+Zanzibar Central/South,TZ-ZC,TZ
+Zanzibar North,TZ-ZN,TZ
+Zanzibar Urban/West,TZ-ZU,TZ
+Chernihiv,UA-CH,UA
+Cherkasy,UA-CK,UA
+Crimea,UA-CR,UA
+Chernivtsi,UA-CV,UA
+Dnipropetrovsk,UA-DN,UA
+Donetsk,UA-DO,UA
+Ivano-Frankivsk,UA-IV,UA
+Kharkiv Kherson,UA-KL,UA
+Khmelnytskyy,UA-KM,UA
+Kirovohrad,UA-KR,UA
+Kiev,UA-KV,UA
+Kyyiv,UA-KY,UA
+Luhansk,UA-LU,UA
+Lviv,UA-LV,UA
+Mykolayiv,UA-MY,UA
+Odesa,UA-OD,UA
+Poltava,UA-PO,UA
+Rivne,UA-RI,UA
+Sevastopol,UA-SE,UA
+Sumy,UA-SU,UA
+Ternopil,UA-TE,UA
+Vinnytsya,UA-VI,UA
+Volyn,UA-VO,UA
+Zaporizhzhya,UA-ZA,UA
+Zhytomyr,UA-ZH,UA
+Zakarpattya,UA-ZK,UA
+Adjumani,UG-ADJ,UG
+Apac,UG-APC,UG
+Arua,UG-ARU,UG
+Bushenyi,UG-BSH,UG
+Bugiri,UG-BUG,UG
+Bundibugyo,UG-BUN,UG
+Busia,UG-BUS,UG
+Gulu,UG-GUL,UG
+Hoima,UG-HOI,UG
+Iganga,UG-IGA,UG
+Jinja,UG-JIN,UG
+Kaberamaido,UG-KAB,UG
+Kalangala,UG-KAL,UG
+Kamwenge,UG-KAM,UG
+Kanungu,UG-KAN,UG
+Kabarole,UG-KAR,UG
+Kasese,UG-KAS,UG
+Kayunga,UG-KAY,UG
+Kibaale,UG-KBA,UG
+Kabale,UG-KBL,UG
+Kiboga,UG-KIB,UG
+Kisoro,UG-KIS,UG
+Kitgum,UG-KIT,UG
+Kamuli,UG-KML,UG
+Kampala,UG-KMP,UG
+Kotido,UG-KOT,UG
+Kapchorwa,UG-KPC,UG
+Katakwi,UG-KTK,UG
+Kumi,UG-KUM,UG
+Kyenjojo,UG-KYE,UG
+Lira,UG-LIR,UG
+Luwero,UG-LUW,UG
+Masaka,UG-MAS,UG
+Mayuge,UG-MAY,UG
+Mbale,UG-MBA,UG
+Mbarara,UG-MBR,UG
+Moyo,UG-MOY,UG
+Mpigi,UG-MPI,UG
+Moroto,UG-MRT,UG
+Masindi,UG-MSN,UG
+Mubende,UG-MUB,UG
+Mukono,UG-MUK,UG
+Nakapiripirit,UG-NAK,UG
+Nebbi,UG-NEB,UG
+Nakasongola,UG-NKS,UG
+Ntungamo,UG-NTU,UG
+Pader,UG-PAD,UG
+Pallisa,UG-PAL,UG
+Rakai,UG-RAK,UG
+Rukungiri,UG-RUK,UG
+Sembabule,UG-SEM,UG
+Sironko,UG-SIR,UG
+Soroti,UG-SOR,UG
+Tororo,UG-TOR,UG
+Wakiso,UG-WAK,UG
+Yumbe,UG-YUM,UG
+Baker Island,UM-BI,UM
+Howland Island,UM-HI,UM
+Johnston Atoll,UM-JA,UM
+Jarvis Island,UM-JI,UM
+Kingman Reef,UM-KR,UM
+Midway Atoll,UM-MA,UM
+Navassa Island,UM-NI,UM
+Palmyra Atoll,UM-PA,UM
+Wake Island,UM-WI,UM
+Artigas,UY-AR,UY
+Canelones,UY-CA,UY
+Cerro Largo,UY-CL,UY
+Colonia,UY-CO,UY
+Durazno,UY-DU,UY
+Florida,UY-FA,UY
+Flores,UY-FS,UY
+Lavalleja,UY-LA,UY
+Maldonado,UY-MA,UY
+Montevideo,UY-MO,UY
+Paysandu,UY-PA,UY
+Rio Negro,UY-RN,UY
+Rocha,UY-RO,UY
+Rivera,UY-RV,UY
+San Jose,UY-SJ,UY
+Salto,UY-SL,UY
+Soriano,UY-SO,UY
+Treinta y Tres,UY-TT,UY
+Andijon,UZ-AN,UZ
+Buxoro,UZ-BU,UZ
+Fargona,UZ-FA,UZ
+Jizzax,UZ-JI,UZ
+Namangan,UZ-NG,UZ
+Navoiy,UZ-NW,UZ
+Qashqadaryo,UZ-QA,UZ
+Qoraqalpogiston Republikasi,UZ-QR,UZ
+Samarqand,UZ-SA,UZ
+Sirdaryo,UZ-SI,UZ
+Surxondaryo,UZ-SU,UZ
+Toshkent city,UZ-TK,UZ
+Toshkent region,UZ-TO,UZ
+Xorazm,UZ-XO,UZ
+Saint Andrew,VC-A,VC
+Charlotte,VC-C,VC
+Saint David,VC-D,VC
+Saint George,VC-G,VC
+Saint Patrick,VC-P,VC
+Grenadines,VC-R,VC
+Federal District,VE-A,VE
+Anzoategui,VE-B,VE
+Apure,VE-C,VE
+Aragua,VE-D,VE
+Barinas,VE-E,VE
+Bolivar,VE-F,VE
+Carabobo,VE-G,VE
+Cojedes,VE-H,VE
+Falcon,VE-I,VE
+Guarico,VE-J,VE
+Lara,VE-K,VE
+Merida,VE-L,VE
+Miranda,VE-M,VE
+Monagas,VE-N,VE
+Nueva Esparta,VE-O,VE
+Portuguesa,VE-P,VE
+Sucre,VE-R,VE
+Tachira,VE-S,VE
+Trujillo,VE-T,VE
+Yaracuy,VE-U,VE
+Zulia,VE-V,VE
+Federal Dependency,VE-W,VE
+Vargas,VE-X,VE
+Delta Amacuro,VE-Y,VE
+Amazonas,VE-Z,VE
+Saint Croix,VI-C,VI
+Saint John,VI-J,VI
+Saint Thomas,VI-T,VI
+An Giang,VN-AG,VN
+Bac Ninh,VN-BC,VN
+Bac Giang,VN-BG,VN
+Binh Dinh,VN-BH,VN
+Bac Kan,VN-BK,VN
+Bac Lieu,VN-BL,VN
+Ben Tre,VN-BN,VN
+Binh Phuoc,VN-BP,VN
+Ba Ria-Vung Tau,VN-BR,VN
+Binh Thuan,VN-BT,VN
+Binh Duong,VN-BU,VN
+Cao Bang,VN-CB,VN
+Ca Mau,VN-CM,VN
+Can Tho,VN-CT,VN
+Dien Bien,VN-DB,VN
+Dak Nong,VN-DG,VN
+Dong Nai,VN-DI,VN
+Dak Lak,VN-DL,VN
+Da Nang,VN-DN,VN
+Dong Thap,VN-DT,VN
+Gia Lai,VN-GL,VN
+Hoa Binh,VN-HB,VN
+Ho Chin Minh,VN-HC,VN
+Hai Duong,VN-HD,VN
+Ha Giang,VN-HG,VN
+Ha Tinh,VN-HH,VN
+Ha Noi,VN-HI,VN
+Ha Nam,VN-HM,VN
+Hai Phong,VN-HP,VN
+Ha Tay,VN-HT,VN
+Hau Giang,VN-HU,VN
+Hung Yen,VN-HY,VN
+Malampa,VU-MA,VU
+Penama,VU-PE,VU
+Sanma,VU-SA,VU
+Shefa,VU-SH,VU
+Tafea,VU-TA,VU
+Torba,VU-TO,VU
+Alo,WF-A,WF
+Sigave,WF-S,WF
+Wallis,WF-W,WF
+Aiga-i-le-Tai,WS-AI,WS
+Aana,WS-AN,WS
+Atua,WS-AT,WS
+Faasaleleaga,WS-FA,WS
+Gagaemauga,WS-GE,WS
+Gagaifomauga,WS-GF,WS
+Palauli,WS-PA,WS
+Satupaitea,WS-SA,WS
+Tuamasaga,WS-TU,WS
+Vaa-o-Fonoti,WS-VF,WS
+Vaisigano,WS-VS,WS
+Abyan,YE-AB,YE
+Adan,YE-AD,YE
+Amran,YE-AM,YE
+Al Bayda,YE-BA,YE
+Ad Dali,YE-DA,YE
+Dhamar,YE-DH,YE
+Hadramawt,YE-HD,YE
+Hajjah,YE-HJ,YE
+Al Hudaydah,YE-HU,YE
+Ibb,YE-IB,YE
+Al Jawf,YE-JA,YE
+Lahij,YE-LA,YE
+Marib,YE-MA,YE
+Al Mahrah,YE-MR,YE
+Al Mahwit,YE-MW,YE
+Sadah,YE-SD,YE
+Shabwah,YE-SH,YE
+Sana,YE-SN,YE
+Taizz,YE-TA,YE
+Eastern Cape,ZA-EC,ZA
+Free State,ZA-FS,ZA
+Gauteng,ZA-GT,ZA
+KwaZulu-Natal,ZA-KN,ZA
+Limpopo,ZA-LP,ZA
+Mpumalanga,ZA-MP,ZA
+Northern Cape,ZA-NC,ZA
+North West,ZA-NW,ZA
+Western Cape,ZA-WC,ZA
+Copperbelt Province,ZM-CB,ZM
+Central Province,ZM-CE,ZM
+Eastern Province,ZM-EA,ZM
+Lusaka Province,ZM-LK,ZM
+Luapula Province,ZM-LP,ZM
+Northern Province,ZM-NO,ZM
+North-Western Province,ZM-NW,ZM
+Southern Province,ZM-SO,ZM
+Western Province,ZM-WE,ZM
+Bulawayo (city),ZW-BU,ZW
+Harare (city),ZW-HA,ZW
+Mashonaland Central,ZW-MC,ZW
+Midlands,ZW-MD,ZW
+Mashonaland East,ZW-ME,ZW
+Manicaland,ZW-ML,ZW
+Matabeleland North,ZW-MN,ZW
+Matabeleland South,ZW-MS,ZW
+Masvingo,ZW-MV,ZW
+Mashonaland West,ZW-MW,ZW
