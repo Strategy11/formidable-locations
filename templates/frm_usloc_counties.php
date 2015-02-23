@@ -1,13 +1,13 @@
 <?php
-global $frmdb;
+$frmdb = new FrmDb;
 
 $values['name'] = __('U.S. Counties', 'formidable');
 
 if (!$form){
-    $form_id = $frm_form->create( $values );
+    $form_id = FrmForm::create( $values );
 }else{
     $form_id = $form->id;
-    $frm_form->update($form_id, $values );
+    FrmForm::update($form_id, $values );
     $state = $frmdb->get_var($frmdb->fields, array('field_key' => 'frm_usloc_state_data'));
     $county = $frmdb->get_var($frmdb->fields, array('field_key' => 'frm_usloc_county'));
     $county_id = $frmdb->get_var($frmdb->fields, array('field_key' => 'frm_usloc_countyid'));

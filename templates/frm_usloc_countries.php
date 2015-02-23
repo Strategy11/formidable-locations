@@ -1,13 +1,13 @@
 <?php
-global $frmdb;
+$frmdb = new FrmDb;
 
 $values['name'] = __('Countries', 'formidable');
 
 if (!$form){
-    $form_id = $frm_form->create( $values );
+    $form_id = FrmForm::create( $values );
 }else{
     $form_id = $form->id;
-    $frm_form->update($form_id, $values );
+    FrmForm::update($form_id, $values );
     unset($form);
     $country = $frmdb->get_var($frmdb->fields, array('field_key' => 'frm_usloc_country'));
     $code2 = $frmdb->get_var($frmdb->fields, array('field_key' => 'frm_usloc_country_code2'));

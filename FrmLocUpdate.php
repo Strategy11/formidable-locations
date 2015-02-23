@@ -24,9 +24,11 @@ class FrmLocUpdate{
     function queue_update($transient, $force = false) {
         $plugin = $this;
         global $frm_update;
-        if ( !$frm_update ) {
-            $frm_update = new FrmUpdatesController();
+        if ( $frm_update ){
+            return $frm_update->queue_addon_update($transient, $plugin, $force);
+        } else {
+            $updates = new FrmUpdatesController();
+            return $updates->queue_addon_update($transient, $plugin, $force);
         }
-        return $frm_update->queue_addon_update($transient, $plugin, $force);
     }
 }
