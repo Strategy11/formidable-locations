@@ -1,5 +1,5 @@
 <?php
-$frmdb = new FrmDb;
+$frmdb = new FrmDb();
 
 $values['name'] = __('Countries', 'formidable');
 
@@ -18,7 +18,7 @@ if(!isset($country) or !$country){
     $field_values = apply_filters('frm_before_field_created', FrmFieldsHelper::setup_new_vars('text', $form_id));
     $field_values['field_key'] = 'frm_usloc_country';
     $field_values['name'] = __('Country', 'formidable');
-    $country = $frm_field->create( $field_values );
+	$country = FrmField::create( $field_values );
 }
 
 if(!isset($code2) or !$code2){
@@ -26,7 +26,7 @@ if(!isset($code2) or !$code2){
     $field_values['field_key'] = 'frm_usloc_country_code2';
     $field_values['name'] = __('2 Letter Code', 'formidable');
     $field_values['required'] = 1;
-    $code2 = $frm_field->create( $field_values );
+	$code2 = FrmField::create( $field_values );
 }
 
 if(!isset($code3) or !$code3){
@@ -35,7 +35,7 @@ if(!isset($code3) or !$code3){
     $field_values['name'] = __('3 Letter Code', 'formidable');
     $field_values['required'] = 1;
     $field_values['field_options']['unique'] = 1;
-    $code3 = $frm_field->create( $field_values );
+	$code3 = FrmField::create( $field_values );
 }
 
 unset($field_values);

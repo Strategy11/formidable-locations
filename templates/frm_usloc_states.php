@@ -1,5 +1,5 @@
 <?php
-$frmdb = new FrmDb;
+$frmdb = new FrmDb();
 
 $values['name'] = __('States/Provinces', 'formidable');
 
@@ -23,7 +23,7 @@ if(!isset($country) or !$country){
     $field_values['name'] = __('Country', 'formidable');
     $field_values['field_options']['data_type'] = 'select';
     $field_values['field_options']['form_select'] =  $frmdb->get_var($frmdb->fields, array('field_key' => 'frm_usloc_country'));  //ID of state field in state form
-    $country = $frm_field->create( $field_values );
+	$country = FrmField::create( $field_values );
 }
 
 if(!isset($state) or !$state){
@@ -31,7 +31,7 @@ if(!isset($state) or !$state){
     $field_values['field_key'] = 'frm_usloc_state';
     $field_values['name'] = __('State', 'formidable');
     $field_values['required'] = 1;
-    $state = $frm_field->create( $field_values );
+	$state = FrmField::create( $field_values );
 }
 
 if(!isset($abr) or !$abr){
@@ -40,7 +40,7 @@ if(!isset($abr) or !$abr){
     $field_values['name'] = __('State Abbreviation', 'formidable');
     $field_values['required'] = 1;
     $field_values['field_options']['unique'] = 1;
-    $abr = $frm_field->create( $field_values );
+	$abr = FrmField::create( $field_values );
 }
 
 unset($field_values);

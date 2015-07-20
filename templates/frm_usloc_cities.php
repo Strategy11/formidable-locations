@@ -1,5 +1,5 @@
 <?php
-$frmdb = new FrmDb;
+$frmdb = new FrmDb();
 
 $values['name'] = __('U.S. Cities', 'formidable');
 
@@ -25,14 +25,14 @@ if(!isset($state) or !$state){
     $field_values['required'] = 1;
     $field_values['field_options']['data_type'] = 'select';
     $field_values['field_options']['form_select'] =  $frmdb->get_var($frmdb->fields, array('field_key' => 'frm_usloc_state'));  //ID of state field in state form
-    $state = $frm_field->create( $field_values );
+	$state = FrmField::create( $field_values );
 }
 
 if(!isset($county) or !$county){
 	$field_values = apply_filters('frm_before_field_created', FrmFieldsHelper::setup_new_vars('text', $form_id));
     $field_values['field_key'] = 'frm_usloc_county_data';
     $field_values['name'] = __('County', 'formidable');
-    $county = $frm_field->create( $field_values );
+	$county = FrmField::create( $field_values );
 }
 
 if(!isset($city) or !$city){
@@ -40,7 +40,7 @@ if(!isset($city) or !$city){
     $field_values['field_key'] = 'frm_usloc_city';
     $field_values['name'] = __('City', 'formidable');
     $field_values['required'] = 1;
-    $city = $frm_field->create( $field_values );
+	$city = FrmField::create( $field_values );
 }
 
 unset($field_values);
