@@ -2,10 +2,10 @@
 /*
 Plugin Name: Formidable Locations
 Plugin URI: http://strategy11.com/formidable-wordpress-plugin
-Description: Create forms and populate with Countries, states/provinces, and U.S. counties and cities
+Description: Create forms and populate with Countries, states/provinces, and U.S. cities
 Author: Strategy11
 Author URI: http://strategy11.com
-Version: 1.0.02
+Version: 1.0.03
 */
 
 add_action('wp_ajax_frm_usloc_install', 'frm_usloc_create' );
@@ -58,7 +58,6 @@ function frm_usloc_get_started_headline(){
 
     if(!is_array($opts) or   
         !isset($opts['states_complete']) or
-        !isset($opts['counties_complete']) or
         !isset($opts['cities_complete'])
     ){
         if(isset($opts['dismiss'])) return;
@@ -99,7 +98,6 @@ function frm_usloc_settings(){
     if(!is_array($opts) or   
         !isset($opts['countries_complete']) or
         !isset($opts['states_complete']) or
-        !isset($opts['counties_complete']) or
         !isset($opts['cities_complete'])
     ){
         $left = frm_usloc_left_count($opts);
@@ -129,12 +127,12 @@ function frm_usloc_install_now(){
 
 function frm_usloc_left_count($opts){
     $imported = 0;
-    foreach(array('countries','states','counties','cities') as $loc){
+	foreach ( array( 'countries', 'states', 'cities' ) as $loc ) {
         if(isset($opts[$loc]))
             $imported = $imported + (int)$opts[$loc];
     }
     
-    return (272+3978+3098+51935) - $imported;
+    return (272+3978+51935) - $imported;
 }
 
 ?>

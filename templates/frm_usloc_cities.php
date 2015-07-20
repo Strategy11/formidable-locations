@@ -29,12 +29,9 @@ if(!isset($state) or !$state){
 }
 
 if(!isset($county) or !$county){
-    $field_values = apply_filters('frm_before_field_created', FrmFieldsHelper::setup_new_vars('data', $form_id));
+	$field_values = apply_filters('frm_before_field_created', FrmFieldsHelper::setup_new_vars('text', $form_id));
     $field_values['field_key'] = 'frm_usloc_county_data';
     $field_values['name'] = __('County', 'formidable');
-    $field_values['field_options']['data_type'] = 'select';
-    $field_values['field_options']['form_select'] =  $frmdb->get_var($frmdb->fields, array('field_key' => 'frm_usloc_county'));  //ID of county field in county form
-    $field_values['field_options']['hide_field'] = $state; //set state dependency
     $county = $frm_field->create( $field_values );
 }
 
@@ -52,11 +49,10 @@ unset($field_values);
 $opts = get_option('frm_usloc_options');
 if(!is_array($opts)) return;
 if(!isset($opts['cities'])) $opts['cities'] = 1;
-if(isset($opts['counties_complete']) and $opts['cities'] < 51935){
-    $county_id = $frmdb->get_var($frmdb->fields, array('field_key' => 'frm_usloc_countyid'));
+if(isset($opts['states_complete']) and $opts['cities'] < 51935){
     // Import cities from CSV
     $opts['cities'] = FrmProXMLHelper::import_csv( dirname(dirname(__FILE__)) . '/us_cities.csv', $form_id, array(
-        1 => $city, 3 => array('field_id' => $county, 'type' => 'data', 'linked' => $county_id),
+        1 => $city, 3 => $county,
         5 => array('field_id' => $state, 'type' => 'data', 'linked' => $abr)), 1, $opts['cities']+1
     );
     
