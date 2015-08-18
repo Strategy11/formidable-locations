@@ -9,22 +9,22 @@ Version: 2.0b1
 */
 
 function frm_loc_forms_autoloader($class_name) {
-    $path = dirname(__FILE__);
+	$path = dirname(__FILE__);
 
-    // Only load Frm classes here
-    if ( ! preg_match('/^FrmLoc.+$/', $class_name) ) {
-        return;
-    }
+	// Only load Frm classes here
+	if ( ! preg_match('/^FrmLoc.+$/', $class_name) ) {
+		return;
+	}
 
 	if ( preg_match('/^.+Controller$/', $class_name) ) {
-        $path .= '/controllers/'. $class_name .'.php';
-    } else {
-        $path .= '/models/'. $class_name .'.php';
-    }
+		$path .= '/controllers/'. $class_name .'.php';
+	} else {
+		$path .= '/models/'. $class_name .'.php';
+	}
 
-    if ( file_exists($path) ) {
-        include($path);
-    }
+	if ( file_exists($path) ) {
+		include($path);
+	}
 }
 
 // Add the autoloader
