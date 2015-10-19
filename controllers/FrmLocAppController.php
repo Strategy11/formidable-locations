@@ -19,8 +19,10 @@ class FrmLocAppController{
 
 	}
 
-	public static function include_updater(){
-		$update = new FrmLocUpdate();
+	public static function include_updater() {
+		if ( class_exists( 'FrmAddon' ) ) {
+			FrmLocUpdate::load_hooks();
+		}
 	}
 
 	public static function menu(){

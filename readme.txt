@@ -6,6 +6,9 @@
 5. After import completes, you can insert Data from entries fields in any form
 
 == Changelog ==
+= 2.0.01 =
+* Get updates from FormidablePro.com
+
 = 1.0.03 =
 * Update for Formidable 2.0+ compatability
 * Remove counties to prevent extra data that isn't frequently used
