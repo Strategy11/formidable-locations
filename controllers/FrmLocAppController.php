@@ -2,7 +2,7 @@
 
 class FrmLocAppController{
 
-	public static $min_version = '1.07.05';
+	public static $min_version = '2.01';
 
 	public static function min_version_notice(){
 		$frm_version = is_callable('FrmAppHelper::plugin_version') ? FrmAppHelper::plugin_version() : 0;
@@ -32,8 +32,7 @@ class FrmLocAppController{
 			return;
 		}
 
-		$menu = $frm_settings ? $frm_settings->menu : 'Formidable';
-		add_submenu_page('formidable', $menu .' | Locations', 'Locations', 'frm_create_entries', 'formidable-locations', 'FrmLocAppController::route');
+		add_submenu_page('formidable', $frm_settings->menu .' | Locations', 'Locations', 'frm_create_entries', 'formidable-locations', 'FrmLocAppController::route');
 	}
 
 	public static function route(){
@@ -49,10 +48,8 @@ class FrmLocAppController{
 
 	public static function get_submenu_page(){
 		$import_options = array(
-			'countries'	=> __( 'Countries only', 'formidable' ),
 			'countries_states'	=> __( 'Countries and States/Provinces', 'formidable' ),
 			'states_counties_cities'	=> __( 'U.S. States, Counties, and Cities', 'formidable' ),
-			'states_cities'	=> __( 'U.S. States and Cities', 'formidable' ),
 		);
 
 		include_once( dirname(dirname(__FILE__)) . '/views/submenu_page.php' );
