@@ -48,11 +48,16 @@ class FrmLocAppController{
 
 	public static function get_submenu_page(){
 		$import_options = array(
-			'countries_states'	=> __( 'Countries and States/Provinces', 'formidable' ),
-			'states_counties_cities'	=> __( 'U.S. States, Counties, and Cities', 'formidable' ),
+			'countries_states' => __( 'Countries and States/Provinces', 'formidable' ),
+			'states_cities'	   => __( 'U.S. States, Counties, and Cities', 'formidable' ),
 		);
 
-		include_once( dirname(dirname(__FILE__)) . '/views/submenu_page.php' );
+		$reset_link = wp_nonce_url( add_query_arg( 'reset', 'all' ), 'reset_loc', 'loc_nonce' );
+		if ( isset( $_GET['reset'] ) && $_GET['reset'] == 'all' ) {
+			FrmLocImport::reset_import();
+		}
+
+		include_once( dirname( dirname( __FILE__ ) ) . '/views/submenu_page.php' );
 	}
 
 }

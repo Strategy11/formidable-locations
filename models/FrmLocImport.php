@@ -6,6 +6,22 @@ class FrmLocImport{
 	private static $cities_total = 51937;
 
 	/**
+	 * Delete all locations data
+	 * @since 2.1
+	 */
+	public static function reset_import() {
+		if ( isset( $_GET['loc_nonce'] ) && wp_verify_nonce( $_GET['loc_nonce'], 'reset_loc' ) ) {
+			delete_option( 'frm_usloc_options' );
+			foreach ( array( 'frm_loc_lookup', 'frm_loc_list' ) as $form_key ) {
+				$form_id = FrmForm::getIdByKey( $form_key );
+				if ( $form_id ) {
+					FrmForm::destroy( $form_id );
+				}
+			}
+		}
+	}
+
+	/**
 	* Import locations, starting with the XML files
 	*
 	* @since 2.0
@@ -13,8 +29,11 @@ class FrmLocImport{
 	public static function import_locations(){
 		$data_to_import = FrmAppHelper::get_post_param( 'frm_import_files', '', 'sanitize_title' );
 
-		$file = dirname( dirname( __FILE__ ) ) .'/templates/locations-forms.xml';
-		FrmXMLHelper::import_xml( $file );
+		$form = FrmForm::getOne('frm_loc_list');
+		if ( ! $form ) {
+			$file = dirname( dirname( __FILE__ ) ) .'/templates/locations-forms.xml';
+			FrmXMLHelper::import_xml( $file );
+		}
 
 		$opts = get_option( 'frm_usloc_options' );
 		$remaining = self::remaining_count( $opts, $data_to_import );
@@ -30,7 +49,7 @@ class FrmLocImport{
 		$csv_func_name = 'import_' . $data_to_import;
 		self::$csv_func_name( $opts );
 
-		die();
+		wp_die();
 	}
 
 	/**
@@ -40,7 +59,6 @@ class FrmLocImport{
 	*/
 	private static function import_countries_states( $opts ){
 		echo self::import_global_states_csv( $opts );
-		die();
 	}
 
 	/**
@@ -48,9 +66,8 @@ class FrmLocImport{
 	*
 	* @since 2.0
 	*/
-	private static function import_states_counties_cities( $opts ) {
+	private static function import_states_cities( $opts ) {
 		echo self::import_cities_with_counties_csv( $opts );
-		die();
 	}
 
 	/**

@@ -112,7 +112,7 @@
 	</form>
 	<form>
 		<id>811</id>
-		<form_key><![CDATA[wlydy]]></form_key>
+		<form_key><![CDATA[frm_loc_lookup]]></form_key>
 		<name><![CDATA[Location Lookup]]></name>
 		<description><![CDATA[]]></description>
 		<created_at>2016-05-06 16:57:21</created_at>
@@ -134,7 +134,7 @@
             <form_id>811</form_id>
             <required></required>
             <options><![CDATA[]]></options>
-            <field_options><![CDATA[{"data_type":"select","get_values_form":"810","get_values_field":"37381","lookup_filter_current_user":false,"lookup_placeholder_text":"","lookup_option_order":"ascending"}]]></field_options>
+            <field_options><![CDATA[{"data_type":"select","get_values_form":"810","get_values_field":"37380","lookup_filter_current_user":false,"lookup_placeholder_text":"","lookup_option_order":"ascending"}]]></field_options>
 		</field>
 		<field>
 		    <id>37388</id>
