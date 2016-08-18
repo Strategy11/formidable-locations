@@ -2696,7 +2696,6 @@ Nord,NC-N,NC
 Sud,NC-S,NC
 Abia,NG-AB,NG
 Adamawa,NG-AD,NG
-Agadez,NG-AG,NG
 Akwa Ibom,NG-AK,NG
 Anambra,NG-AN,NG
 Bauchi,NG-BC,NG
@@ -2706,8 +2705,6 @@ Bayelsa,NG-BY,NG
 Cross River,NG-CR,NG
 Federal Capital Territory,NG-CT,NG
 Delta,NG-DE,NG
-Diffa,NG-DF,NG
-Dosso,NG-DS,NG
 Ebonyi,NG-EB,NG
 Edo,NG-ED,NG
 Ekiti,NG-EK,NG
@@ -2722,10 +2719,8 @@ Kogi,NG-KO,NG
 Katsina,NG-KT,NG
 Kwara,NG-KW,NG
 Lagos,NG-LA,NG
-Maradi,NG-MA,NG
 Nassarawa,NG-NA,NG
 Niger,NG-NI,NG
-Niamey,NG-NM,NG
 Ogun,NG-OG,NG
 Ondo,NG-ONG,NG
 Osun,NG-OS,NG
@@ -2734,11 +2729,8 @@ Plateau,NG-PL,NG
 Rivers,NG-RI,NG
 Sokoto,NG-SO,NG
 Taraba,NG-TA,NG
-Tahoua,NG-TH,NG
-Tillaberi,NG-TL,NG
 Yobe,NG-YO,NG
 Zamfara,NG-ZA,NG
-Zinder,NG-ZD,NG
 Region Autonoma del Atlantico Norte,NI-AN,NI
 Region Autonoma del Atlantico Sur,NI-AS,NI
 Boaco,NI-BO,NI
