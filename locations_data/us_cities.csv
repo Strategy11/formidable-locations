@@ -5700,7 +5700,6 @@ ID,city,county,countyID,statename,stateabbreviation,country
 5699,Cos Cob,Fairfield County,307,Connecticut,CT,US
 5700,Coventry,Tolland County,313,Connecticut,CT,US
 5701,Cromwell,Middlesex County,310,Connecticut,CT,US
-5702,CT,US Gen Med Claims Office,New Haven County,311,Connecticut,CT,US
 5703,Danbury,Fairfield County,307,Connecticut,CT,US
 5704,Danielson,Windham County,314,Connecticut,CT,US
 5705,Darien,Fairfield County,307,Connecticut,CT,US
@@ -6403,7 +6402,6 @@ ID,city,county,countyID,statename,stateabbreviation,country
 6402,First Union,Orange County,364,Florida,FL,US
 6403,Fisher Island,Miami-Dade County,357,Florida,FL,US
 6404,Five Points Beckers,Nassau County,338,Florida,FL,US
-6405,FL,US State Lot,Leon County,378,Florida,FL,US
 6406,Flagler Beach,Flagler County,328,Florida,FL,US
 6407,Flamingo Lodge,Miami-Dade County,357,Florida,FL,US
 6408,Fleming Island,Clay County,343,Florida,FL,US
@@ -17442,12 +17440,7 @@ ID,city,county,countyID,statename,stateabbreviation,country
 17441,Kurthwood,Vernon Parish,1145,Louisiana,LA,US
 17442,La Camp,Rapides Parish,1112,Louisiana,LA,US
 17443,La Chute,Caddo Parish,1168,Louisiana,LA,US
-17444,LA,US College,Rapides Parish,1112,Louisiana,LA,US
-17445,LA,US Dept Reven,East Baton Rouge Parish,1116,Louisiana,LA,US
-17446,LA,US Lottery,East Baton Rouge Parish,1116,Louisiana,LA,US
 17447,La Place,St. John The Baptist Parish,1144,Louisiana,LA,US
-17448,LA,US St Univ,East Baton Rouge Parish,1116,Louisiana,LA,US
-17449,LA,US Tech,Lincoln Parish,1164,Louisiana,LA,US
 17450,La/Ark Junct,Winn Parish,1173,Louisiana,LA,US
 17451,Labadieville,Assumption Parish,1152,Louisiana,LA,US
 17452,Labarre,Pointe Coupee Parish,1156,Louisiana,LA,US
@@ -32816,8 +32809,6 @@ ID,city,county,countyID,statename,stateabbreviation,country
 32815,Nathans Creek,Ashe County,1687,North Carolina,NC,US
 32816,Naval Hospital,Onslow County,1686,North Carolina,NC,US
 32817,Navassa,Brunswick County,1651,North Carolina,NC,US
-32818,NC,US Baptist Hospital,Forsyth County,1741,North Carolina,NC,US
-32819,NC,US State University,Wake County,1712,North Carolina,NC,US
 32820,Nebo,McDowell County,1698,North Carolina,NC,US
 32821,Needmore,Swain County,1654,North Carolina,NC,US
 32822,Neuse,Wake County,1712,North Carolina,NC,US
