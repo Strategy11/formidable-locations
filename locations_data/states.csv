@@ -2703,7 +2703,7 @@ Iles Loyaute,NC-L,NC,New Caledonia,NCL
 Nord,NC-N,NC,New Caledonia,NCL
 Sud,NC-S,NC,New Caledonia,NCL
 Abia,NG-AB,NG,Nigeria,NGA
-Adamawa,NG-AD,NG,Nigeria,NGA
+Agadez,NG-AG,NG
 Agadez,NG-AG,NG,Nigeria,NGA
 Akwa Ibom,NG-AK,NG,Nigeria,NGA
 Anambra,NG-AN,NG,Nigeria,NGA
@@ -2714,8 +2714,6 @@ Bayelsa,NG-BY,NG,Nigeria,NGA
 Cross River,NG-CR,NG,Nigeria,NGA
 Federal Capital Territory,NG-CT,NG,Nigeria,NGA
 Delta,NG-DE,NG,Nigeria,NGA
-Diffa,NG-DF,NG,Nigeria,NGA
-Dosso,NG-DS,NG,Nigeria,NGA
 Ebonyi,NG-EB,NG,Nigeria,NGA
 Edo,NG-ED,NG,Nigeria,NGA
 Ekiti,NG-EK,NG,Nigeria,NGA
@@ -2730,10 +2728,8 @@ Kogi,NG-KO,NG,Nigeria,NGA
 Katsina,NG-KT,NG,Nigeria,NGA
 Kwara,NG-KW,NG,Nigeria,NGA
 Lagos,NG-LA,NG,Nigeria,NGA
-Maradi,NG-MA,NG,Nigeria,NGA
 Nassarawa,NG-NA,NG,Nigeria,NGA
 Niger,NG-NI,NG,Nigeria,NGA
-Niamey,NG-NM,NG,Nigeria,NGA
 Ogun,NG-OG,NG,Nigeria,NGA
 Ondo,NG-ONG,NG,Nigeria,NGA
 Osun,NG-OS,NG,Nigeria,NGA
@@ -2742,11 +2738,8 @@ Plateau,NG-PL,NG,Nigeria,NGA
 Rivers,NG-RI,NG,Nigeria,NGA
 Sokoto,NG-SO,NG,Nigeria,NGA
 Taraba,NG-TA,NG,Nigeria,NGA
-Tahoua,NG-TH,NG,Nigeria,NGA
-Tillaberi,NG-TL,NG,Nigeria,NGA
 Yobe,NG-YO,NG,Nigeria,NGA
 Zamfara,NG-ZA,NG,Nigeria,NGA
-Zinder,NG-ZD,NG,Nigeria,NGA
 Region Autonoma del Atlantico Norte,NI-AN,NI,Nicaragua,NIC
 Region Autonoma del Atlantico Sur,NI-AS,NI,Nicaragua,NIC
 Boaco,NI-BO,NI,Nicaragua,NIC
@@ -4027,3 +4020,125 @@ Ross Dependency,,AQ,Antarctica,ATA
 Peter I Island,,AQ,Antarctica,ATA
 Queen Maud Land,,AQ,Antarctica,ATA
 British Antarctic Territory,,AQ,Antarctica,ATA
+=======
+statename,stateabbreviation,country
+Alaska,AK,US
+Alabama,AL,US
+Arkansas,AR,US
+Arizona,AZ,US
+California,CA,US
+Colorado,CO,US
+Connecticut,CT,US
+District of Columbia,DC,US
+Delaware,DE,US
+Florida,FL,US
+Georgia,GA,US
+Hawaii,HI,US
+Iowa,IA,US
+Idaho,ID,US
+Illinois,IL,US
+Indiana,IN,US
+Kansas,KS,US
+Kentucky,KY,US
+Louisiana,LA,US
+Massachusetts,MA,US
+Maryland,MD,US
+Maine,ME,US
+Michigan,MI,US
+Minnesota,MN,US
+Missouri,MO,US
+Mississippi,MS,US
+Montana,MT,US
+North Carolina,NC,US
+North Dakota,ND,US
+Nebraska,NE,US
+New Hampshire,NH,US
+New Jersey,NJ,US
+New Mexico,NM,US
+Nevada,NV,US
+New York,NY,US
+Ohio,OH,US
+Oklahoma,OK,US
+Oregon,OR,US
+Pennsylvania,PA,US
+Rhode Island,RI,US
+South Carolina,SC,US
+South Dakota,SD,US
+Tennessee,TN,US
+Texas,TX,US
+Utah,UT,US
+Virginia,VA,US
+Vermont,VT,US
+Washington,WA,US
+Wisconsin,WI,US
+West Virginia,WV,US
+Wyoming,WY,US
+American Samoa,AS,US
+Virgin Islands of the U.S.,VI,US
+Guam,GU,US
+Northern Mariana Islands,MP,US
+Puerto Rico,PR,US
+U.S. Minor Outlying Islands,UM,US
+Andorra la Vella,AD-ALV,AD
+Canillo,AD-CAN,AD
+Encamp,AD-ENC,AD
+Escaldes-Engordany,AD-ESE,AD
+La Massana,AD-LMA,AD
+Ordino,AD-ORD,AD
+Sant Julia de LOA,AD-SJL,AD
+Ajman,AE-AJ,AE
+Abu Zaby,AE-AZ,AE
+Dubayy,AE-DU,AE
+Al Fujayrah,AE-FU,AE
+R as al Khaymah,AE-RK,AE
+Ash Shariqah,AE-SH,AE
+Umm al Qaywayn,AE-UQ,AE
+Balkh province,AF-BAL,AF
+Bamian province,AF-BAM,AF
+Badghis province,AF-BDG,AF
+Badakhshan province,AF-BDS,AF
+Baghlan province,AF-BGL,AF
+Farah province,AF-FRA,AF
+Faryab province,AF-FYB,AF
+Ghazni province,AF-GHA,AF
+Ghowr province,AF-GHO,AF
+Helmand province,AF-HEL,AF
+Herat province,AF-HER,AF
+Jowzjan province,AF-JOW,AF
+Kabul province,AF-KAB,AF
+Kandahar province,AF-KAN,AF
+Kapisa province,AF-KAP,AF
+Kondoz province,AF-KDZ,AF
+Khost province,AF-KHO,AF
+Konar province,AF-KNR,AF
+Laghman province,AF-LAG,AF
+Lowgar province,AF-LOW,AF
+Nangrahar province,AF-NAN,AF
+Nimruz province,AF-NIM,AF
+Nurestan province,AF-NUR,AF
+Oruzgan province,AF-ORU,AF
+Parwan province,AF-PAR,AF
+Paktia province,AF-PIA,AF
+Paktika province,AF-PKA,AF
+Samangan province,AF-SAM,AF
+Sar-e Pol province,AF-SAR,AF
+Takhar province,AF-TAK,AF
+Wardak province,AF-WAR,AF
+Zabol province,AF-ZAB,AF
+Saint George,AG-ASG,AG
+Saint Philip,AG-ASH,AG
+Saint John,AG-ASJ,AG
+Saint Paul,AG-ASL,AG
+Saint Mary,AG-ASM,AG
+Saint Peter,AG-ASR,AG
+Barbuda,AG-BAR,AG
+Redonda,AG-RED,AG
+Berat,AL-BR,AL
+Bulqize,AL-BU,AL
+Diber,AL-DI,AL
+Delvine,AL-DL,AL
+Durres,AL-DR,AL
+Devoll,AL-DV,AL
+Elbasan,AL-EL,AL
+Kolonje,AL-ER,AL
+Fier,AL-FR,AL
