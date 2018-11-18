@@ -6,11 +6,19 @@
 5. After import completes, you can insert Data from entries fields in any form
 
 == Changelog ==
+
+= 2.02 =
+* Fix: Remove invalid city data.
+
+= 2.01 =
+* New: Switch to lookup fields instead of dynamic fields
+* New: Add a link to reset locations.
+
 = 2.0.01 =
 * Get updates from FormidablePro.com
 
 = 1.0.03 =
-* Update for Formidable 2.0+ compatability
+* Update for Formidable 2.0+ compatibility
 * Remove counties to prevent extra data that isn't frequently used
 
 = 1.0.02 =

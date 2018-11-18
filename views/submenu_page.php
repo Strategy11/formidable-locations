@@ -25,6 +25,10 @@
 					<input type="submit" value="<?php esc_attr_e( 'Import Selection', 'formidable' ) ?>" class="button-primary" />
 				</p>
 			</form>
+
+			<a href="<?php echo esc_url(  $reset_link ) ?>" onclick="return confirm('<?php echo esc_js( __( 'Are you sure you want to delete your locations forms and data?', 'formidable' ) ) ?>')">
+				<?php esc_html_e( 'Reset Locations', 'formidable' ) ?>
+			</a>
 		</div>
 	</div>
 </div>
