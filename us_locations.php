@@ -23,12 +23,12 @@ function frm_loc_forms_autoloader($class_name) {
 	}
 
 	if ( file_exists($path) ) {
-		include($path);
+		include $path;
 	}
 }
 
 // Add the autoloader
-spl_autoload_register('frm_loc_forms_autoloader');
+spl_autoload_register( 'frm_loc_forms_autoloader' );
 
 // Load hooks
 FrmLocHooksController::load_admin_hooks();
