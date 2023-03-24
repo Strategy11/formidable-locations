@@ -1,6 +1,6 @@
 parameters:
 	level: max
-	reportUnmatchedIgnoredErrors: true
+	reportUnmatchedIgnoredErrors: false
 	bootstrapFiles:
 		- vendor/php-stubs/wordpress-stubs/wordpress-stubs.php
 		- stubs
@@ -17,4 +17,3 @@ parameters:
 		- '#no (typehint|value type|return typehint)+ specified.#'
 		- '#has no return type specified#'
 		- '#with no type specified#'
-		- '#has no type specified.#'
