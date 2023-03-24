@@ -3,14 +3,18 @@
 class FrmLocImport {
 
 	/**
+	 * The total number of states to import in states.csv.
+	 *
 	 * @var int
 	 */
-	private static $states_total = 4028;
+	private static $states_total = 4143;
 
 	/**
+	 * The total number of cities to import in us_cities.csv.
+	 *
 	 * @var int
 	 */
-	private static $cities_total = 51937;
+	private static $cities_total = 51928;
 
 	/**
 	 * Delete all locations data.
