@@ -6,7 +6,6 @@
 	<div id="poststuff" class="metabox-holder">
 		<div id="post-body">
 			<div id="post-body-content">
-
 				<div class="postbox ">
 					<h3 class="hndle"><span><?php esc_html_e( 'Importing Locations', 'formidable' ); ?></span></h3>
 					<div class="inside">
@@ -17,40 +16,29 @@
 							</div>
 						</div>
 						<!-- what about nonce? -->
-
-
-						<script type="text/javascript">
-
-						function frmImportLocationsCsv(){
-							jQuery.ajax({
-								type:"POST",url:ajaxurl,
-								data:'action=frm_import_locations_csv&frm_skip_cookie=1&data_to_import=<?php echo esc_js( $data_to_import ); ?>',
-							success:function(imported){
-								var max = jQuery('.frm_progress_bar').attr('aria-valuemax');
-								var percent = (imported / max) * 100;
-								var remaining = max - imported;
-								jQuery('.frm_progress_bar').css('width', percent +'%').attr('aria-valuenow', imported);
-		
-								if(parseInt(remaining) > 0){
-									jQuery('.frm_csv_remaining').html(remaining);
-									frmImportLocationsCsv();
-								}else{
-									jQuery(document.getElementById('frm_import_message')).html('Import complete');
-									setTimeout(function(){
-										location.href = '?page=formidable';
-									}, 2000);
-								}
+						<script>
+							function frmImportLocationsCsv() {
+								jQuery.ajax({
+									type: "POST",
+									url: ajaxurl,
+									data: 'action=frm_import_locations_csv&frm_skip_cookie=1&data_to_import=<?php echo esc_js( $data_to_import ); ?>',
+									success: imported => {
+										const max       = jQuery( '.frm_progress_bar' ).attr( 'aria-valuemax' );
+										const percent   = ( imported / max ) * 100;
+										const remaining = max - imported;
+										jQuery('.frm_progress_bar').css( 'width', percent +'%' ).attr( 'aria-valuenow', imported );
+										if ( parseInt( remaining ) > 0 ) {
+											jQuery( '.frm_csv_remaining' ).text( remaining );
+											frmImportLocationsCsv();
+										} else {
+											jQuery( document.getElementById( 'frm_import_message' ) ).text( 'Import complete' );
+											setTimeout( () => location.href = '?page=formidable', 2000 );
+										}
+									}
+								});	
 							}
-							});	
-						}
-
-						jQuery(document).ready(function(){
-							frmImportLocationsCsv();
-						});
-
-						</script>
-						
-						
+							jQuery( document ).ready( frmImportLocationsCsv );
+						</script>						
 					</div>
 				</div>
 			</div>
