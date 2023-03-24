@@ -3,17 +3,17 @@
 class FrmLocUpdate extends FrmAddon {
 
 	/**
-	 * @param string
+	 * @var string
 	 */
 	public $plugin_file;
 
 	/**
-	 * @param string
+	 * @var string
 	 */
 	public $plugin_name = 'Locations';
 
 	/**
-	 * @param string
+	 * @var string
 	 */
 	public $version = '2.02';
 
