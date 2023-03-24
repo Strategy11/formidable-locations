@@ -27840,8 +27840,8 @@ ID,city,county,countyID,statename,stateabbreviation,country
 27846,Newport,Cumberland County,1902,New Jersey,NJ,US
 27847,Newton,Sussex County,1915,New Jersey,NJ,US
 27848,Newtonville,Atlantic County,1910,New Jersey,NJ,US
-27849,NJ,US Income Tax,Mercer County,1920,New Jersey,NJ,US
-27850,NJ,US Taxation Dept,Mercer County,1920,New Jersey,NJ,US
+27849,US Income Tax,Mercer County,1920,New Jersey,NJ,US
+27850,US Taxation Dept,Mercer County,1920,New Jersey,NJ,US
 27851,Norma,Salem County,1917,New Jersey,NJ,US
 27852,Normandy Beach,Ocean County,1919,New Jersey,NJ,US
 27853,North Arlington,Bergen County,1908,New Jersey,NJ,US
