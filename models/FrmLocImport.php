@@ -1,6 +1,6 @@
 <?php
 
-class FrmLocImport{
+class FrmLocImport {
 
 	/**
 	 * @var int
@@ -20,22 +20,27 @@ class FrmLocImport{
 	 * @return void
 	 */
 	public static function reset_import() {
-		if ( isset( $_GET['loc_nonce'] ) && wp_verify_nonce( $_GET['loc_nonce'], 'reset_loc' ) ) {
-			delete_option( 'frm_usloc_options' );
-			foreach ( array( 'frm_loc_lookup', 'frm_loc_list' ) as $form_key ) {
-				$form_id = FrmForm::get_id_by_key( $form_key );
-				if ( $form_id ) {
-					FrmForm::destroy( $form_id );
-				}
+		// phpcs: ignore WordPress.Security.ValidatedSanitizedInput.MissingUnslash
+		$nonce = FrmAppHelper::simple_get( 'loc_nonce' );
+		if ( ! $nonce || ! wp_verify_nonce( $nonce, 'reset_loc' ) ) {
+			return;
+		}
+
+		delete_option( 'frm_usloc_options' );
+		foreach ( array( 'frm_loc_lookup', 'frm_loc_list' ) as $form_key ) {
+			$form_id = FrmForm::get_id_by_key( $form_key );
+			if ( $form_id ) {
+				FrmForm::destroy( $form_id );
 			}
 		}
 	}
 
 	/**
-	* Import locations, starting with the XML files
-	*
-	* @since 2.0
-	*/
+	 * Import locations, starting with the XML files
+	 *
+	 * @since 2.0
+	 * @return void
+	 */
 	public static function import_locations() {
 		$data_to_import = FrmAppHelper::get_post_param( 'frm_import_files', '', 'sanitize_title' );
 
@@ -71,7 +76,7 @@ class FrmLocImport{
 	 * @return void
 	 */
 	private static function import_countries_states( $opts ) {
-		echo self::import_global_states_csv( $opts );
+		echo absint( self::import_global_states_csv( $opts ) );
 	}
 
 	/**
@@ -83,7 +88,7 @@ class FrmLocImport{
 	 * @return void
 	 */
 	private static function import_states_cities( $opts ) {
-		echo self::import_cities_with_counties_csv( $opts );
+		echo absint( self::import_cities_with_counties_csv( $opts ) );
 	}
 
 	/**
@@ -106,7 +111,8 @@ class FrmLocImport{
 			// Import states from CSV
 			$filename = dirname( dirname( __FILE__ ) ) . '/locations_data/states.csv';
 			$opts['states'] = FrmProXMLHelper::import_csv(
-				$filename, $form_id,
+				$filename,
+				$form_id,
 				array(
 					0 => FrmField::get_id_by_key( 'frm_loc_state' ),
 					1 => FrmField::get_id_by_key( 'frm_loc_state_abr' ),
@@ -114,7 +120,8 @@ class FrmLocImport{
 					3 => FrmField::get_id_by_key( 'frm_loc_country' ),
 					4 => FrmField::get_id_by_key( 'frm_loc_country_code3' ),
 				),
-				1, $opts['states'] + 1
+				1,
+				$opts['states'] + 1
 			);
 
 			update_option( 'frm_usloc_options', $opts );
@@ -188,16 +195,17 @@ class FrmLocImport{
 	}
 
 	/**
-	 * @param array $opts
+	 * @param array  $opts
 	 * @param string $data_to_import 'countries_states' or 'states_cities'.
 	 * @return int
 	 */
 	private static function remaining_count( $opts, $data_to_import ) {
 		// Get number of imported entries.
-		$imported   = $total = 0;
+		$imported   = 0;
+		$total      = 0;
 		$data_types = array(
 			'states' => 0,
-			'cities' => 0
+			'cities' => 0,
 		);
 
 		foreach ( $data_types as $loc => $loc_imported ) {

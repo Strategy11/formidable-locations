@@ -8,21 +8,27 @@ Author URI: http://strategy11.com
 Version: 2.02
 */
 
-function frm_loc_forms_autoloader($class_name) {
-	$path = dirname(__FILE__);
+/**
+ * Autoloader for Locations add on.
+ *
+ * @param string $class_name
+ * @return void
+ */
+function frm_loc_forms_autoloader( $class_name ) {
+	$path = dirname( __FILE__ );
 
 	// Only load Frm classes here
-	if ( ! preg_match('/^FrmLoc.+$/', $class_name) ) {
+	if ( ! preg_match( '/^FrmLoc.+$/', $class_name ) ) {
 		return;
 	}
 
-	if ( preg_match('/^.+Controller$/', $class_name) ) {
-		$path .= '/controllers/'. $class_name .'.php';
+	if ( preg_match( '/^.+Controller$/', $class_name ) ) {
+		$path .= '/controllers/' . $class_name . '.php';
 	} else {
-		$path .= '/models/'. $class_name .'.php';
+		$path .= '/models/' . $class_name . '.php';
 	}
 
-	if ( file_exists($path) ) {
+	if ( file_exists( $path ) ) {
 		include $path;
 	}
 }
