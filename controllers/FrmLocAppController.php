@@ -11,7 +11,7 @@ class FrmLocAppController {
 	 * @return void
 	 */
 	public static function min_version_notice() {
-		$frm_version = is_callable( 'FrmAppHelper::plugin_version' ) ? FrmAppHelper::plugin_version() : 0;
+		$frm_version = is_callable( 'FrmAppHelper::plugin_version' ) ? FrmAppHelper::plugin_version() : '0';
 
 		// Check if Formidable meets minimum requirements.
 		if ( version_compare( $frm_version, self::$min_version, '>=' ) ) {
@@ -19,10 +19,11 @@ class FrmLocAppController {
 		}
 
 		$wp_list_table = _get_list_table( 'WP_Plugins_List_Table' );
-		echo '<tr class="plugin-update-tr active"><th colspan="' . absint( $wp_list_table->get_column_count() ) . '" class="check-column plugin-update colspanchange"><div class="update-message">' .
-			esc_html__( 'You are running an outdated version of Formidable. This plugin may not work correctly if you do not update Formidable.', 'formidable' ) .
-				'</div></td></tr>';
-
+		if ( $wp_list_table instanceof WP_List_Table ) {
+			echo '<tr class="plugin-update-tr active"><th colspan="' . absint( $wp_list_table->get_column_count() ) . '" class="check-column plugin-update colspanchange"><div class="update-message">' .
+				esc_html__( 'You are running an outdated version of Formidable. This plugin may not work correctly if you do not update Formidable.', 'formidable' ) .
+					'</div></td></tr>';
+		}
 	}
 
 	/**

@@ -195,7 +195,7 @@ class FrmLocImport {
 	}
 
 	/**
-	 * @param array  $opts
+	 * @param mixed  $opts
 	 * @param string $data_to_import 'countries_states' or 'states_cities'.
 	 * @return int
 	 */
@@ -208,9 +208,11 @@ class FrmLocImport {
 			'cities' => 0,
 		);
 
-		foreach ( $data_types as $loc => $loc_imported ) {
-			if ( isset( $opts[ $loc ] ) ) {
-				$data_types[ $loc ] = (int) $opts[ $loc ];
+		if ( is_array( $opts ) ) {
+			foreach ( $data_types as $loc => $loc_imported ) {
+				if ( isset( $opts[ $loc ] ) ) {
+					$data_types[ $loc ] = (int) $opts[ $loc ];
+				}
 			}
 		}
 

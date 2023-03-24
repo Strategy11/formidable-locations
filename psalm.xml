@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<psalm
+	errorLevel="2"
+	resolveFromConfigFile="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="https://getpsalm.org/schema/config"
+	xsi:schemaLocation="https://getpsalm.org/schema/config vendor/vimeo/psalm/config.xsd"
+>
+	<projectFiles>
+		<file name="us_locations.php" />
+		<directory name="controllers" />
+		<directory name="models" />
+		<ignoreFiles>
+			<directory name="vendor" />
+			<directory name="views" />
+		</ignoreFiles>
+	</projectFiles>
+	<stubs>
+		<file name="vendor/php-stubs/wordpress-stubs/wordpress-stubs.php" />
+		<file name="stubs" />
+	</stubs>
+	<issueHandlers>
+		<InvalidGlobal>
+			<errorLevel type="suppress">
+				<directory name="controllers" />
+				<directory name="models" />
+			</errorLevel>
+		</InvalidGlobal>
+		<UndefinedDocblockClass>
+			<errorLevel type="suppress">
+				<directory name="controllers" />
+				<directory name="models" />
+			</errorLevel>
+		</UndefinedDocblockClass>
+		<TooManyArguments>
+			<errorLevel type="suppress">
+				<referencedFunction name="apply_filters" />
+			</errorLevel>
+		</TooManyArguments>
+		<UnresolvableInclude>
+			<errorLevel type="suppress">
+				<directory name="controllers" />
+				<directory name="models" />
+			</errorLevel>
+		</UnresolvableInclude>
+		<MissingParamType>
+			<errorLevel type="suppress">
+				<file name="models/FrmLocImport.php" />
+			</errorLevel>
+		</MissingParamType>
+		<MissingReturnType>
+			<errorLevel type="suppress">
+				<file name="models/FrmLocImport.php" />
+			</errorLevel>
+		</MissingReturnType>
+	</issueHandlers>
+</psalm>
