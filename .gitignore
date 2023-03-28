@@ -1,0 +1,17 @@
+.DS_Store
+.idea
+.phpintel
+frm.min.js
+languages/formidable-pro-js.pot
+languages/formidable-js.pot
+temp.xml
+.phpunit.result.cache
+
+# Node
+node_modules
+node_modules/*
+npm-debug.log
+
+# Composer
+vendor
+composer.lock

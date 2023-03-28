@@ -1,0 +1,520 @@
+<?php
+
+define( 'MINUTE_IN_SECONDS', 60 );
+define( 'HOUR_IN_SECONDS', 60 * MINUTE_IN_SECONDS );
+define( 'DAY_IN_SECONDS', 24 * HOUR_IN_SECONDS );
+define( 'WEEK_IN_SECONDS', 7 * DAY_IN_SECONDS );
+define( 'MONTH_IN_SECONDS', 30 * DAY_IN_SECONDS );
+define( 'YEAR_IN_SECONDS', 365 * DAY_IN_SECONDS );
+define( 'EMPTY_TRASH_DAYS', 30 );
+define( 'ABSPATH', realpath( __FILE__ . '/../../../../' ) );
+define( 'WP_PLUGIN_DIR', realpath( __FILE__ . '/../' ) );
+define( 'WPINC', 'wp-includes' );
+define( 'OBJECT', 'OBJECT' );
+define( 'OBJECT_K', 'OBJECT_K' );
+define( 'ARRAY_A', 'ARRAY_A' );
+define( 'EP_PAGES', 4096 );
+define( 'EP_PERMALINK', 1 );
+define( 'COOKIEHASH', '' );
+define( 'COOKIE_DOMAIN', false );
+define( 'COOKIEPATH', '/' );
+
+class FrmAddon {
+	public function __construct() {
+	}
+	public function activate_defined_license() {
+	}
+	public function set_active( $is_active ) {
+	}
+	public function clear_license() {
+	}
+}
+
+class FrmAppHelper {
+	public static function permission_check( $permission, $show_message = 'show' ) {
+	}
+	public static function get_param( $param, $default = '', $src = 'get', $sanitize = '' ) {
+	}
+	public static function get_post_param( $param, $default = '', $sanitize = '', $serialized = false ) {
+	}
+	public static function get_localized_date( $date_format, $date ) {
+	}
+	public static function get_settings( $args = array() ) {
+	}
+	public static function is_admin_page( $page = 'formidable' ) {
+	}
+	public static function plugin_path() {
+	}
+	public static function checked( $values, $current ) {
+	}
+	public static function check_selected( $values, $current ) {
+	}
+	public static function truncate( $str, $length, $minword = 3, $continue = '...' ) {
+	}
+	public static function locales( $type = 'date' ) {
+	}
+	public static function simple_get( $param, $sanitize = 'sanitize_text_field', $default = '' ) {
+	}
+	public static function get_admin_header( $atts ) {
+	}
+	public static function esc_textarea( $text, $is_rich_text = false ) {
+	}
+	public static function get_ip_address() {
+	}
+	public static function get_server_value( $value ) {
+	}
+	public static function kses( $value, $allowed = array() ) {
+	}
+	public static function plugin_version() {
+	}
+	public static function plugin_url() {
+	}
+	public static function wp_pages_dropdown( $args = array(), $page_id = '', $truncate = false ) {
+	}
+	public static function wp_roles_dropdown( $field_name, $capability, $multiple = 'single' ) {
+	}
+	public static function maybe_json_decode( $string, $single_to_array = true ) {
+	}
+	public static function is_admin() {
+	}
+	/**
+	 * @param array $args
+	 * @return void
+	 */
+	public static function maybe_autocomplete_pages_options( $args ) {
+	}
+	/**
+	 * @return void
+	 */
+	public static function show_header_logo() {
+	}
+	public static function svg_logo( $atts = array() ) {
+	}
+	public static function icon_by_class( $class, $atts = array() ) {
+	}
+	public static function show_search_box( $atts ) {
+	}
+	/**
+	 * @param string|array $capability
+	 * @return void
+	 */
+	public static function roles_options( $capability ) {
+	}
+	/**
+	 * @return bool
+	 */
+	public static function ips_saved() {
+	}
+	public static function get_formatted_time( $date, $date_format = '', $time_format = '' ) {
+	}
+	/**
+	 * @param array $atts {
+	 *     @type array  $link_hook
+	 *     @type string $new_link
+	 *     @type string $class
+	 *     @type string $button_text
+	 * }
+	 * @return void
+	 */
+	public static function add_new_item_link( $atts ) {
+	}
+	/**
+	 * @param array $atts
+	 * @param bool  $echo
+	 * @return string|void
+	 */
+	public static function array_to_html_params( $atts, $echo = false ) {
+	}
+	/**
+	 * @return string Site URL
+	 */
+	public static function site_url() {
+	}
+	public static function sanitize_value( $sanitize, &$value ) {
+	}
+	/**
+	 * @return bool
+	 */
+	public static function is_preview_page() {
+	}
+	/**
+	 * @return bool
+	 */
+	public static function doing_ajax() {
+	}
+	/**
+	 * @param int $from in seconds
+	 * @param int|string $to in seconds
+	 * @return string $time_ago
+	 */
+	public static function human_time_diff( $from, $to = '', $levels = 1 ) {
+	}
+	/**
+	 * @param mixed $value
+	 * @param string
+	 * @return bool
+	 */
+	public static function is_empty_value( $value, $empty = '' ) {
+	}
+	public static function array_flatten( $array, $keys = 'keep' ) {
+	}
+	/**
+	 * @param array|string $args
+	 * @param string       $page
+	 * @return string
+	 */
+	public static function admin_upgrade_link( $args, $page = '' ) {
+	}
+	/**
+	 * @param Closure $echo_function
+	 * @param bool    $echo
+	 * @return string|void
+	 */
+	public static function clip( $echo_function, $echo = false ) {
+	}
+	/**
+	 * @return string
+	 */
+	public static function js_suffix() {
+	}
+	/**
+	 * @param string $location
+	 * @return void
+	 */
+	public static function localize_script( $location ) {
+	}
+	/**
+	 * @return bool
+	 */
+	public static function on_form_listing_page() {
+	}
+	/**
+	 * @return string
+	 */
+	public static function make_affiliate_url( $url ) {
+	}
+	/**
+	 * @return void
+	 */
+	public static function include_svg() {
+	}
+	/**
+	 * @param array $values
+	 * @param array $keys
+	 * @return array
+	 */
+	public static function maybe_filter_array( $values, $keys ) {
+	}
+	public static function is_not_empty_value( $value, $empty = '' ) {
+	}
+	/**
+	 * @param array|string $value
+	 * @return void
+	 */
+	public static function decode_specialchars( &$value ) {
+	}
+	/**
+	 * @return void
+	 */
+	public static function save_combined_js() {
+	}
+	/**
+	 * @param string $role
+	 * @return bool
+	 */
+	public static function current_user_can( $role ) {
+	}
+	public static function get_user_id_param( $user_id ) {
+	}
+	/**
+	 * @param string $name
+	 * @param string $table_name
+	 * @param string $column
+	 * @param int    $id
+	 * @param int    $num_chars
+	 * @return string
+	 */
+	public static function get_unique_key( $name, $table_name, $column, $id = 0, $num_chars = 5 ) {
+	}
+	/**
+	 * @param string $handle
+	 */
+	public static function script_version( $handle, $default = 0 ) {
+	}
+	/**
+	 * @return void
+	 */
+	public static function unserialize_or_decode( &$value ) {
+	}
+	/**
+	 * @return string
+	 */
+	public static function get_menu_name() {
+	}
+	/**
+	 * @param string|array $needed_role
+	 * @return bool
+	 */
+	public static function user_has_permission( $needed_role ) {
+	}
+	/**
+	 * @param string $val
+	 * @return string
+	 */
+	public static function replace_quotes( $val ) {
+	}
+	public static function use_wpautop( $content ) {
+	}
+	/**
+	 * @param string $table
+	 * @return bool|array
+	 */
+	public static function setup_edit_vars( $record, $table, $fields = '', $default = false, $post_values = array(), $args = array() ) {
+	}
+	/**
+	 * @param string $type
+	 * @return void
+	 */
+	public static function trigger_hook_load( $type, $object = null ) {
+	}
+	/**
+	 * @return void
+	 */
+	public static function remove_get_action() {
+	}
+	/**
+	 * @return bool
+	 */
+	public static function pro_is_installed() {
+	}
+	/**
+	 * @param string $feature
+	 * @return bool
+	 */
+	public static function show_new_feature( $feature ) {
+	}
+	/**
+	 * @param array $post_values
+	 * @return boolean|int
+	 */
+	public static function custom_style_value( $post_values ) {
+	}
+	/**
+	 * @param string $permission
+	 * @return false|string
+	 */
+	public static function permission_nonce_error( $permission, $nonce_name = '', $nonce = '' ) {
+	}
+	/**
+	 * @param string $url
+	 * @param string $expected_extension
+	 * @return bool
+	 */
+	public static function validate_url_is_in_s3_bucket( $url, $expected_extension ) {
+	}
+	/**
+	 * @param string $view
+	 * @return bool
+	 */
+	public static function is_style_editor_page( $view = '' ) {
+	}
+}
+
+class FrmField {
+	// phpcs:ignore WordPress.NamingConventions.ValidFunctionName.MethodNameInvalid
+	public static function getAll( $where = array(), $order_by = '', $limit = '', $blog_id = false ) {
+	}
+	public static function create( $values, $return = true ) {
+	}
+	public static function get_option( $field, $option ) {
+	}
+	// phpcs:ignore WordPress.NamingConventions.ValidFunctionName.MethodNameInvalid
+	public static function getOne( $id, $filter = false ) {
+	}
+	public static function is_option_true( $field, $option ) {
+	}
+	public static function is_option_true_in_object( $field, $option ) {
+	}
+	public static function get_all_for_form( $form_id, $limit = '', $inc_embed = 'exclude', $inc_repeat = 'include' ) {
+	}
+	public static function is_repeating_field( $field ) {
+	}
+	public static function is_no_save_field( $type ) {
+	}
+	public static function get_all_types_in_form( $form_id, $type, $limit = '', $inc_sub = 'exclude' ) {
+	}
+	public static function no_save_fields() {
+	}
+	public static function get_field_type( $field ) {
+	}
+	public static function is_field_type( $field, $is_type ) {
+	}
+	public static function update( $id, $values ) {
+	}
+	public static function is_field_with_multiple_values( $field ) {
+	}
+	public static function get_type( $id, $col = 'type' ) {
+	}
+	/**
+	 * @return bool
+	 */
+	public static function is_multiple_select( $field ) {
+	}
+	/**
+	 * @param array $field
+	 * @return bool
+	 */
+	public static function is_required( $field ) {
+	}
+	public static function is_read_only( $field ) {
+	}
+	public static function is_option_empty( $field, $option ) {
+	}
+	public static function get_option_in_array( $field, $option ) {
+	}
+	public static function get_option_in_object( $field, $option ) {
+	}
+	public static function is_option_true_in_array( $field, $option ) {
+	}
+	public static function maybe_get_field( &$field ) {
+	}
+	/**
+	 * @return void
+	 */
+	public static function delete_form_transient( $form_id ) {
+	}
+	public static function is_option_value_in_object( $field, $option ) {
+	}
+	/**
+	 * @param string|int $id
+	 * @return string
+	 */
+	public static function get_key_by_id( $id ) {
+	}
+	/**
+	 * @param string $key
+	 * @return int
+	 */
+	public static function get_id_by_key( $key ) {
+	}
+	/**
+	 * @param array|object $field
+	 * @return bool
+	 */
+	public static function is_radio( $field ) {
+	}
+	/**
+	 * @param array|object $field
+	 * @return bool
+	 */
+	public static function is_checkbox( $field ) {
+	}
+	/**
+	 * @param array|object $field
+	 * @return bool
+	 */
+	public static function is_image( $field ) {
+	}
+	/**
+	 * @return array
+	 */
+	public static function pro_field_selection() {
+	}
+}
+
+class FrmForm {
+	// phpcs:ignore WordPress.NamingConventions.ValidFunctionName.MethodNameInvalid
+	public static function getOne( $id, $blog_id = false ) {
+	}
+	// phpcs:ignore WordPress.NamingConventions.ValidFunctionName.MethodNameInvalid
+	public static function getAll( $where = array(), $order_by = '', $limit = '' ) {
+	}
+	public static function maybe_get_form( &$form ) {
+	}
+	public static function translatable_strings( $form ) {
+	}
+	/**
+	 * @return array of forms
+	 */
+	public static function get_published_forms( $query = array(), $limit = 999, $inc_children = 'exclude' ) {
+	}
+	/**
+	 * @param array $atts
+	 * @return mixed
+	 */
+	public static function get_option( $atts ) {
+	}
+	/**
+	 * @param string|int $id
+	 * @return int|bool
+	 */
+	public static function destroy( $id ) {
+	}
+	public static function get_admin_params( $form = null ) {
+	}
+	/**
+	 * @param array $values
+	 * @return int|false
+	 */
+	public static function create( $values ) {
+	}
+	/**
+	 * @return int|bool
+	 */
+	public static function update( $id, $values, $create_link = false ) {
+	}
+	/**
+	 * @param string $key
+	 * @return int
+	 */
+	public static function get_id_by_key( $key ) {
+	}
+	/**
+	 * @param int $id
+	 * @return string
+	 */
+	public static function get_key_by_id( $id ) {
+	}
+	/**
+	 * @return void
+	 */
+	public static function clear_form_cache() {
+	}
+	/**
+	 * @return int|bool ID on success or false on failure
+	 */
+	public static function duplicate( $id, $template = false, $copy_keys = false, $blog_id = false ) {
+	}
+	public static function get_params( $form = null ) {
+	}
+	public static function get_current_form_id( $default_form = 'none' ) {
+	}
+}
+
+class FrmXMLHelper {
+	public static function import_xml_now( $xml, $installing_template = false ) {
+	}
+	public static function cdata( $str ) {
+	}
+    /**
+     * @param string $file
+     * @return array
+     */
+    public static function import_xml( $file ) {
+    }
+}
+
+class FrmProXMLHelper {
+    /**
+     * @param string     $path
+     * @param string|int $form_id
+     * @param array      $field_ids
+     * @param int        $entry_key
+     * @param int        $start_row
+     * @param string     $del
+     * @param int        $max
+     * @return int
+     */
+    public static function import_csv( $path, $form_id, $field_ids, $entry_key = 0, $start_row = 2, $del = ',', $max = 250 ) {
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "php-stubs/wordpress-stubs": "^6.1"
+    },
+    "config": {
+		"allow-plugins": {
+			"composer/installers": true,
+			"phpstan/extension-installer": true
+		}
+	}
+}
