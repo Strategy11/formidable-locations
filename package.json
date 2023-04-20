@@ -1,0 +1,25 @@
+{
+	"name": "formidable-locations",
+	"private": true,
+	"scripts": {
+		"build": "echo 'Nothing to build'",
+		"package-plugin": "../formidable/bin/build-plugin.sh formidable-locations",
+		"zip": "../formidable/bin/zip-plugin.sh formidable-locations",
+		"minimize": "echo 'Nothing to minimize'",
+		"set-version": "../formidable/bin/set-version.sh formidable-locations formidable-locations models/FrmLocUpdate",
+		"git-release": "../formidable/bin/git-release.sh formidable-locations formidable-locations",
+		"makepot": "echo 'Do nothing'"
+	},
+	"engines": {
+		"npm": ">=6.0.0"
+	},
+	"dependencies": {
+		"npm": "^6.4.1"
+	},
+	"devDependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Strategy11/formidable-locations.git"
+	},
+	"homepage": "https://formidableforms.com"
+}
