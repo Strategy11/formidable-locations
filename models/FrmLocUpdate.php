@@ -15,7 +15,7 @@ class FrmLocUpdate extends FrmAddon {
 	/**
 	 * @var string
 	 */
-	public $version = '2.02';
+	public $version = '2.03';
 
 	public function __construct() {
 		$this->plugin_file = dirname( dirname( __FILE__ ) ) . '/us_locations.php';

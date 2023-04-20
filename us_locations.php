@@ -5,7 +5,7 @@ Plugin URI: http://strategy11.com/formidable-wordpress-plugin
 Description: Create forms and populate with Countries, states/provinces, and U.S. cities
 Author: Strategy11
 Author URI: http://strategy11.com
-Version: 2.02
+Version: 2.03
 */
 
 /**
