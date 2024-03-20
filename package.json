@@ -8,7 +8,7 @@
 		"minimize": "echo 'Nothing to minimize'",
 		"set-version": "../formidable/bin/set-version.sh formidable-locations us_locations models/FrmLocUpdate",
 		"git-release": "../formidable/bin/git-release.sh formidable-locations formidable-locations",
-		"makepot": "echo 'Do nothing'"
+		"makepot": "wp i18n make-pot . languages/formidable-locations.pot --skip-audit"
 	},
 	"engines": {
 		"npm": ">=6.0.0"
