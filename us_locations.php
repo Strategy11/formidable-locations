@@ -39,4 +39,3 @@ spl_autoload_register( 'frm_loc_forms_autoloader' );
 // Load hooks
 FrmLocHooksController::load_admin_hooks();
 
-add_action( 'plugins_loaded', 'FrmLocAppController::load_lang' );

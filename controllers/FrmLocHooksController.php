@@ -10,6 +10,7 @@ class FrmLocHooksController {
 			return;
 		}
 
+		add_action( 'plugins_loaded', 'FrmLocAppController::load_lang' );
 		add_action( 'admin_init', 'FrmLocAppController::include_updater', 1 );
 		add_action( 'after_plugin_row_formidable-locations/formidable-locations.php', 'FrmLocAppController::min_version_notice' );
 		add_action( 'admin_menu', 'FrmLocAppController::menu', 27 );
