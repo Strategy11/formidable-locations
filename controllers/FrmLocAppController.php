@@ -21,9 +21,18 @@ class FrmLocAppController {
 		$wp_list_table = _get_list_table( 'WP_Plugins_List_Table' );
 		if ( $wp_list_table instanceof WP_List_Table ) {
 			echo '<tr class="plugin-update-tr active"><th colspan="' . absint( $wp_list_table->get_column_count() ) . '" class="check-column plugin-update colspanchange"><div class="update-message">' .
-				esc_html__( 'You are running an outdated version of Formidable. This plugin may not work correctly if you do not update Formidable.', 'formidable' ) .
+				esc_html__( 'You are running an outdated version of Formidable. This plugin may not work correctly if you do not update Formidable.', 'formidable-locations' ) .
 					'</div></td></tr>';
 		}
+	}
+
+	/**
+	 * @since x.x
+	 *
+	 * @return void
+	 */
+	public static function load_lang() {
+		load_plugin_textdomain( 'formidable-locations', false, basename( dirname( __DIR__ ) ) . '/languages/' );
 	}
 
 	/**
@@ -67,8 +76,8 @@ class FrmLocAppController {
 	 */
 	public static function get_submenu_page() {
 		$import_options = array(
-			'countries_states' => __( 'Countries and States/Provinces', 'formidable' ),
-			'states_cities'    => __( 'U.S. States, Counties, and Cities', 'formidable' ),
+			'countries_states' => __( 'Countries and States/Provinces', 'formidable-locations' ),
+			'states_cities'    => __( 'U.S. States, Counties, and Cities', 'formidable-locations' ),
 		);
 
 		$reset_link = wp_nonce_url( add_query_arg( 'reset', 'all' ), 'reset_loc', 'loc_nonce' );
