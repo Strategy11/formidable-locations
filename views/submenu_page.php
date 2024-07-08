@@ -23,7 +23,7 @@
 				</select>
 
 				<p class="submit">
-					<input type="submit" value="<?php esc_attr_e( 'Import Selection', 'formidable' ); ?>" class="button-primary" />
+					<input type="submit" value="<?php esc_attr_e( 'Import Selection', 'formidable-locations' ); ?>" class="button-primary" />
 				</p>
 			</form>
 
