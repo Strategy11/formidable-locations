@@ -1,0 +1,3 @@
+files:
+  - source: /languages/formidable-locations.pot
+    translation: /languages/formidable-locations-%locale_with_underscore%.po
