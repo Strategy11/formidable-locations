@@ -50,14 +50,14 @@ class FrmLocImport {
 
 		$form = FrmForm::getOne( 'frm_loc_list' );
 		if ( ! $form ) {
-			$file = dirname( dirname( __FILE__ ) ) . '/templates/locations-forms.xml';
+			$file = dirname( __DIR__ ) . '/templates/locations-forms.xml';
 			FrmXMLHelper::import_xml( $file );
 		}
 
 		$opts      = get_option( 'frm_usloc_options' );
 		$remaining = self::remaining_count( $opts, $data_to_import );
 
-		include dirname( dirname( __FILE__ ) ) . '/views/importing_page.php';
+		include dirname( __DIR__ ) . '/views/importing_page.php';
 	}
 
 	public static function import_locations_csv( $opts ) {
@@ -113,7 +113,7 @@ class FrmLocImport {
 			}
 
 			// Import states from CSV
-			$filename = dirname( dirname( __FILE__ ) ) . '/locations_data/states.csv';
+			$filename = dirname( __DIR__ ) . '/locations_data/states.csv';
 			$opts['states'] = FrmProXMLHelper::import_csv(
 				$filename,
 				$form_id,
@@ -153,7 +153,7 @@ class FrmLocImport {
 			}
 
 			// Import cities from CSV
-			$filename       = dirname( dirname( __FILE__ ) ) . '/locations_data/us_cities.csv';
+			$filename       = dirname( __DIR__ ) . '/locations_data/us_cities.csv';
 			$opts['cities'] = FrmProXMLHelper::import_csv(
 				$filename,
 				$form_id,
