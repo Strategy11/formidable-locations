@@ -1,0 +1,89 @@
+# Copyright (C) 2024 Strategy11
+# This file is distributed under the same license as the Formidable Locations plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: a2d8bc55ffb2a23897925e74530a7308\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/formidable-locations\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-08T15:56:01+00:00\n"
+"PO-Revision-Date: 2024-07-10 15:46\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: formidable-locations\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: a2d8bc55ffb2a23897925e74530a7308\n"
+"X-Crowdin-Project-ID: 28\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[Strategy11.formidable-locations] master/languages/formidable-locations.pot\n"
+"X-Crowdin-File-ID: 2871\n"
+"Language: fr_FR\n"
+
+#. Plugin Name of the plugin
+#: us_locations.php
+msgid "Formidable Locations"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: us_locations.php
+msgid "http://strategy11.com/formidable-wordpress-plugin"
+msgstr ""
+
+#. Description of the plugin
+#: us_locations.php
+msgid "Create forms and populate with Countries, states/provinces, and U.S. cities"
+msgstr ""
+
+#. Author of the plugin
+#: us_locations.php
+msgid "Strategy11"
+msgstr "Strategy11"
+
+#. Author URI of the plugin
+#: us_locations.php
+msgid "http://strategy11.com"
+msgstr "http://strategy11.com"
+
+#: controllers/FrmLocAppController.php:24
+msgid "You are running an outdated version of Formidable. This plugin may not work correctly if you do not update Formidable."
+msgstr "Vous utilisez une ancienne version de Formidable. Cette extension ne fonctionne pas correctement si vous ne mettez pas à jour Formidable."
+
+#: controllers/FrmLocAppController.php:79
+msgid "Countries and States/Provinces"
+msgstr ""
+
+#: controllers/FrmLocAppController.php:80
+msgid "U.S. States, Counties, and Cities"
+msgstr ""
+
+#: views/importing_page.php:3
+#: views/submenu_page.php:3
+msgid "Locations"
+msgstr ""
+
+#: views/importing_page.php:10
+msgid "Importing Locations"
+msgstr ""
+
+#: views/importing_page.php:12
+msgid "%1$s entries are importing"
+msgstr "%1$s sont importées"
+
+#: views/submenu_page.php:11
+msgid "Which locations would you like to import?"
+msgstr ""
+
+#: views/submenu_page.php:26
+msgid "Import Selection"
+msgstr ""
+
+#: views/submenu_page.php:30
+msgid "Are you sure you want to delete your locations forms and data?"
+msgstr ""
+
+#: views/submenu_page.php:31
+msgid "Reset Locations"
+msgstr ""
+
