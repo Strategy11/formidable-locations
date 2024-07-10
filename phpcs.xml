@@ -31,8 +31,7 @@
 	<rule ref="WordPress.WP.I18n">
 		<properties>
 			<property name="text_domain" type="array">
-				<element value="formidable"/>
-				<element value="formidable-chat"/>
+				<element value="formidable-locations"/>
 			</property>
 		</properties>
 	</rule>

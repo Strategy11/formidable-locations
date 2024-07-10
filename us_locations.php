@@ -6,6 +6,7 @@ Description: Create forms and populate with Countries, states/provinces, and U.S
 Author: Strategy11
 Author URI: http://strategy11.com
 Version: 2.03
+Text Domain: formidable-locations
 */
 
 /**
@@ -15,7 +16,7 @@ Version: 2.03
  * @return void
  */
 function frm_loc_forms_autoloader( $class_name ) {
-	$path = dirname( __FILE__ );
+	$path = __DIR__;
 
 	// Only load Frm classes here
 	if ( ! preg_match( '/^FrmLoc.+$/', $class_name ) ) {
@@ -38,4 +39,3 @@ spl_autoload_register( 'frm_loc_forms_autoloader' );
 
 // Load hooks
 FrmLocHooksController::load_admin_hooks();
-

@@ -86,6 +86,6 @@ class FrmLocAppController {
 			FrmLocImport::reset_import();
 		}
 
-		include_once dirname( dirname( __FILE__ ) ) . '/views/submenu_page.php';
+		include_once dirname( __DIR__ ) . '/views/submenu_page.php';
 	}
 }

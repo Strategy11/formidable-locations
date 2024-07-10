@@ -18,7 +18,7 @@ class FrmLocUpdate extends FrmAddon {
 	public $version = '2.03';
 
 	public function __construct() {
-		$this->plugin_file = dirname( dirname( __FILE__ ) ) . '/us_locations.php';
+		$this->plugin_file = dirname( __DIR__ ) . '/us_locations.php';
 		parent::__construct();
 	}
 
@@ -29,5 +29,4 @@ class FrmLocUpdate extends FrmAddon {
 		add_filter( 'frm_include_addon_page', '__return_true' );
 		new FrmLocUpdate();
 	}
-
 }
