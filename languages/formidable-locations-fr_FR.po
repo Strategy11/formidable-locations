@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2024-07-08T15:56:01+00:00\n"
-"PO-Revision-Date: 2024-07-10 15:46\n"
+"PO-Revision-Date: 2024-07-11 03:52\n"
 "X-Generator: WP-CLI 2.10.0\n"
 "X-Domain: formidable-locations\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -61,7 +61,7 @@ msgstr ""
 #: views/importing_page.php:3
 #: views/submenu_page.php:3
 msgid "Locations"
-msgstr ""
+msgstr "Emplacement"
 
 #: views/importing_page.php:10
 msgid "Importing Locations"
